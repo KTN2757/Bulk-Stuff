@@ -1,0 +1,41 @@
+{
+    "ModSettings": {
+        "enable_lock_slots": {
+            "main": {
+                "keys": "0"
+            },
+            "value": false
+        },
+        "enable_lock_slots_per_server": false,
+        "enable_auto_refill": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_allow_pickup_into_empty": {
+            "value": true
+        }
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        }
+    },
+    "ScrollSettings": {
+        "scroll_auto_pickup_next_for_single": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,4 @@
+#Indium properties file
+#Fri Aug 25 19:40:28 NPT 2023
+always-tesselate-blocks=auto
+ambient-occlusion-mode=auto

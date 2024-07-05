@@ -1,0 +1,15 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Jungle Biome:J:207:128:-34:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Raid Farm:R:-17:128:-8:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pillager Outpost:P:-284:128:131:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ice Biome:I:-217:128:206:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stronghold:S:-99:129:215:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Swamp:S:190:128:182:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ocean:O:7:128:203:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bedrock Broken:B:-7:128:166:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Shulker Farm:S:-30:193:17:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spruce Village:S:103:128:173:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold Farm:G:7:250:118:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Base:N:33:128:169:12:false:0:gui.xaero_default:false:0:0:false
