@@ -28,10 +28,10 @@
     "snapAimPitchOvershoot": false,
     "zoomAdjustMouseSensitivity": true,
     "blockTypeBreakRestrictionWarn": "message",
-    "breakingRestrictionMode": "face",
+    "breakingRestrictionMode": "layer",
     "elytraCameraIndicator": "with_key",
     "entityTypeAttackRestrictionWarn": "message",
-    "placementRestrictionMode": "face",
+    "placementRestrictionMode": "column",
     "hotbarSwapOverlayAlignment": "bottom_right",
     "snapAimMode": "yaw",
     "chatTimeFormat": "[HH:mm:ss]",
@@ -44,7 +44,7 @@
     "customInventoryGuiScale": 2,
     "fastBlockPlacementCount": 2,
     "fastLeftClickCount": 64,
-    "fastRightClickCount": 64,
+    "fastRightClickCount": 1,
     "fillCloneLimit": 10000000,
     "flyDecelerationFactor": 0.4,
     "flySpeedPreset1": 0.01,
@@ -78,7 +78,7 @@
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
     "toolSwitchIgnoredSlots": "",
-    "zoomFov": 23.0
+    "zoomFov": 20.0
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
@@ -215,7 +215,7 @@
     }
   },
   "Internal": {
-    "flySpeedPreset": 3,
+    "flySpeedPreset": 1,
     "gammaValueOriginal": 1.0,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
@@ -733,7 +733,7 @@
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
     "tweakFillCloneLimit": true,
-    "tweakFlySpeed": false,
+    "tweakFlySpeed": true,
     "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
     "tweakGammaOverride": true,

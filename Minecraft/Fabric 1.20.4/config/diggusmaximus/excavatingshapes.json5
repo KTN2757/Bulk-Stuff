@@ -8,5 +8,5 @@
 	// Shape type cycle key, sneak to reverse cycle
 	"cycleKey": "key.keyboard.keypad.2",
 	// Currently selected shape
-	"selectedShape": "HOLE"
+	"selectedShape": "LAYER"
 }

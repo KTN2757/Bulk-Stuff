@@ -34,7 +34,7 @@
     "Hotkeys": {
         "sort_inventory": {
             "main": {
-                "keys": ""
+                "keys": "BUTTON_3"
             }
         }
     }

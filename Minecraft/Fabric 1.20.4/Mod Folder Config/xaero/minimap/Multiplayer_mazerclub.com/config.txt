@@ -1,0 +1,28 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw27,1,0
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$the_end:minecraft$the_end
+dimensionType:minecraft$mazerbox:minecraft$overworld
+dimensionType:minecraft$roomeditor:minecraft$overworld
+dimensionType:minecraft$mushroom:minecraft$overworld
+dimensionType:minecraft$hub:minecraft$overworld
+dimensionType:minecraft$pvp:minecraft$overworld
+dimensionType:minecraft$nofreehit:minecraft$overworld
+dimensionType:minecraft$lobby:minecraft$overworld
+dimensionType:minecraft$ffa:minecraft$overworld
+dimensionType:minecraft$spawn:minecraft$overworld
+dimensionType:minecraft$desert:minecraft$overworld
+dimensionType:minecraft$plain:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$duel:minecraft$overworld
+//server waypoints

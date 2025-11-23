@@ -18,7 +18,7 @@
     "commandDisableFeedback": true,
     "commandFillNoChunkClamp": false,
     "commandUseWorldEdit": false,
-    "customSchematicBaseDirectoryEnabled": false,
+    "customSchematicBaseDirectoryEnabled": true,
     "debugLogging": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
@@ -64,7 +64,7 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "D:\\Minecraft\\SKlauncher\\Fabric 1.19.4\\schematics",
+    "customSchematicBaseDirectory": "/home/kritagya-dahal",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:shears"
@@ -173,7 +173,7 @@
       "keys": ""
     },
     "saveAreaAsSchematicToFile": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,S"
+      "keys": ""
     },
     "schematicEditBreakPlaceAll": {
       "keys": ""
