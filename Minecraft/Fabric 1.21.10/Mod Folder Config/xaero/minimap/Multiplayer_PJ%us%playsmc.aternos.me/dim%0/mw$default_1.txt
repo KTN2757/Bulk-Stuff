@@ -1,0 +1,10 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Slime Farm:S:-4054:193:544:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Swamp:S:-4087:67:647:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mangrove Swamp Biome:M:-5000:79:2800:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Desert Biome:D:-3472:70:3912:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Jungle Biome:J:-1322:63:1757:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Vills:V:-1030:33:437:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Base:B:-993:79:395:10:false:0:gui.xaero_default:false:0:0:false

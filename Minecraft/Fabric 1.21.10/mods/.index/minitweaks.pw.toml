@@ -1,0 +1,16 @@
+filename = 'minitweaks-1.21.10-1.5.4.jar'
+name = 'Minitweaks'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2806561cf06b8e79216ab452a5faa37b817c2234abe72dccd96103b103eb028aa202baafab345d96e89a95168568a6958f6d265c51a2de3fa0048daa8968bfe4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gdCHYfN8/versions/SiiKQdUa/minitweaks-1.21.10-1.5.4.jar'
+
+[update.modrinth]
+mod-id = 'gdCHYfN8'
+version = 'SiiKQdUa'

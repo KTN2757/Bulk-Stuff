@@ -1,0 +1,16 @@
+filename = 'DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar'
+name = 'Distant Horizons'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '1b1b70b7ec6290d152a5f9fa3f2e68ea7895f407c561b56e91aba3fdadef277cd259879676198d6481dcc76a226ff1aa857c01ae9c41be3e963b59546074a1fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uCdwusMi/versions/9Y10ZuWP/DistantHorizons-2.3.6-b-1.21.10-fabric-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'uCdwusMi'
+version = '9Y10ZuWP'

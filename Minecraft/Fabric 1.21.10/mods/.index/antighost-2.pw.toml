@@ -1,0 +1,16 @@
+filename = 'AntiGhost-fabric_1_21-1.21.10.jar'
+name = 'AntiGhost-2'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2e1210094a2a99495816badc959b165f2010f8105122aeec35130d432b3bd3a752e8234e06c661f33e932c41b7fd8d05a5984a0e7e90726a352e8513daffbaa8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aM0sduuY/versions/1FGHvoFr/AntiGhost-fabric_1_21-1.21.10.jar'
+
+[update.modrinth]
+mod-id = 'aM0sduuY'
+version = '1FGHvoFr'

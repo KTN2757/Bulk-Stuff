@@ -1,0 +1,16 @@
+filename = '[1.21.9-10]-preventer-1.2.3-beta2.jar'
+name = 'Preventer'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '565ad5f14d24816c2511d3e2131fa81f8b5fe43de16c67bed36a830da359fb63a9575556aade7a3d14c0d81849df9e26ec2ee4af5ba96d8815eb098c811fa3b6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RK0tTWG1/versions/8nUlcTx2/%5B1.21.9-10%5D-preventer-1.2.3-beta2.jar'
+
+[update.modrinth]
+mod-id = 'RK0tTWG1'
+version = '8nUlcTx2'

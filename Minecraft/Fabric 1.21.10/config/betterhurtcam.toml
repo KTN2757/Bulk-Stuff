@@ -1,0 +1,4 @@
+enabled = false
+multiplier = 0.0
+heartBlink = true
+type = "YAW_BASED"

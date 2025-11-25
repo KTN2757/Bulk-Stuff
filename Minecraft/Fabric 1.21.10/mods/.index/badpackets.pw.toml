@@ -1,0 +1,16 @@
+filename = 'badpackets-fabric-0.10.2.jar'
+name = 'bad packets'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c286f9a9ef62729f285cc1a38d6d6912c87bd44d0528052c1b1616c53e010a797f41ba879d34a31e50f085dc2f1086407773dbe3591d754179898d4ed109b811'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ftdbN0KK/versions/bJjBP5HF/badpackets-fabric-0.10.2.jar'
+
+[update.modrinth]
+mod-id = 'ftdbN0KK'
+version = 'bJjBP5HF'
