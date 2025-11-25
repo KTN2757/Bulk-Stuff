@@ -1,0 +1,1 @@
+{"jarName":"productivetrees-1.21.1-0.7.1.jar","modId":"productivetrees","version":"1.21.1-0.7.1","mixinConfigs":[],"jarJarMods":[{"jarName":"productivelib-1.21.0-0.1.26.jar","modId":"productivelib","version":"1.21.0-0.1.26","mixinConfigs":["productivelib.mixin.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

@@ -1,0 +1,26 @@
+[08:42:12] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[08:42:12] [INIT] Loaded plugins:
+[08:42:12] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[08:42:12] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[08:42:12] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[08:42:12] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[08:42:12] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
+[08:42:12] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[08:42:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[08:42:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[08:42:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[08:42:12] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[08:42:12] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[08:42:12] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[08:42:12] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[08:42:12] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[08:42:12] [INFO] Loaded script client_scripts:RecipeViewer.js in 0.012 s
+[08:42:12] [INFO] client_scripts:recipe_viewer/add_entries.js#4: Loaded Java class 'sonar.fluxnetworks.client.jei.CreatingFluxRecipe'
+[08:42:12] [INFO] client_scripts:recipe_viewer/add_entries.js#5: Loaded Java class 'sonar.fluxnetworks.client.jei.CreatingFluxRecipeCategory'
+[08:42:12] [INFO] Loaded script client_scripts:recipe_viewer/add_entries.js in 0.013 s
+[08:42:12] [INFO] Loaded script client_scripts:recipe_viewer/add_info.js in 0.001 s
+[08:42:12] [INFO] client_scripts:server_sync_banlist.js#6: Loaded Java class 'java.util.HashSet'
+[08:42:12] [INFO] Loaded script client_scripts:server_sync_banlist.js in 0.009 s
+[08:42:12] [INFO] Loaded script client_scripts:tooltips.js in 0.002 s
+[08:42:12] [INFO] Loaded 5/5 KubeJS client scripts in 0.067 s with 0 errors and 0 warnings
+[08:42:28] [INFO] Client resource reload complete!

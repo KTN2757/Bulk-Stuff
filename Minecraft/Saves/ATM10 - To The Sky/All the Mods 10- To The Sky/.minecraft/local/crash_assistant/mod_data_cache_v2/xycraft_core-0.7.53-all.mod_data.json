@@ -1,0 +1,1 @@
+{"jarName":"xycraft_core-0.7.53-all.jar","modId":"xycraft_core","version":"0.7.53","mixinConfigs":["xycraft_core.mixins.json"],"jarJarMods":[{"jarName":"jgrapht-core-1.4.0.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"},{"jarName":"jgrapht-ext-1.4.0.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

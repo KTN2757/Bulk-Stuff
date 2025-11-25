@@ -1,0 +1,6 @@
+/ars-light on
+/skyblock gui
+/ae2things
+/ae2client
+/ae2
+/ae2 channelmode infinite

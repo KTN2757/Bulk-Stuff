@@ -1,0 +1,727 @@
+{
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-08-25 15:24:41 +0545",
+      "has_wct": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-08-25 15:24:41 +0545",
+      "has_wct": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-08-25 15:24:41 +0545",
+      "has_wpt": "2025-08-25 15:24:41 +0545",
+      "has_wct": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-08-25 15:24:41 +0545",
+      "has_wpt": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "exdeorum:core/root": {
+    "criteria": {
+      "in_void_world": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-08-25 15:24:41 +0545"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-08-25 15:24:42 +0545"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-25 15:24:42 +0545"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-08-25 15:24:42 +0545"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-08-25 15:24:42 +0545"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2025-08-25 15:26:30 +0545",
+      "minecraft:forest": "2025-08-25 15:24:43 +0545",
+      "minecraft:lush_caves": "2025-09-03 11:54:34 +0545"
+    },
+    "done": false
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-08-25 15:29:38 +0545"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-08-25 15:29:38 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-25 15:29:38 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-25 15:37:01 +0545"
+    },
+    "done": true
+  },
+  "exdeorum:core/crook": {
+    "criteria": {
+      "craft_crook": "2025-08-25 19:03:20 +0545"
+    },
+    "done": true
+  },
+  "exdeorum:core/silk_worm": {
+    "criteria": {
+      "has_silk_worm": "2025-08-25 19:03:47 +0545"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-08-25 19:08:22 +0545",
+      "bread": "2025-08-27 19:00:21 +0545",
+      "cooked_chicken": "2025-09-03 19:39:32 +0545",
+      "cooked_beef": "2025-08-25 19:14:23 +0545",
+      "tropical_fish": "2025-09-06 08:53:26 +0545",
+      "carrot": "2025-08-30 20:51:42 +0545"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-25 19:08:22 +0545"
+    },
+    "done": true
+  },
+  "exmachinis:root": {
+    "criteria": {
+      "item": "2025-08-25 19:24:36 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-25 19:24:36 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-25 19:30:21 +0545"
+    },
+    "done": true
+  },
+  "exdeorum:core/string_mesh": {
+    "criteria": {
+      "has_string_mesh": "2025-08-25 19:32:38 +0545"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-25 19:51:53 +0545"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-30 20:33:05 +0545",
+      "minecraft:phantom": "2025-08-25 19:51:53 +0545",
+      "minecraft:enderman": "2025-09-03 19:10:06 +0545",
+      "minecraft:spider": "2025-09-04 14:16:35 +0545",
+      "minecraft:zombie": "2025-08-30 20:45:20 +0545",
+      "minecraft:creeper": "2025-08-30 20:33:28 +0545",
+      "minecraft:zombie_villager": "2025-08-30 21:05:46 +0545",
+      "minecraft:ender_dragon": "2025-09-12 09:11:24 +0545"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2025-08-25 19:51:53 +0545"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-25 20:08:16 +0545"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-25 20:11:11 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-08-25 20:11:11 +0545"
+    },
+    "done": true
+  },
+  "actuallyadditions:pickup_coffee": {
+    "criteria": {
+      "coffee_beans": "2025-08-25 20:16:00 +0545"
+    },
+    "done": true
+  },
+  "exdeorum:core/barrel": {
+    "criteria": {
+      "has_barrel": "2025-08-25 20:17:11 +0545"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-08-25 20:31:46 +0545"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-08-25 20:35:41 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-25 20:36:39 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-25 20:48:46 +0545"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-08-25 20:59:32 +0545",
+      "nether_wart": "2025-09-06 09:13:28 +0545",
+      "kelp": "2025-09-10 14:43:43 +0545"
+    },
+    "done": false
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-08-25 21:05:48 +0545"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-08-26 09:29:33 +0545"
+    },
+    "done": true
+  },
+  "constructionstick:template_angel": {
+    "criteria": {
+      "template_angel": "2025-08-26 09:30:38 +0545"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-08-26 09:31:48 +0545"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-08-26 09:31:48 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-08-26 10:17:16 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-26 10:41:36 +0545"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-08-27 19:22:03 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-08-30 19:55:24 +0545"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-08-30 20:22:11 +0545"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-08-30 20:33:05 +0545"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2025-08-30 20:49:05 +0545",
+      "common_legs": "2025-08-30 20:41:52 +0545",
+      "common_feet": "2025-08-30 20:33:45 +0545"
+    },
+    "done": false
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-08-30 20:35:26 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-08-30 20:40:45 +0545",
+      "silicon": "2025-08-30 20:40:19 +0545",
+      "engineering": "2025-08-30 20:40:31 +0545",
+      "logic": "2025-08-30 20:40:36 +0545"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-30 20:47:12 +0545"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_hand": "2025-08-30 20:49:05 +0545"
+    },
+    "done": false
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-09-02 20:57:52 +0545"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-09-03 09:44:04 +0545"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-09-03 11:26:46 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-09-03 12:29:21 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2025-09-03 13:02:05 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2025-09-03 13:03:37 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-09-03 13:08:15 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-09-03 13:09:03 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-09-03 13:30:51 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-09-03 13:49:51 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2025-09-03 13:50:06 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-09-03 19:08:45 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-09-03 19:11:03 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-09-03 19:51:48 +0545"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-03 19:51:53 +0545"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-09-03 19:55:15 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2025-09-05 14:14:24 +0545"
+    },
+    "done": true
+  },
+  "mekanism:moving_blocks": {
+    "criteria": {
+      "unbox": "2025-09-05 14:19:15 +0545",
+      "cardboard_box": "2025-09-05 14:16:40 +0545"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-09-05 19:03:58 +0545"
+    },
+    "done": true
+  },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-09-05 19:09:20 +0545"
+    },
+    "done": true
+  },
+  "exmachinis:flux_sieve": {
+    "criteria": {
+      "has_flux_sieve": "2025-09-06 07:50:56 +0545"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-09-06 09:13:28 +0545"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-09-06 11:16:46 +0545"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-09-06 11:25:21 +0545"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-09-06 11:25:28 +0545"
+    },
+    "done": true
+  },
+  "exmachinis:diamond_upgrade": {
+    "criteria": {
+      "has_diamond_upgrade": "2025-09-07 19:48:19 +0545"
+    },
+    "done": true
+  },
+  "mekanism:alloy_upgrading": {
+    "criteria": {
+      "upgrade": "2025-09-07 20:02:45 +0545"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-09-07 20:17:51 +0545"
+    },
+    "done": true
+  },
+  "minecraft:oritech/overenchanted": {
+    "criteria": {
+      "got_overenchanted": "2025-09-07 20:20:14 +0545"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-09-08 14:27:02 +0545"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2025-09-08 14:27:09 +0545"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-09-08 19:51:55 +0545"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2025-09-08 19:52:06 +0545"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-09-08 19:54:37 +0545"
+    },
+    "done": true
+  },
+  "exmachinis:gold_upgrade": {
+    "criteria": {
+      "has_gold_upgrade": "2025-09-08 20:10:59 +0545"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-08 20:13:08 +0545"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-09-08 20:35:35 +0545"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-08 20:35:35 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-08 20:35:35 +0545"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-09-08 20:35:35 +0545"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_cpu": {
+    "criteria": {
+      "cu": "2025-09-11 20:44:34 +0545"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-11 20:49:09 +0545"
+    },
+    "done": true
+  },
+  "minecraft:oritech/assembler": {
+    "criteria": {
+      "got_assembler": "2025-09-11 20:58:21 +0545"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-11 21:01:46 +0545"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-09-12 09:14:01 +0545",
+      "minecraft:chicken": "2025-09-11 21:47:30 +0545"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-11 21:47:30 +0545"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-09-12 09:11:24 +0545"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-09-12 09:12:06 +0545"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-09-12 09:02:47 +0545"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-09-12 09:04:01 +0545"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-12 09:02:47 +0545"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "kill_ender_dragon": "2025-09-12 09:11:24 +0545"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-12 09:02:47 +0545"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

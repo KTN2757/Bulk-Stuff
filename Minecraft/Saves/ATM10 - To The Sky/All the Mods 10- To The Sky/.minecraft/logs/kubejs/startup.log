@@ -1,0 +1,22 @@
+[08:42:11] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[08:42:11] [INIT] Loaded plugins:
+[08:42:11] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[08:42:11] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[08:42:11] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[08:42:11] [INIT] - thedarkcolour.exdeorum.compat.kubejs.ExDeorumKubeJsPlugin
+[08:42:11] [INIT] - dev.uncandango.kubejstweaks.kubejs.plugin.KJSTPlugin
+[08:42:11] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[08:42:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[08:42:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[08:42:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[08:42:11] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[08:42:11] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[08:42:11] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[08:42:11] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[08:42:11] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[08:42:12] [INFO] Loaded script startup_scripts:constants.js in 0.093 s
+[08:42:12] [INFO] Loaded script startup_scripts:CreativeMenuAdditions.js in 0.0 s
+[08:42:12] [INFO] startup_scripts:CustomAdditions.js#1: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[08:42:12] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.017 s
+[08:42:12] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.011 s
+[08:42:12] [INFO] Loaded 4/4 KubeJS startup scripts in 1.455 s with 0 errors and 0 warnings

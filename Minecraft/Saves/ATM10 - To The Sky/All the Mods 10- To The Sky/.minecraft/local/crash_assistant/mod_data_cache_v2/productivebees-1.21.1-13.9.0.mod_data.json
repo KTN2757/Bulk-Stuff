@@ -1,0 +1,1 @@
+{"jarName":"productivebees-1.21.1-13.9.0.jar","modId":"productivebees","version":"1.21.1-13.9.0","mixinConfigs":["productivebees.mixin.json"],"jarJarMods":[{"jarName":"productivelib-1.21.0-0.1.24.jar","modId":"productivelib","version":"1.21.0-0.1.24","mixinConfigs":["productivelib.mixin.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

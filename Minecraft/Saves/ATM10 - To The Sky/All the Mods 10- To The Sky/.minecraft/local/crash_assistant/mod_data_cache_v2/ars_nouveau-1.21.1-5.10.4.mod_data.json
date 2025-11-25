@@ -1,0 +1,1 @@
+{"jarName":"ars_nouveau-1.21.1-5.10.4.jar","modId":"ars_nouveau","version":"5.10.4","mixinConfigs":["ars_nouveau.mixins.json"],"jarJarMods":[{"jarName":"nuggets-neoforge-1.21-1.0.10.41.jar","modId":"nuggets","version":"1.0.10.41","mixinConfigs":["nuggets.neoforge.mixins.json","nuggets.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

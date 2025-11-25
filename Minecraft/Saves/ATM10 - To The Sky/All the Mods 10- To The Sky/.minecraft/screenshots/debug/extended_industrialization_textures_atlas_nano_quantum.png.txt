@@ -1,0 +1,6 @@
+minecraft:missingno	x=64	y=64	w=16	h=16
+extended_industrialization:shaders/nano_quantum/1	x=0	y=0	w=64	h=32
+extended_industrialization:shaders/nano_quantum/2	x=0	y=32	w=64	h=32
+extended_industrialization:shaders/nano_quantum/3	x=64	y=0	w=64	h=32
+extended_industrialization:shaders/nano_quantum/4	x=64	y=32	w=64	h=32
+extended_industrialization:shaders/nano_quantum/glint	x=0	y=64	w=64	h=32

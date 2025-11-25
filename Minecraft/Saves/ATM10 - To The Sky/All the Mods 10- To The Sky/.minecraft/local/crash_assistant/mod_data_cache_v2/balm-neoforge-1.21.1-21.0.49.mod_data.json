@@ -1,0 +1,1 @@
+{"jarName":"balm-neoforge-1.21.1-21.0.49.jar","modId":"balm","version":"21.0.49","mixinConfigs":["balm.mixins.json","balm.neoforge.mixins.json"],"jarJarMods":[{"jarName":"kuma-api-neoforge-21.0.5+1.21.jar","modId":"kuma_api","version":"21.0.5","mixinConfigs":["kuma_api.neoforge.mixins.json","kuma_api.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}

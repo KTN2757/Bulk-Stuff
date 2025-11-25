@@ -1,0 +1,1 @@
+{"jarName":"CBMultipart-1.21.1-3.5.0.151.jar","modId":"cb_multipart","version":"3.5.0.151","mixinConfigs":["mixins.cbmultipart.json"],"jarJarMods":[{"jarName":"ChickenASM-4.0.0.18.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"},{"jarName":"TraitMixinCompiler-3.0.0.21.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}]}
