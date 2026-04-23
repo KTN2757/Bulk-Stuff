@@ -1,0 +1,9 @@
+{
+  "id" : "445fb0957efb463592671949a550aaec",
+  "name" : "Yan_0",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjQ0MjgxNCwKICAicHJvZmlsZUlkIiA6ICI0NDVmYjA5NTdlZmI0NjM1OTI2NzE5NDlhNTUwYWFlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYW5fMCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MzlkMWEyNWE1MjlmZTQxOWYxYjE0OWZkMzQxNzZiN2Q5MWJiYjMwZGZlNThiNGMwZmFmNTk4NDcyYjgyNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "a9f65b64b7eb4412880a959715e7711b",
+  "name" : "Renegrenade",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjcwNTAzNiwKICAicHJvZmlsZUlkIiA6ICJhOWY2NWI2NGI3ZWI0NDEyODgwYTk1OTcxNWU3NzExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZW5lZ3JlbmFkZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzA1YWI5ZTA3YjM1MDVkYzNlYzExMzcwYzNiZGNlNTU3MGFkMmZiMmI1NjJlOWI5ZGQ5Y2YyNzFmODFhYTQ0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

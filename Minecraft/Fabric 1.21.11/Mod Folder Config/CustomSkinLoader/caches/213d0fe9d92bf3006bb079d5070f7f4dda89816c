@@ -1,0 +1,9 @@
+{
+  "id" : "a19e2e50000b4a24bd1b2c1211cb31d5",
+  "name" : "l3xi_92",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzExNDIyNCwKICAicHJvZmlsZUlkIiA6ICJhMTllMmU1MDAwMGI0YTI0YmQxYjJjMTIxMWNiMzFkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsM3hpXzkyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyMTg1ZGNjNTkzMDRkZTAzY2MwZjY4MzVjZDM2M2NlMDQ0YTk5NDRhYWU2ZWNhNTg0YThkZWZiODk1ZTM5ZDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

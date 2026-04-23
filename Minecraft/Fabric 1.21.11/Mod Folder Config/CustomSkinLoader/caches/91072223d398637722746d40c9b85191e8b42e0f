@@ -1,0 +1,9 @@
+{
+  "id" : "d8be95215aaa42b6b010d5297772504f",
+  "name" : "Justice",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTU0MjYwNSwKICAicHJvZmlsZUlkIiA6ICJkOGJlOTUyMTVhYWE0MmI2YjAxMGQ1Mjk3NzcyNTA0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0aWNlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ4YzkzOGNjNmM4Nzc5NTMxMTRjNWRmNzBhM2I4YTM3YmYxMDQ0YmI1NDVhZDZmNTBhMDk5ZmRjZTVhZTdiNTEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

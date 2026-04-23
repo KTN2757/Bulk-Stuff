@@ -1,0 +1,9 @@
+{
+  "id" : "96cf4acea20147c79a40a152c77390b7",
+  "name" : "PotatoPvp",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjE0MTk2MSwKICAicHJvZmlsZUlkIiA6ICI5NmNmNGFjZWEyMDE0N2M3OWE0MGExNTJjNzczOTBiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb3RhdG9QdnAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIyMDY5OWI3MTViOTcwMjZlNTQ3YjRhOWVkODk4ODc0MWM3MmM3NzdlMTI2NTU0YzVjYTM1NzIwMDE1MDBmZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

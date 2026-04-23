@@ -1,0 +1,9 @@
+{
+  "id" : "bd474031a3f74bbb967f8522b88d73b0",
+  "name" : "Daddy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM4MjE2MjY5NCwKICAicHJvZmlsZUlkIiA6ICJiZDQ3NDAzMWEzZjc0YmJiOTY3Zjg1MjJiODhkNzNiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYWRkeSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOGY3MjBhMTlmMjM5NzZhYjUwYjY1ZGU0MjQ0ZTUxMjBjZjkzNmUwYmE5MjQ5ODc5M2QyNWE0NmYxZWQxYTVkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

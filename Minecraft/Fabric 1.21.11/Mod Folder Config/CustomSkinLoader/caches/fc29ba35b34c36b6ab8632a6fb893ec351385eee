@@ -1,0 +1,9 @@
+{
+  "id" : "12bc60f16cfb45dfb7069a7f5db36ea6",
+  "name" : "Pleyx",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NjM4NDUyMSwKICAicHJvZmlsZUlkIiA6ICIxMmJjNjBmMTZjZmI0NWRmYjcwNjlhN2Y1ZGIzNmVhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGV5eCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NzkyNmU2NDNmNGEyMzAxZDM3NzE2MDFjZTk4YWY5ZWMwMDg0NDgzMTBhMTE1MWVhMDJlNTBmZDFkODkzYzE1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "e80e7091bc2e4a978f5b6a3ba89eed6c",
+  "name" : "flame_rock",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTEyOTUzMCwKICAicHJvZmlsZUlkIiA6ICJlODBlNzA5MWJjMmU0YTk3OGY1YjZhM2JhODllZWQ2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmbGFtZV9yb2NrIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk2M2U3OWMzNjY0OGE0NTAxNjEzOTU0ODEzYmM2YmQ0ZWViOGZhMGEzZTBhZDczOTEzMzg5MDE3MjVkN2YwOGUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

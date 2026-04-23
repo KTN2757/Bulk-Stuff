@@ -1,0 +1,9 @@
+{
+  "id" : "7f938af2d66e4c8aa55b586920cf274c",
+  "name" : "H017",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3OTAzMjU0NywKICAicHJvZmlsZUlkIiA6ICI3ZjkzOGFmMmQ2NmU0YzhhYTU1YjU4NjkyMGNmMjc0YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIMDE3IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhYzZjYTI2MmQ2N2JjZmIzZGJjOTI0YmE4MjE1YTE4MTk1NDk3Yzc4MDA1OGE1NzQ5ZGU2NzQyMTc3MjE4OTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "960253b8c69148c9825344676dc87821",
+  "name" : "_Osirus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjY4MTIyMiwKICAicHJvZmlsZUlkIiA6ICI5NjAyNTNiOGM2OTE0OGM5ODI1MzQ0Njc2ZGM4NzgyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfT3NpcnVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzZTI4ZjE4YjVlNTM5NWM5NTc1NWEyZTU0ODc3MGIwMDIyOTAyZjRkZjVjNDJjOWI2ZWU1ZmE1ODhlZjA4ZjgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

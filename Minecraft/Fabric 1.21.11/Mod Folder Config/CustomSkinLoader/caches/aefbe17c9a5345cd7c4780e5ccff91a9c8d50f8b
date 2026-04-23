@@ -1,0 +1,9 @@
+{
+  "id" : "dbaec09797d144bfbaacc7f788ab0b9b",
+  "name" : "Nigerian_Prince",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5Njg0NTUwNywKICAicHJvZmlsZUlkIiA6ICJkYmFlYzA5Nzk3ZDE0NGJmYmFhY2M3Zjc4OGFiMGI5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWdlcmlhbl9QcmluY2UiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE0NDY0MDhhNWFhMjgwZTNkODU4MzMwMDRhNjY5YmFkYWI4NGMxNjRkNmQ0NDdlZDU2MTU1YmNjZTViODA0ZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "47d2862867fd47f4996368dbe50f088c",
+  "name" : "dasdwasd",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MDY2OTA4NywKICAicHJvZmlsZUlkIiA6ICI0N2QyODYyODY3ZmQ0N2Y0OTk2MzY4ZGJlNTBmMDg4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXNkd2FzZCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

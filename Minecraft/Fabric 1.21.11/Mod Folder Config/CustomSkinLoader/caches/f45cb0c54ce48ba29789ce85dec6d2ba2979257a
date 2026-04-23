@@ -1,0 +1,9 @@
+{
+  "id" : "2c70ac6e62ac428f9e9b7ee55bd8f2b1",
+  "name" : "ddaeng_x",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODM2MzQ5OSwKICAicHJvZmlsZUlkIiA6ICIyYzcwYWM2ZTYyYWM0MjhmOWU5YjdlZTU1YmQ4ZjJiMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZGFlbmdfeCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZDFhOWI1MDAwNjczZTI2YzQ5NjI1YTEyZDVjYzNkYzBlNzNiYTA3MDExYzRmYmEyNzAzNTBlYjA2Y2Y4YjVmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

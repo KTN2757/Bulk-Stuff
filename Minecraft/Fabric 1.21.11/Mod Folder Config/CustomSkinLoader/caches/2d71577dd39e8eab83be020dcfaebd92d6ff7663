@@ -1,0 +1,9 @@
+{
+  "id" : "1029c0c136ec4418b58700c2478aeb85",
+  "name" : "360Wall",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxNzIzMzE1NiwKICAicHJvZmlsZUlkIiA6ICIxMDI5YzBjMTM2ZWM0NDE4YjU4NzAwYzI0NzhhZWI4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICIzNjBXYWxsIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2N2NlODAzMDU2NDQ0NDQzZDA1OTdjYmJiOGVmMmVlYTU4YTNkMzNlYTBmNTI2ODI3ZjhhY2MwZDQ4MDY3YWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

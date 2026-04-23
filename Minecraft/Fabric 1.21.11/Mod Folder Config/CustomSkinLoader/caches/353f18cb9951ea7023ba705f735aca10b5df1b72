@@ -1,0 +1,9 @@
+{
+  "id" : "72ef8db06ffc414ea3d6e8c99005678a",
+  "name" : "Meister96",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODg3Mzk4MSwKICAicHJvZmlsZUlkIiA6ICI3MmVmOGRiMDZmZmM0MTRlYTNkNmU4Yzk5MDA1Njc4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWlzdGVyOTYiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmNDc3ZWIxYTdiZWVlNjMxYzJjYTY0ZDA2ZjhmNjhmYTkzYTMzODZkMDQ0NTJhYjI3ZjQzYWNkZjFiNjBjYiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "c9a86f740ac04d49b5b5f45f6ea01601",
+  "name" : "LunarSilence",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzUwNzI4MiwKICAicHJvZmlsZUlkIiA6ICJjOWE4NmY3NDBhYzA0ZDQ5YjViNWY0NWY2ZWEwMTYwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5hclNpbGVuY2UiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE4Y2M4Y2ZkOTY1OWUzZDlmZjEwNTc3MjQxOTY3NzIzOGQwODc2YWZjM2ZkODgzNTBkMjYyYTg2YmMwMmUyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

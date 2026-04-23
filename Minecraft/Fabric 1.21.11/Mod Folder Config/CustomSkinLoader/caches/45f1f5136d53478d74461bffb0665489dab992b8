@@ -1,0 +1,9 @@
+{
+  "id" : "4c7e0e31dab348cf870f8735cd1b3fcc",
+  "name" : "BeastDam",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxNzY4NzcxMSwKICAicHJvZmlsZUlkIiA6ICI0YzdlMGUzMWRhYjM0OGNmODcwZjg3MzVjZDFiM2ZjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWFzdERhbSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hN2M2ODM0MWZhMzYyYWU0MmU2NmZkN2Q4ZWQ2NzQ3ZTExOTAzNTVhOWMyZjM2NDFmNjE2NjM3ZTM3MmI5NGQ1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

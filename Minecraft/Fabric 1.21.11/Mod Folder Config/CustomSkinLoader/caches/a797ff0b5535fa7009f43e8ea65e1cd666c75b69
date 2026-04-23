@@ -1,0 +1,9 @@
+{
+  "id" : "c6f0d5e698dc497298f6f8c01b316388",
+  "name" : "EvertMC161212",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjE4ODU3NSwKICAicHJvZmlsZUlkIiA6ICJjNmYwZDVlNjk4ZGM0OTcyOThmNmY4YzAxYjMxNjM4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdmVydE1DMTYxMjEyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzNjI0ZmY5MzI2MWMzZjgyZTFhNGY3MGVlYjhiZGU1MDM5YmQ1MzhmY2VkZDZiZTY2MmM3YjhjMTVkZjI1ZmEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

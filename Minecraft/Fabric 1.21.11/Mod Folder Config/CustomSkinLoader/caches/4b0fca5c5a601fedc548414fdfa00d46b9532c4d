@@ -1,0 +1,9 @@
+{
+  "id" : "371453e6475446fe937961ef91964ca5",
+  "name" : "Valorant",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxNjg4NDIyOCwKICAicHJvZmlsZUlkIiA6ICIzNzE0NTNlNjQ3NTQ0NmZlOTM3OTYxZWY5MTk2NGNhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWYWxvcmFudCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ODNmNzkxNDE1NGFjZTczZjQyYzljMDA2MWIxMjE4ZDRlZjE5NThlZGE5NzFmM2Q4NDgwMTNkNzQxOGIxZWMyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

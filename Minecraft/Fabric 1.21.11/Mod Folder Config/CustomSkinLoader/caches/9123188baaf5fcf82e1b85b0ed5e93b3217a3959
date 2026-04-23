@@ -1,0 +1,9 @@
+{
+  "id" : "2d4238faef354a55a38fc019b3eb8d49",
+  "name" : "PRO57",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjgyOTUzNywKICAicHJvZmlsZUlkIiA6ICIyZDQyMzhmYWVmMzU0YTU1YTM4ZmMwMTliM2ViOGQ0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQUk81NyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYWJjODAzMDIyZDgzMDBhYjc1NzhiMTg5Mjk0Y2NlMzk2MjJkOWE0MDRjZGMwMGQzZmVhY2ZkZjQ1YmU2OTgxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

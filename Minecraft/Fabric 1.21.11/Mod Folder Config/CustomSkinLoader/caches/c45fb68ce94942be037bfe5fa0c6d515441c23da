@@ -1,0 +1,9 @@
+{
+  "id" : "2b47ba13f5ed4a0e87d58b740ad4b3b6",
+  "name" : "ratata",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzEzMDUxMCwKICAicHJvZmlsZUlkIiA6ICIyYjQ3YmExM2Y1ZWQ0YTBlODdkNThiNzQwYWQ0YjNiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXRhdGEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTgwNjZkOWY4NjE3NmM4MGJiMWI1MGM1MWIxYjc0MDg5M2MzYmU5ZWQ2MmExMTIwMDVkYTZmOTQ4MjI3YTg4YyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

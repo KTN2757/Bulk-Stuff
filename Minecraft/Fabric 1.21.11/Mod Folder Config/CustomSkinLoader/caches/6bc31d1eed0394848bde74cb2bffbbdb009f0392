@@ -1,0 +1,9 @@
+{
+  "id" : "696a11d492f64576b36ee394b0872f28",
+  "name" : "RPG",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNTk5ODgwMCwKICAicHJvZmlsZUlkIiA6ICI2OTZhMTFkNDkyZjY0NTc2YjM2ZWUzOTRiMDg3MmYyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSUEciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzBhMjViMjk1MWMwMTMwNDI2Njk0NzQ4NjEzMjQ4NTZmZTgxNjYxYTliN2YwNTNiNTg5MDIwZTcyZmRkMDQzOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

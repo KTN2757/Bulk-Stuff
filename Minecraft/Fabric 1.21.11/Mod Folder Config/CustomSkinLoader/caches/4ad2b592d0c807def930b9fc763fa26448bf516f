@@ -1,0 +1,9 @@
+{
+  "id" : "41bf663a76974e779c723b68211d0573",
+  "name" : "Horazy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTk2MDEwOCwKICAicHJvZmlsZUlkIiA6ICI0MWJmNjYzYTc2OTc0ZTc3OWM3MjNiNjgyMTFkMDU3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIb3JhenkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU5N2U0MmE3ZDk2OTRmNGRhOTY4NDY2YTgxMWZkODUxMTVlNzdkZmMzYTViODE1OWZlOGMzZjMyODg5OWQ2MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

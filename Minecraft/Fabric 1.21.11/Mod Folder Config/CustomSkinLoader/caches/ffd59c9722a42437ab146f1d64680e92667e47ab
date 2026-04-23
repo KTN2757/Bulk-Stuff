@@ -1,0 +1,9 @@
+{
+  "id" : "b4853b4671d9482eaa7fab989aaa56d4",
+  "name" : "ppx2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTMxMjEzNCwKICAicHJvZmlsZUlkIiA6ICJiNDg1M2I0NjcxZDk0ODJlYWE3ZmFiOTg5YWFhNTZkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcHgyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjYjNiYTUyZGRkNWNjODJjMGIwNTBjM2Y5MjBmODdkYTM2YWRkODAxNjU4NDZmNDc5MDc5NjYzODA1NDMzZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

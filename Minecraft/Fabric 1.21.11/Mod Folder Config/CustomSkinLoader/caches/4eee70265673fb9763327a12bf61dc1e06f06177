@@ -1,0 +1,9 @@
+{
+  "id" : "400eb67bcd754aa6b0d46c9d3d73e627",
+  "name" : "PurpleDuD",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3OTI3OTczNSwKICAicHJvZmlsZUlkIiA6ICI0MDBlYjY3YmNkNzU0YWE2YjBkNDZjOWQzZDczZTYyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdXJwbGVEdUQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjZjYjM5NWMzODVkNjY0OTAyNDkyOTBmNDgzZDFlYzQyYTkxOTRlZDU3NDhiNzhlYjUzM2NjNWM2ZTliNDRlYSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "1ed0dfaddd8e4aee8c8d01b49cc08b82",
+  "name" : "macbro",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODQ2NjkyNCwKICAicHJvZmlsZUlkIiA6ICIxZWQwZGZhZGRkOGU0YWVlOGM4ZDAxYjQ5Y2MwOGI4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNicm8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU1YjM2MWU4YjRhZmRlZDJkM2QyYmU4MmJiNDQwYzQ3ZDg3ZjNmYzljYTljODhjZWU2Y2EyNjA3YWY3ZDk1OSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

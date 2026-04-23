@@ -1,0 +1,9 @@
+{
+  "id" : "d695f3e2d4624da4a3db01af8c1c44fa",
+  "name" : "notmasao",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjAyMDMwMiwKICAicHJvZmlsZUlkIiA6ICJkNjk1ZjNlMmQ0NjI0ZGE0YTNkYjAxYWY4YzFjNDRmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RtYXNhbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODk2N2NiY2JiNjBhZTVmZTUzNWExMDdhNzMwNDUzNmNhOTNkOGMxY2ZhNjA5MTU3MmNhYTRhYThhNTVlYmM3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

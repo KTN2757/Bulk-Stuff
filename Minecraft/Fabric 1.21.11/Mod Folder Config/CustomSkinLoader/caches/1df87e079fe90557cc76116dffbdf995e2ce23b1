@@ -1,0 +1,9 @@
+{
+  "id" : "4cc4b6644e494dbe976571842dd324f2",
+  "name" : "fire_fragments",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzIwOTcyOCwKICAicHJvZmlsZUlkIiA6ICI0Y2M0YjY2NDRlNDk0ZGJlOTc2NTcxODQyZGQzMjRmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlX2ZyYWdtZW50cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYjIzNTMxZmYxZjIxNjc0N2EwZTY5YTRhMmM2YmUyMmQ0YWI5NTg1Y2U0ZWM4OTNlMTBiODQ4MTdkZmUxOThjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

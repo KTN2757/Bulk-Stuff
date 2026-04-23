@@ -1,0 +1,9 @@
+{
+  "id" : "ed1f850fc4314633b5a760610269bc2b",
+  "name" : "NyxKaori",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MDY2ODMzNiwKICAicHJvZmlsZUlkIiA6ICJlZDFmODUwZmM0MzE0NjMzYjVhNzYwNjEwMjY5YmMyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOeXhLYW9yaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MDZiNDFhYjM5ZDUxOWI4NTNkZjRkYjY2YjEzYTVhZGY5YTJlYWI0MTAzMjRlMzU0YmQxNGM5NzI3MWFjNzUwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

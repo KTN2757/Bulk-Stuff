@@ -1,0 +1,9 @@
+{
+  "id" : "48556fff710e4dc4acbd5e34f272ef90",
+  "name" : "devvr",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NjAyNDk1NSwKICAicHJvZmlsZUlkIiA6ICI0ODU1NmZmZjcxMGU0ZGM0YWNiZDVlMzRmMjcyZWY5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZXZ2ciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzE2MGZiZDE2YWRiYzRiZmYyNDA5ZTcwMTgwZDkxMTAwMmFlYmNmYTgxMWViNmVjM2QxMDQwNzYxYWVhNmRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

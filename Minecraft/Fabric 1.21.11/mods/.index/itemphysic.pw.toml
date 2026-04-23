@@ -1,0 +1,17 @@
+filename = 'ItemPhysic_FABRIC_v1.8.12_mc1.21.11.jar'
+name = 'ItemPhysic'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.12'
+
+[download]
+hash = 'a4ceabbc3c893c2c103c2d4167bebb3762f53e1f48485287c0b5b84bce2ffbcdaac58d747bf92c135b9232adbdcb63765b9462d8b043be7f0709ff2955f25d1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aT8BzaOj/versions/YpzfnuIF/ItemPhysic_FABRIC_v1.8.12_mc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'aT8BzaOj'
+version = 'YpzfnuIF'

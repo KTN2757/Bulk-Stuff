@@ -1,0 +1,9 @@
+{
+  "id" : "2ca88127f8a1465dad5f2faf4e237c8c",
+  "name" : "cakolet",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNzQ4NDYyNiwKICAicHJvZmlsZUlkIiA6ICIyY2E4ODEyN2Y4YTE0NjVkYWQ1ZjJmYWY0ZTIzN2M4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYWtvbGV0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1NDhmYzczYmFmZjlmMzI4MThlMTZjYWJkMjY2NGU3Yjc1OTdhNDgwMjZmNDM1MzNjMjdlZWU4ZmFhY2EzMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

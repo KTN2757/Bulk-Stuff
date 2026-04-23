@@ -1,0 +1,9 @@
+{
+  "id" : "89e0deafbb234a25a54c104bff453532",
+  "name" : "Vsir",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjczODc2NCwKICAicHJvZmlsZUlkIiA6ICI4OWUwZGVhZmJiMjM0YTI1YTU0YzEwNGJmZjQ1MzUzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJWc2lyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmNWYzZDBmM2Q4YmY4ZTJhN2VhNTlhMDkwZDE4ZmIwNTdlZWNiZGQ3OTgzYzdmYWRjZjA2MTMwN2RjYzQzM2UiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "f1dbec69170342abbd6b659fa31a0dcc",
+  "name" : "novia",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzM0MzU1NSwKICAicHJvZmlsZUlkIiA6ICJmMWRiZWM2OTE3MDM0MmFiYmQ2YjY1OWZhMzFhMGRjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3ZpYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YTYyNWJlYjBhODA2ZmM5NDhlYzI4Y2E1MmU5MjMzMzFmOGU4MjhkYmQwMGIxZGZkNzA5MWQ0Y2U2ZTE5OTAzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "6ecce50691f64bd6aefb643d1e692008",
+  "name" : "MS0008",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MjY3NTI3OCwKICAicHJvZmlsZUlkIiA6ICI2ZWNjZTUwNjkxZjY0YmQ2YWVmYjY0M2QxZTY5MjAwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNUzAwMDgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVkZGRiNDFkY2FmZWY2MTZlOTU5YzI4MTc4MDhlMGJlNzQxYzg5ZmZiZmVkMzkxMzRhMTNlNzViODExODYzZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

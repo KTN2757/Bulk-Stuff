@@ -1,0 +1,9 @@
+{
+  "id" : "99fc66f73f5b4f40ad59b227219bf210",
+  "name" : "Edelweisss_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTUwMzIxMDI1MiwKICAicHJvZmlsZUlkIiA6ICI5OWZjNjZmNzNmNWI0ZjQwYWQ1OWIyMjcyMTliZjIxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFZGVsd2Vpc3NzXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NGQzNzZiNWFhOWVmMWI0ZWQyZTljOGIxODUwOGM5ZGQ3NTgwYmIzYmU5MzQ4YmVjODMxM2M0NTE0NmViMmY1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

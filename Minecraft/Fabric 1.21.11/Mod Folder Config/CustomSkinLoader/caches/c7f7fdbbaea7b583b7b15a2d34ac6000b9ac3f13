@@ -1,0 +1,9 @@
+{
+  "id" : "60f888eb377d45b0a8fc4892cbdade43",
+  "name" : "Cityboi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTExNzkyOCwKICAicHJvZmlsZUlkIiA6ICI2MGY4ODhlYjM3N2Q0NWIwYThmYzQ4OTJjYmRhZGU0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaXR5Ym9pIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1M2Y5NGNjYTg3MmI2NDg5OWQ1MTBjMTY4NmIzYzRjZmFkOWE1MTc5NWY1MTM4ZGRhZTMxNzc4ODY3NWVhYyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "4dade30d83704abda337dbc8d72adfcc",
+  "name" : "Xyr_1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODI4NjMwNywKICAicHJvZmlsZUlkIiA6ICI0ZGFkZTMwZDgzNzA0YWJkYTMzN2RiYzhkNzJhZGZjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJYeXJfMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jODdhZmEwYTliZmU5ODVjM2JiYWEyNjFhNDQyMDUyNGY1MGY5N2ZhMzczZTU5YWE5YTNmZThlZjQzNTkwMGE5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "dc8e32a5120a43b483f5ae240751b37d",
+  "name" : "FlameCrits",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxNzAxNzExOCwKICAicHJvZmlsZUlkIiA6ICJkYzhlMzJhNTEyMGE0M2I0ODNmNWFlMjQwNzUxYjM3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGbGFtZUNyaXRzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwYjE3MWZlN2M2OTM3NTU0ZTZkNTViZDVjYTliZjc2MTc0ZTc3ZGVlYWQ2NWI4MWU0ZGE2YzBkNDhkYWY1MjMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

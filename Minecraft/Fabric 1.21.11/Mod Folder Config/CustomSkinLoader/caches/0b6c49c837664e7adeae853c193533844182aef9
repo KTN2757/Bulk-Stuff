@@ -1,0 +1,9 @@
+{
+  "id" : "acd12a6667a54e22bec5e7fc84050eb5",
+  "name" : "DJAD",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTY5NDQ2MiwKICAicHJvZmlsZUlkIiA6ICJhY2QxMmE2NjY3YTU0ZTIyYmVjNWU3ZmM4NDA1MGViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJESkFEIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExNjU1ZTE5NmNiZjc5NmI5MzAxMjBmMjNmNzNhNGE5ZTljOTE2MzkwOTdiMjQ5NWQwMGVkYTE3OWQ0NDdjNjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

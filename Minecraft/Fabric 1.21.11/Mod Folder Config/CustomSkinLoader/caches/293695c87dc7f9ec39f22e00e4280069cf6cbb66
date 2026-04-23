@@ -1,0 +1,9 @@
+{
+  "id" : "3d408ddd370e4034a69f7d83123e653d",
+  "name" : "Sagich",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTk1MTQxNDcxNiwKICAicHJvZmlsZUlkIiA6ICIzZDQwOGRkZDM3MGU0MDM0YTY5ZjdkODMxMjNlNjUzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWdpY2giLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzgxM2FmNzc3NjNkODIwYTcwZTRjMmNiMDE1YzcwMzZhMmQ5MThjN2Y5MzEzNzZlYzhmYjZkZmIwZmNiNTcxYiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

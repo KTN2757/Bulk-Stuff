@@ -1,0 +1,9 @@
+{
+  "id" : "9a092b5c8af64748ab231c5c84708df7",
+  "name" : "MaxYang0604",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjE3MTMzNywKICAicHJvZmlsZUlkIiA6ICI5YTA5MmI1YzhhZjY0NzQ4YWIyMzFjNWM4NDcwOGRmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhZYW5nMDYwNCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NTVkMjZjNGVkYTYxZmMwOTc4NThhMTVkNGRmMDI0ZTM5OGIxYmZlNGZkOGU5Y2EyOTIxMDI3Y2JiNDZkYmVlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

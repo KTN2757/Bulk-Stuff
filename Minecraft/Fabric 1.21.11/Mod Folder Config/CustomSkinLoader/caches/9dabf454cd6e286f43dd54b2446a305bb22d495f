@@ -1,0 +1,9 @@
+{
+  "id" : "12dc9136368f4bf49181a0fd39aee91e",
+  "name" : "intones",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5Nzk4MzA4NCwKICAicHJvZmlsZUlkIiA6ICIxMmRjOTEzNjM2OGY0YmY0OTE4MWEwZmQzOWFlZTkxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbnRvbmVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEzODQwYTFmYjkwMGJlMjExN2I1ZDExZjEzMWYyZDU1NGRjZGY0YmE1ZTUwNDViYzE4OGU1ZjBhN2FjY2IzZTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

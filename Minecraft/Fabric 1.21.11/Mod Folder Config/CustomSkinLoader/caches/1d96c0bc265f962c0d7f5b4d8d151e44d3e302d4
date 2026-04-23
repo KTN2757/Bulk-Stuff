@@ -1,0 +1,9 @@
+{
+  "id" : "63b9747012724d1ab25c49263445fd65",
+  "name" : "yukieh",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjY5NTI0MCwKICAicHJvZmlsZUlkIiA6ICI2M2I5NzQ3MDEyNzI0ZDFhYjI1YzQ5MjYzNDQ1ZmQ2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dWtpZWgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODM2YzQxODg3NzE1NzJjMmY5MTIxMGQzYjUyYzg5ODU5ZjAwMWM1MmNhMjYwZDI2N2RmMzQyMTg2YjQzMDI4MSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

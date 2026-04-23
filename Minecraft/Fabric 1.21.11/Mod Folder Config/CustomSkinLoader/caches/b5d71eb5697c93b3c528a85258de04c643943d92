@@ -1,0 +1,9 @@
+{
+  "id" : "0ed6cb95022e4a2eb1e0f581389c01ee",
+  "name" : "StoneShell",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTYxMzQ3MiwKICAicHJvZmlsZUlkIiA6ICIwZWQ2Y2I5NTAyMmU0YTJlYjFlMGY1ODEzODljMDFlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9uZVNoZWxsIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzYmQxNjA3OWY3NjRjZDU0MWUwNzJlODg4ZmU0Mzg4NWU3MTFmOTg2NTgzMjNkYjBmOWE2MDQ1ZGE5MWVlN2EiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

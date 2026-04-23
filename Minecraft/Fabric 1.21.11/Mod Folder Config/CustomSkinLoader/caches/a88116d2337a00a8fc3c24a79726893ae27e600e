@@ -1,0 +1,9 @@
+{
+  "id" : "6d2c8ed17e6e4b429007760e31b16d72",
+  "name" : "_Blackoutt",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTEyMDEyMiwKICAicHJvZmlsZUlkIiA6ICI2ZDJjOGVkMTdlNmU0YjQyOTAwNzc2MGUzMWIxNmQ3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfQmxhY2tvdXR0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyNmM2MTdmZGU1YjFiYTU2OWFhMDhiZDJjYjZmZDg0YzkzMzM3NTMyYTg3MmIzZWI3YmY2NmJkZDViMzk1ZjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

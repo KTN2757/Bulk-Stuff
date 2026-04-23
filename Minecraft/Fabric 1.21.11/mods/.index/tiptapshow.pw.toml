@@ -1,0 +1,17 @@
+filename = 'tiptapshow-1.6.7+1.21.11.jar'
+name = 'TipTapShow'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.7+1.21.11'
+
+[download]
+hash = 'c975c44b8a6724dd92cb299dd5011502394b424e11a59bd32fd438ced154787ce03a6f0cac941de1614854958902ee24e5c1eb70a938376e45d4dc0f05ee55ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lIQY64qr/versions/vMOQpnf6/tiptapshow-1.6.7%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'lIQY64qr'
+version = 'vMOQpnf6'

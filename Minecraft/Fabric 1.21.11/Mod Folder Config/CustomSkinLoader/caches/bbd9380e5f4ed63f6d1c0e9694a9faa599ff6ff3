@@ -1,0 +1,9 @@
+{
+  "id" : "5e871e2486b8497fae16485ed840e3e0",
+  "name" : "Simply_Sum",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNjYzNDIxOCwKICAicHJvZmlsZUlkIiA6ICI1ZTg3MWUyNDg2Yjg0OTdmYWUxNjQ4NWVkODQwZTNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaW1wbHlfU3VtIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczZDRkNTQ0YjE4YzBhYjA3MzJmOTdmYTdmMzYyZDhmODk3ZWUyNmE5MzQxZDBjMTgzYTJiYjdiM2U2MGI4OWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

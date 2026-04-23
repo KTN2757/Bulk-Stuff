@@ -1,0 +1,9 @@
+{
+  "id" : "999a585ff1034b1ea90577cb54844adb",
+  "name" : "Polygon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MzgwMDQxMCwKICAicHJvZmlsZUlkIiA6ICI5OTlhNTg1ZmYxMDM0YjFlYTkwNTc3Y2I1NDg0NGFkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2x5Z29uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4NGRmNDk4NGNhOTBkYjAwNDE1MzAyOTFhY2NiZmUxZDYyMTU4MTg4NTY2NWFjMzQxM2JlZWJhNTFjNTM1NmYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

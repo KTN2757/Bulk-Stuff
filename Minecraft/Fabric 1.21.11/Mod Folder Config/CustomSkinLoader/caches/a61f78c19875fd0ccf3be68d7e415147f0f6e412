@@ -1,0 +1,9 @@
+{
+  "id" : "d828018a8d7d4c329cf4b68487b8cbbf",
+  "name" : "not_Yathi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTczMDEyMywKICAicHJvZmlsZUlkIiA6ICJkODI4MDE4YThkN2Q0YzMyOWNmNGI2ODQ4N2I4Y2JiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RfWWF0aGkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODAxNWMzYWQ3NjI1NDljNmYwMjg2ZTBkODE5MzgxYmRhNzdiMjgzYTBjZDI1ZGY5YmI1ODY4MjRhNzEzZGYwNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

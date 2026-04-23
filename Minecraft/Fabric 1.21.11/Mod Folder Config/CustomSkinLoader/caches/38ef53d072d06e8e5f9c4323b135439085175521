@@ -1,0 +1,9 @@
+{
+  "id" : "e7992c49eb0d4744bd631278235eb2b6",
+  "name" : "Bunny7870",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTkwMDQxMywKICAicHJvZmlsZUlkIiA6ICJlNzk5MmM0OWViMGQ0NzQ0YmQ2MzEyNzgyMzVlYjJiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdW5ueTc4NzAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGVmZGEyNDU1OTQwNzc3NjU2ZjA4YjhmZjc1ZDQ5ZTA1MmI1YjQ3OGU1MjY1ZjJiOTZmZjYzODM3ZWMwMTBjMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

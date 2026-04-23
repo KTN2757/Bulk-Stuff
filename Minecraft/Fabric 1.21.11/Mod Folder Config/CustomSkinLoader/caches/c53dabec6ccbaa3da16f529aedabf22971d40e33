@@ -1,0 +1,9 @@
+{
+  "id" : "72a31fa9061d4a0bac1e740641cea4b3",
+  "name" : "Riceu",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NTUzOTg0OCwKICAicHJvZmlsZUlkIiA6ICI3MmEzMWZhOTA2MWQ0YTBiYWMxZTc0MDY0MWNlYTRiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWNldSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZWI1Y2YzMGY5NmQ1YzZmYTM2YThlN2U0M2M3OTY4MmIwMTBjOTJjZDIwNDA5YjE3YmZmN2VkZGJmNDNmMDY4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

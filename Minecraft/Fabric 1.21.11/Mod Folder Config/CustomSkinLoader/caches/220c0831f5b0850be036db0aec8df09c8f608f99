@@ -1,0 +1,9 @@
+{
+  "id" : "766da1a188324ad79605956ec05ea837",
+  "name" : "devil_warrior",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxMTQ0NiwKICAicHJvZmlsZUlkIiA6ICI3NjZkYTFhMTg4MzI0YWQ3OTYwNTk1NmVjMDVlYTgzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZXZpbF93YXJyaW9yIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0ZmU2ZTlhYzkyOThiMjM3M2RhNjA4ZmZkZTg0ODBlM2YzNjEyYjE4OWYzOWEzMTJhYTBhNDMwM2I3MDZjNTUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

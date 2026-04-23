@@ -1,0 +1,9 @@
+{
+  "id" : "72de48ca763c44ea92b082d424df817c",
+  "name" : "DIOFan",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjExMjM3MCwKICAicHJvZmlsZUlkIiA6ICI3MmRlNDhjYTc2M2M0NGVhOTJiMDgyZDQyNGRmODE3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJESU9GYW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODcwZTMzMzljM2ZhODFmZjU1MTY3MzRlNDQ5Nzc1ODNiMThmYjNjNWI0OGY3OGVkYTU2MjcxMDk0ODY1NzNlNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

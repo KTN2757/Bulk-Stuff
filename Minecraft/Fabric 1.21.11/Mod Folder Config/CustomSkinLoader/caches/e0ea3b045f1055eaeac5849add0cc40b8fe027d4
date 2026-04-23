@@ -1,0 +1,9 @@
+{
+  "id" : "5835a54ce04144a6a1b99744f5999207",
+  "name" : "CantKill",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MjczNzc1MSwKICAicHJvZmlsZUlkIiA6ICI1ODM1YTU0Y2UwNDE0NGE2YTFiOTk3NDRmNTk5OTIwNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYW50S2lsbCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZDI5YjI0ZjlmNTlkMzM2OTc2YjY4MTI2N2I3MjIzMjkwYTRiZjMzOTE2NjhhNzg3YzU5NGUwMGM1NmM4MzQ5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

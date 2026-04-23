@@ -1,0 +1,9 @@
+{
+  "id" : "bc6c529d9442442e9a2019b32ecbaa32",
+  "name" : "Ngquangha2k11",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MzQ5Mjc2NCwKICAicHJvZmlsZUlkIiA6ICJiYzZjNTI5ZDk0NDI0NDJlOWEyMDE5YjMyZWNiYWEzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZ3F1YW5naGEyazExIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1YWE1MzVjNmEzMDdmZTdlYzAyNjQyMGFkZjc3YjE4MjVhMmFiZTcxYmRhYWZhOWI4YmE3ODhhZGJmYWZiZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

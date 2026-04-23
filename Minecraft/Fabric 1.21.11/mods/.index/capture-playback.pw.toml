@@ -1,0 +1,17 @@
+filename = 'g4mespeed-capture-playback-0.6.0-beta-mc1.21.11.jar'
+name = 'Capture & Playback'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.6.0-beta-mc1.21.11'
+
+[download]
+hash = '2bab43f5e4aaff9663bed9ca0ca3b55be59f73633751dcb296eb5d97084c2f7e07d07d9b57b5434d734146ebea4c40d1e375560f9f78ae6e5981687df40ea472'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ebec9fX9/versions/F8E5MIpL/g4mespeed-capture-playback-0.6.0-beta-mc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'Ebec9fX9'
+version = 'F8E5MIpL'

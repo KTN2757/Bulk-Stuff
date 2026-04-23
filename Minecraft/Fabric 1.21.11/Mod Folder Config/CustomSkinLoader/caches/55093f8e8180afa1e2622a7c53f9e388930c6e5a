@@ -1,0 +1,9 @@
+{
+  "id" : "e5705d9170cf42eebfaef11cd0a798d2",
+  "name" : "Elite_Reaper",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxOTE1MTQ3MSwKICAicHJvZmlsZUlkIiA6ICJlNTcwNWQ5MTcwY2Y0MmVlYmZhZWYxMWNkMGE3OThkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGl0ZV9SZWFwZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNjN2M4ZGU1Y2E3NDhjODJlMzYxZWI1ODJiNmE3YWIyOGVhNTRmOTczNjQ2YjYwNTE2ZTRjM2I1YTkxMGNmNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

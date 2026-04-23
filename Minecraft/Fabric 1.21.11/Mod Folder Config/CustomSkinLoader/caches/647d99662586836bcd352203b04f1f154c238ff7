@@ -1,0 +1,9 @@
+{
+  "id" : "905e312703934e9aa280beede24e9689",
+  "name" : "B4ttery",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwOTE4MzcyNSwKICAicHJvZmlsZUlkIiA6ICI5MDVlMzEyNzAzOTM0ZTlhYTI4MGJlZWRlMjRlOTY4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCNHR0ZXJ5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhOWNiMDBlMmM4NTZiNWIyMjZjNTI5OWYwZDBiMTk4ZTVkMmZkZjQyMzhkOTViMzMwMmE2NzZkOTA2NTIzODIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

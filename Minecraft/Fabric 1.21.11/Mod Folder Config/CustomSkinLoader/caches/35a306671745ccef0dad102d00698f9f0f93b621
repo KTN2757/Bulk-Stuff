@@ -1,0 +1,9 @@
+{
+  "id" : "f88a7b45c0d144ffb9147065fe36f86a",
+  "name" : "doctrinius",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1Mjk1NTgzNiwKICAicHJvZmlsZUlkIiA6ICJmODhhN2I0NWMwZDE0NGZmYjkxNDcwNjVmZTM2Zjg2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkb2N0cmluaXVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

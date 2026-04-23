@@ -1,0 +1,9 @@
+{
+  "id" : "4c68e756739b4f1491a286b22ff868af",
+  "name" : "OneBlock",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcwNTMzMSwKICAicHJvZmlsZUlkIiA6ICI0YzY4ZTc1NjczOWI0ZjE0OTFhMjg2YjIyZmY4NjhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbmVCbG9jayIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YjE1MjA3ZTgzMzQ1MDM2NjM0YTcxYTQyOTMyZjA5ODM4YzUxMDc0YjI0NTcwZjBjZDBiZDQzZGNmNzAxZDkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

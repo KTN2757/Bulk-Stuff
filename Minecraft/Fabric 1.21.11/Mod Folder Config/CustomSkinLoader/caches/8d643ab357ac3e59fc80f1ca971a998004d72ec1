@@ -1,0 +1,9 @@
+{
+  "id" : "f98545b5767047ef92e16132687e3961",
+  "name" : "fluxcore",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODI0NjQzNiwKICAicHJvZmlsZUlkIiA6ICJmOTg1NDViNTc2NzA0N2VmOTJlMTYxMzI2ODdlMzk2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmbHV4Y29yZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYzBmY2ZhZjJhYTA0MGE4M2RjMGRlNGU1NjA1OGQxYmJiMmVhNDAxNTc1MDFmM2U3ZDE1ZGMyNDVlNDkzMDk1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "3908c7c081e94c3db37d3efaa6bd0c17",
+  "name" : "Noname02",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg2MTM1NywKICAicHJvZmlsZUlkIiA6ICIzOTA4YzdjMDgxZTk0YzNkYjM3ZDNlZmFhNmJkMGMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb25hbWUwMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YjhhNjkwMTMxODI2ZmI1YjcyYjcyYWI1OTc1YTVjODgyZmUyYTZhNmU5YjdlOTRlMjFmZWZhY2MxZjQ3YmUzIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

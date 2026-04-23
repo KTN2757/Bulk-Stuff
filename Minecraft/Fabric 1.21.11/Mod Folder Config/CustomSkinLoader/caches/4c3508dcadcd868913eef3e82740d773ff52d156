@@ -1,0 +1,9 @@
+{
+  "id" : "a351c601ec07442e9e2c6f245cbc0fcb",
+  "name" : "Flamexshadow",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjY5MDM5MiwKICAicHJvZmlsZUlkIiA6ICJhMzUxYzYwMWVjMDc0NDJlOWUyYzZmMjQ1Y2JjMGZjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGbGFtZXhzaGFkb3ciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODMyYzM1ZDM1MmUwNmIxNmYwMmZhMzZhY2ZiZjZiZDc0ZGRlZjIyMzI2ODVlZWExZTFiZDM4ODdjNWZiMjE4YyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

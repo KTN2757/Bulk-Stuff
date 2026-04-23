@@ -1,0 +1,9 @@
+{
+  "id" : "9e9f4f61e9c84cca9aa8694d3667879b",
+  "name" : "KaizenMate",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1Mjg5NTU3MSwKICAicHJvZmlsZUlkIiA6ICI5ZTlmNGY2MWU5Yzg0Y2NhOWFhODY5NGQzNjY3ODc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWl6ZW5NYXRlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc0ZjUwYzVjNTEzMTczOGZlMjc2NmU0MjMzNTM5MTYwNzEzNDNiMmYyODgxYTYyNmYyYjRjMDY2MmRjZTIxMzciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

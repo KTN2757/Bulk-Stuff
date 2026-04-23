@@ -1,0 +1,9 @@
+{
+  "id" : "e57dee4f28b54e48b9681f4e73874116",
+  "name" : "Sify_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTkxOTE2NiwKICAicHJvZmlsZUlkIiA6ICJlNTdkZWU0ZjI4YjU0ZTQ4Yjk2ODFmNGU3Mzg3NDExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaWZ5XyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmJlYWEzM2YxY2E2YWZjOGZiMDVlZDBhMzU4NzE2M2VhNjJmODg4MDc5ZGFlODBhNGMyZGFkZjc0ZWY2NGE2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

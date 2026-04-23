@@ -1,0 +1,6 @@
+{
+	isModEnabled: true,
+	isTrueAmountEnabled: true,
+	isAmountOfStacksShown: true,
+	stacksOpacity: 208
+}

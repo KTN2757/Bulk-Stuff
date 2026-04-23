@@ -1,0 +1,9 @@
+{
+  "id" : "2c43da67b54e40b0a6be475ab4bfc080",
+  "name" : "oTigerCqrnes",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjcxMDY5NCwKICAicHJvZmlsZUlkIiA6ICIyYzQzZGE2N2I1NGU0MGIwYTZiZTQ3NWFiNGJmYzA4MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJvVGlnZXJDcXJuZXMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDcyZDAyNWFiODk2YTBkYWU1MjNkMmUzNGRhY2Y2ZmI4ZTgwZmE1YWExYWM5ZDJiZDljNDc5MzI3MzU3NDQxNyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

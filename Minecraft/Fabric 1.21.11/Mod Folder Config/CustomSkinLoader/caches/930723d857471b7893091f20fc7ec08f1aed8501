@@ -1,0 +1,9 @@
+{
+  "id" : "86bb5ca986aa42849d1028794e45f901",
+  "name" : "aerie",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3Njg1NTQ3NCwKICAicHJvZmlsZUlkIiA6ICI4NmJiNWNhOTg2YWE0Mjg0OWQxMDI4Nzk0ZTQ1ZjkwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhZXJpZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNzE5MjZmNWI1Mzg2NDdjNjU0NDRjNzhhZjg4MjY5ODJiZTFjNTE1YmNhNWJkYTI2ZmE2M2QwZGRiYWY0Y2I4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

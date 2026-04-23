@@ -1,0 +1,9 @@
+{
+  "id" : "83c406d39aab4512b3e326854bc28e75",
+  "name" : "buddymc",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NjYxMDM1OSwKICAicHJvZmlsZUlkIiA6ICI4M2M0MDZkMzlhYWI0NTEyYjNlMzI2ODU0YmMyOGU3NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJidWRkeW1jIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhYzZjYTI2MmQ2N2JjZmIzZGJjOTI0YmE4MjE1YTE4MTk1NDk3Yzc4MDA1OGE1NzQ5ZGU2NzQyMTc3MjE4OTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

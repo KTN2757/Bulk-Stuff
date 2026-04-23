@@ -1,0 +1,9 @@
+{
+  "id" : "5823aa1f902c4cd98c300f4554ebd872",
+  "name" : "Seven",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODI4MzEyOCwKICAicHJvZmlsZUlkIiA6ICI1ODIzYWExZjkwMmM0Y2Q5OGMzMDBmNDU1NGViZDg3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXZlbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZTFkZDkyZDhlNWVkZDk0YmI3ZjllNDFiN2I1YTA1OGFjZWNmZTExNjEyZGM4ODZhNzgwMTkwZWFkMDNkY2ExIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

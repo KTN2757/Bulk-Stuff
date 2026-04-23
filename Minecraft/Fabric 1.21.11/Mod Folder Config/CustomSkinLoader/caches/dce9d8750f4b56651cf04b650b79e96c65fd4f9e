@@ -1,0 +1,9 @@
+{
+  "id" : "f3dd3d4472434bde87b47e2e2589d77e",
+  "name" : "vi71",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODg3NDMzOCwKICAicHJvZmlsZUlkIiA6ICJmM2RkM2Q0NDcyNDM0YmRlODdiNDdlMmUyNTg5ZDc3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aTcxIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZlY2U3MDE3YjFiYjEzOTI2ZDExNTg4NjRiMjgzYjhiOTMwMjcxZjgwYTkwNDgyZjE3NGNjYTZhMTdlODgyMzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

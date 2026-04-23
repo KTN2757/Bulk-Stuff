@@ -1,0 +1,9 @@
+{
+  "id" : "d92699493dfb4e33b4b1ad7512b53940",
+  "name" : "ItsNeXt",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjM4Nzc5NiwKICAicHJvZmlsZUlkIiA6ICJkOTI2OTk0OTNkZmI0ZTMzYjRiMWFkNzUxMmI1Mzk0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNOZVh0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyZGExMDMwNDc4MDc0MzUwZDc4NTBlYzcyODk0ZTJkNWE4MWE5MjZhOTBjNDNhYWNmZDFmOTE5NzUxMDMyYTgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

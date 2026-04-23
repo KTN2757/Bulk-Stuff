@@ -1,0 +1,9 @@
+{
+  "id" : "fd82b5ac9b014013a43aa8689713a35e",
+  "name" : "Jagga",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcyMDg4NSwKICAicHJvZmlsZUlkIiA6ICJmZDgyYjVhYzliMDE0MDEzYTQzYWE4Njg5NzEzYTM1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYWdnYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNjZiYzgwZjAwMmIxMDM3MWUyZmEyM2RlNmYyMzBkZDVlMmYzYWZmYzJlMTU3ODZmNjViYzliZTRjNmViNzFhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

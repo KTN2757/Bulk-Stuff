@@ -1,0 +1,9 @@
+{
+  "id" : "d61a95b22d9642738ce4652ba6b0b019",
+  "name" : "hardus1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzUwNTAxNCwKICAicHJvZmlsZUlkIiA6ICJkNjFhOTViMjJkOTY0MjczOGNlNDY1MmJhNmIwYjAxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJoYXJkdXMxIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjNjU2YjgwYzUzM2ZhNzE3NmVhOWI3ZWVjMTRkMGQ0NDVmYWNjZjBjNTljNWYxZTMxZjFkODcyNzQyMjdlMTIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

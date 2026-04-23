@@ -1,0 +1,9 @@
+{
+  "id" : "bb16761e5bf640489da609cf7863324f",
+  "name" : "Ang3lCloud",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTYxMzYwMywKICAicHJvZmlsZUlkIiA6ICJiYjE2NzYxZTViZjY0MDQ4OWRhNjA5Y2Y3ODYzMzI0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmczbENsb3VkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QwZGEwZjE0YTg1YjQzODNjYWFiNGM2NWJlOTBkMzMyNWEzMGIwY2UwNGI2YzA4ODQzODcxMDIwNDkwZDk0N2IiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

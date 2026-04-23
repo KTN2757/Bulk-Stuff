@@ -1,0 +1,9 @@
+{
+  "id" : "2dbf1e2358bc49fe8db36b86492e430e",
+  "name" : "Ponggu_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MjcxMDgwOSwKICAicHJvZmlsZUlkIiA6ICIyZGJmMWUyMzU4YmM0OWZlOGRiMzZiODY0OTJlNDMwZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb25nZ3VfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMTliNTJhYzQxZWIyMmZjZGRkYjhhODBmNTMyOGNhMjg2M2Y5OTNmZWQwZjU2ZWZhYWQ0YzAxODY2YmQ3MDUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

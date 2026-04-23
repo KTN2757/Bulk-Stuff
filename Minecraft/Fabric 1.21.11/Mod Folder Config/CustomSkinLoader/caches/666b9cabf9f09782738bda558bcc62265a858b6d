@@ -1,0 +1,9 @@
+{
+  "id" : "aa5b3b92bfe84beb8f8c5d7d3f149964",
+  "name" : "Blaaa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjcyNDg4NSwKICAicHJvZmlsZUlkIiA6ICJhYTViM2I5MmJmZTg0YmViOGY4YzVkN2QzZjE0OTk2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFhYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMGVlZDU5MWFhNWE4YjJmOWU5ZjIyMGQyNmJkZGUxNWI4ZDQ5MTM0NTRmM2Q4ZTMxZjFjNzAxOTJkMjg0NDVjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

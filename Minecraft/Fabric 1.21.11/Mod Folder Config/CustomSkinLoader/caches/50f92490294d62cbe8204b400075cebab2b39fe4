@@ -1,0 +1,9 @@
+{
+  "id" : "ed14a44078ef4a0c9f346644fcea24f1",
+  "name" : "smashpotato",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4NDI1MjcwMCwKICAicHJvZmlsZUlkIiA6ICJlZDE0YTQ0MDc4ZWY0YTBjOWYzNDY2NDRmY2VhMjRmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbWFzaHBvdGF0byIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGZjOThlOTc3NDI3MDI4Y2U1NDI1MDhjZGUzMmFiM2ZhZWI3ZmU4MmJmYTIwMGVmYTkyZDU5ZTk0YTY2MzMzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "286ef6f52065466cb7de592d21e9bebd",
+  "name" : "Gwalior",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTk5OTU4MSwKICAicHJvZmlsZUlkIiA6ICIyODZlZjZmNTIwNjU0NjZjYjdkZTU5MmQyMWU5YmViZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHd2FsaW9yIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNGQxYTc1YzY5NjBlNjQwN2VmMGE1MzU1MmJhMzk1NTgyNDQ2OWYyYWI5MDI3OTA0MTVlZjdiNDQ0ZGNlNDUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

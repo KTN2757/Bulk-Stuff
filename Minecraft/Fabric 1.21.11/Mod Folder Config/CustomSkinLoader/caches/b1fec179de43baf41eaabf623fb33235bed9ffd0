@@ -1,0 +1,9 @@
+{
+  "id" : "ec48ea80053d485a890c4bc03a035873",
+  "name" : "dragon72",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTQ0OTEzOCwKICAicHJvZmlsZUlkIiA6ICJlYzQ4ZWE4MDA1M2Q0ODVhODkwYzRiYzAzYTAzNTg3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFnb243MiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNzNjMzI3YmNjZjcyYjk0OWY3OGY4YTQ1NWU1OTEzNjEzZTg3NzcxODdlODVmMTEzOGZhNTExYjQ1OGViNzQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

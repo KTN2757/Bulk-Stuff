@@ -1,0 +1,17 @@
+filename = 'carpet-extra-extras-1.21.11-1.3.1.jar'
+name = 'Carpet Extra Extras'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.11-1.3.1'
+
+[download]
+hash = 'ff67ad917eeb7a4b55069a0cf84f0fe7f3118993a823636c7446bb7fd005ab7a4f1c8254fe209cea056962c2bdc3d7dca58cdc0a45ca3f3a4fe768ca422934e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2O3YTVOd/versions/3imiB98N/carpet-extra-extras-1.21.11-1.3.1.jar'
+
+[update.modrinth]
+mod-id = '2O3YTVOd'
+version = '3imiB98N'

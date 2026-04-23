@@ -1,0 +1,9 @@
+{
+  "id" : "94d91cddb6654e7cb5af983efb642d32",
+  "name" : "tylorcraft3687",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTc1MDMyMywKICAicHJvZmlsZUlkIiA6ICI5NGQ5MWNkZGI2NjU0ZTdjYjVhZjk4M2VmYjY0MmQzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0eWxvcmNyYWZ0MzY4NyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85Y2ExNDYzNGQwYjAyNTgwNjA2MGI1NjVlYTE5Yzc1YjhkOGM5NTk1NTEyMzQxM2U5NTgxYTEyYWQ1YTUwN2FmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

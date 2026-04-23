@@ -1,0 +1,9 @@
+{
+  "id" : "7f76721e3cda439496d284afd284c938",
+  "name" : "Nexzuki",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzEzMDMwNSwKICAicHJvZmlsZUlkIiA6ICI3Zjc2NzIxZTNjZGE0Mzk0OTZkMjg0YWZkMjg0YzkzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXh6dWtpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyMDkyODJlMTBmYzA4MTVmZWU5MGEwODRkOWQzOTdjZWMxYzFiZjU1ZjBhYzcxMGQ1MDFkY2JhZmI5MjBlY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

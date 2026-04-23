@@ -1,0 +1,9 @@
+{
+  "id" : "6e69f75b506d4c62972aa29558031da6",
+  "name" : "LittleGuest",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyNzU2MTgzOSwKICAicHJvZmlsZUlkIiA6ICI2ZTY5Zjc1YjUwNmQ0YzYyOTcyYWEyOTU1ODAzMWRhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaXR0bGVHdWVzdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MGFmOTViNDEyNzM5ZGE5ZjYyYTAwOTliODI3NzA1NDFlYzlhMzliNDNjYTk4NjQ2MGNjNmI3ZDRjMGEzMWVhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

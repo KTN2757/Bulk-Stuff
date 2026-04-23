@@ -1,0 +1,9 @@
+{
+  "id" : "9a5b7842246b408183ccdbff8f12a6c7",
+  "name" : "sad_boy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjA2MzEwNywKICAicHJvZmlsZUlkIiA6ICI5YTViNzg0MjI0NmI0MDgxODNjY2RiZmY4ZjEyYTZjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYWRfYm95IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4MWRmZWM0MTRlOTE2MjdmZGIwYmNhNzMxZWI4NTIxMTk0ODBhNzRmMDNmNzJlY2U4MGUyYjczY2EyMDA1NGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

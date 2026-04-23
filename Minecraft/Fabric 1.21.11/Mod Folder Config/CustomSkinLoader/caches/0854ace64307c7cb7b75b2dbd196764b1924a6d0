@@ -1,0 +1,9 @@
+{
+  "id" : "dd7894cccbc9458badedfb81a24979f9",
+  "name" : "Syronzz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcxNjMxMywKICAicHJvZmlsZUlkIiA6ICJkZDc4OTRjY2NiYzk0NThiYWRlZGZiODFhMjQ5NzlmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTeXJvbnp6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliMjJiMjY5YmJiNmFkZTA5OTU0NWEyZWRjYTZhYjBkMTczYmU2OWRjYWQxMzE1YmU4YTdlZjc2NDJlMGYyNzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

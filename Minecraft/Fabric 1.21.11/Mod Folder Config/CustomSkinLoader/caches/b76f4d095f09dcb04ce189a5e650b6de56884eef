@@ -1,0 +1,9 @@
+{
+  "id" : "a8a313bd9c124743bc71ce123c2dfbf9",
+  "name" : "_Amari",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNTkzOTI2NSwKICAicHJvZmlsZUlkIiA6ICJhOGEzMTNiZDljMTI0NzQzYmM3MWNlMTIzYzJkZmJmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfQW1hcmkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg2MmE1YjhlYzY5ZTVhMzczY2MwMWQ0N2ZhMDNlMTBmMDA4ZTBhMzk3OGE5NGY5NWM0OGVkNGVjNDBmNDQ3MCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

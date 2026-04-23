@@ -1,0 +1,9 @@
+{
+  "id" : "21c7cfff58804e43bcc0670437c814db",
+  "name" : "SerenMagisterial",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTM4ODE3MiwKICAicHJvZmlsZUlkIiA6ICIyMWM3Y2ZmZjU4ODA0ZTQzYmNjMDY3MDQzN2M4MTRkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJlbk1hZ2lzdGVyaWFsIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxZDhlNGU4NzEyMzdjYjMxNjVmMjA2ZGM3Mjg5YTM2ZjYyOTBiZmM5ZGM2NTA1ZjRmY2I4ZmY1NjEyOTkwZDEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

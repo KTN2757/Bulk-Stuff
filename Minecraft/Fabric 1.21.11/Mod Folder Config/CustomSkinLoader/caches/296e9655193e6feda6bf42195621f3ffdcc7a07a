@@ -1,0 +1,9 @@
+{
+  "id" : "a15999baf5bb4cd9b61b7a24419f6c44",
+  "name" : "Clancel",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTY3NzQzOSwKICAicHJvZmlsZUlkIiA6ICJhMTU5OTliYWY1YmI0Y2Q5YjYxYjdhMjQ0MTlmNmM0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbGFuY2VsIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZjVkNjI3YWExMDg5NzdmZmI2MjgyYTgxMmU2MThjM2YzODRlNTYwYWFkZjMwM2RhY2E5ZjhhYjI4OWUxYjYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

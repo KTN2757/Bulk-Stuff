@@ -1,0 +1,9 @@
+{
+  "id" : "6589ff912f0748c0b89ed0eb0a40cd8c",
+  "name" : "ItoshiSae_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTU0MzE1NiwKICAicHJvZmlsZUlkIiA6ICI2NTg5ZmY5MTJmMDc0OGMwYjg5ZWQwZWIwYTQwY2Q4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdG9zaGlTYWVfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyYzM3NmNjMDU5YzcwYTIzYmRjZjBiZmVhN2U5MDJjOTRmMTM4M2I3NGQ4YjMxMmQ3ZDk2MjFkMTk5Y2I3ZWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

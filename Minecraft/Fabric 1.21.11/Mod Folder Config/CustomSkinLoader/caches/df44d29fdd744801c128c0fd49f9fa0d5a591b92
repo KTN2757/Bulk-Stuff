@@ -1,0 +1,9 @@
+{
+  "id" : "4afac5fc825d484f9e8d222f216e501c",
+  "name" : "XFlow_FireX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTMxNzE0Mzk1MSwKICAicHJvZmlsZUlkIiA6ICI0YWZhYzVmYzgyNWQ0ODRmOWU4ZDIyMmYyMTZlNTAxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJYRmxvd19GaXJlWCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2MzNzExMTRjNWE1ZmNmYjlmODlhNjk0NDc3ODk0NjM2MGQ0MTVkNmZhMDE3ZDE1ZjJiYWM4ZTVmYTM3NzMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

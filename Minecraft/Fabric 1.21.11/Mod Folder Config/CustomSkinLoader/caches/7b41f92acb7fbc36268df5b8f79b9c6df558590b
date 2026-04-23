@@ -1,0 +1,9 @@
+{
+  "id" : "bcb86e66b3a54fab8479d417d2938461",
+  "name" : "Bek",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3Njg1NDMxNCwKICAicHJvZmlsZUlkIiA6ICJiY2I4NmU2NmIzYTU0ZmFiODQ3OWQ0MTdkMjkzODQ2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWsiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2YxMjdkN2QxMjVlYTcwNzFhMTgwMTVmN2ZhMmI2MjZiODNkNjFlYjQ2Y2Q0ZmE5MzVlNjYwNWRiMDU3YzdjMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

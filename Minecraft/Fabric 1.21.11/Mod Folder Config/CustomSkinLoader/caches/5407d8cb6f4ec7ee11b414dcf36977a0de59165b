@@ -1,0 +1,9 @@
+{
+  "id" : "206aaa359718456fa4031140221051a5",
+  "name" : "BotLobby",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3NDQzOTYwMywKICAicHJvZmlsZUlkIiA6ICIyMDZhYWEzNTk3MTg0NTZmYTQwMzExNDAyMjEwNTFhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3RMb2JieSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YjBkYTM3MThlMTAwYzQzMjI5NzIwODkwMjExZTFiOTNiYzlmYjE1NGQ0Mjg5MWQzYzljMTA4NzJiODYyM2Y1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

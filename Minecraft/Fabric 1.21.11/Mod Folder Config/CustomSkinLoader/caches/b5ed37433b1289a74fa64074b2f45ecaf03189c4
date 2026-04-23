@@ -1,0 +1,9 @@
+{
+  "id" : "0149f70f328648e993dc3316b252a133",
+  "name" : "collinio",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjA1MDgzMSwKICAicHJvZmlsZUlkIiA6ICIwMTQ5ZjcwZjMyODY0OGU5OTNkYzMzMTZiMjUyYTEzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xsaW5pbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYWYzZDg4Y2NiMzhmMTFmNzQ4MTRlOTIwNTNkOTJmNzcyOGRkYjFhNzk1NTY1MmE2MGUzMGNiMjdhZTY2NTlmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

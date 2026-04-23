@@ -1,0 +1,9 @@
+{
+  "id" : "126ba654d401466598e30d1eabf2e3a0",
+  "name" : "ZenithPvP",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjcyNTA2MywKICAicHJvZmlsZUlkIiA6ICIxMjZiYTY1NGQ0MDE0NjY1OThlMzBkMWVhYmYyZTNhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZW5pdGhQdlAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjg2ZGM0YzZmNTI4MzNhZjZjOTJjMmVkMDdhZDVjY2Q5YWU5NDVmMGMzODBiMTM0ZmZmODc5YmJiMWMyNTgwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

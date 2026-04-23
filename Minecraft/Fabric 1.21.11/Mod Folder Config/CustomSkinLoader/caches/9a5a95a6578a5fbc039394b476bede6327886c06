@@ -1,0 +1,9 @@
+{
+  "id" : "a2b2d30af4c84c50be041450f38a7dd1",
+  "name" : "cocasian",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NjYwOTYxNywKICAicHJvZmlsZUlkIiA6ICJhMmIyZDMwYWY0Yzg0YzUwYmUwNDE0NTBmMzhhN2RkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2Nhc2lhbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZGU4NDU2ODZlODhhZTlkZTVhNGFjM2YyZDY2NjVmM2U0ZTAwMTdlZDkxZmFjMmU5MmIwYmU3YjZkMjVhMDhlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

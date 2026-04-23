@@ -1,0 +1,9 @@
+{
+  "id" : "fc9b85dd55bc4a3a9f608b74bf58f8c0",
+  "name" : "DracoX_X",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTUwMzI3OTA0MywKICAicHJvZmlsZUlkIiA6ICJmYzliODVkZDU1YmM0YTNhOWY2MDhiNzRiZjU4ZjhjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFjb1hfWCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYTcyNTU4ZGNjMmM4ODMyZjYzNmI1NGE1MmU2Zjg2NDE4NDBiOTY2ZTE4YWM2ZmQxNjhmMTZiMDA5Yjg3ZjU4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "9e4f6053ddc84cddb058d7566ff86030",
+  "name" : "eftb",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcwNDg4OSwKICAicHJvZmlsZUlkIiA6ICI5ZTRmNjA1M2RkYzg0Y2RkYjA1OGQ3NTY2ZmY4NjAzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZnRiIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY0NGFjNDliN2ZmZTJhZTNhM2JjMjVmMzNkMjM5MDNkMmIxZTFjY2FiMzVlOTFhYWU5ODBiN2IxMjNlOWQzZDEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

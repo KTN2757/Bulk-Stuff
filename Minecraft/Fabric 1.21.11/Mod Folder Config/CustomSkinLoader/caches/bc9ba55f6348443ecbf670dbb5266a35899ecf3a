@@ -1,0 +1,9 @@
+{
+  "id" : "876793e8e6ed415a9871bcfec570b0a0",
+  "name" : "Dinostar_26",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTMyMjAwOCwKICAicHJvZmlsZUlkIiA6ICI4NzY3OTNlOGU2ZWQ0MTVhOTg3MWJjZmVjNTcwYjBhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaW5vc3Rhcl8yNiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODE2MTZjZGRmOGU4ODAwMDFlYTFiYWE2Mjk3ODM4NDllOWY4NWQzMDAzMTA3YjkzNzVmNGI2MzI4ZDU0NDVlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

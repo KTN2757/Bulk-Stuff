@@ -1,0 +1,9 @@
+{
+  "id" : "7e3e86c9fb4c4fba82f24d38acd3828a",
+  "name" : "BlackMan",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MzQ4MDAxNywKICAicHJvZmlsZUlkIiA6ICI3ZTNlODZjOWZiNGM0ZmJhODJmMjRkMzhhY2QzODI4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja01hbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMjYzN2ZhMzcyZjYxMjNmYjkyNTExNDA0ZmRlMzdmNGYyZTkzMTRmNzVlMjI0MTQxNThjNzc0YTI5N2I1YzllIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

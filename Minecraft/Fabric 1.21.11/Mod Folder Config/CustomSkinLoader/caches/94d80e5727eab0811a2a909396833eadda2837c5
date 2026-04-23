@@ -1,0 +1,9 @@
+{
+  "id" : "04e2e6a8ecda48628368603dab9f61f0",
+  "name" : "monster1120",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNTI2MTQ3NiwKICAicHJvZmlsZUlkIiA6ICIwNGUyZTZhOGVjZGE0ODYyODM2ODYwM2RhYjlmNjFmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb25zdGVyMTEyMCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYzBmY2ZhZjJhYTA0MGE4M2RjMGRlNGU1NjA1OGQxYmJiMmVhNDAxNTc1MDFmM2U3ZDE1ZGMyNDVlNDkzMDk1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "c15681cbb5b84220b1796c4bd3f4e0e4",
+  "name" : "Rules",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxODk0NDYzMCwKICAicHJvZmlsZUlkIiA6ICJjMTU2ODFjYmI1Yjg0MjIwYjE3OTZjNGJkM2Y0ZTBlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdWxlcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZDJkZWU2NzE1YjBlMjNkYzZmZDkwYTdiY2M4MDVlNjdiYzkzOWFmZjc1ZGM3NTczM2VlMzVhZWM4Y2IxYjNjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

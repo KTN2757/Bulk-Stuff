@@ -1,0 +1,9 @@
+{
+  "id" : "3869fbacbf824a32874b5f781c3d34c9",
+  "name" : "Pixel67",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTE0ODk0MzcwMCwKICAicHJvZmlsZUlkIiA6ICIzODY5ZmJhY2JmODI0YTMyODc0YjVmNzgxYzNkMzRjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaXhlbDY3IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1Yzg5NDFmYzFmOTA0NjExN2IxNDA0NWM5NWFjNjZlYmI1MjJkYmQ3MGFhZDlmNzYyZjk4YjkwZjFkYTFlZDIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

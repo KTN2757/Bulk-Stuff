@@ -1,0 +1,9 @@
+{
+  "id" : "544f2316737648bfbd6500a8f0ab5ef3",
+  "name" : "kyro_playz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkzMzE3MSwKICAicHJvZmlsZUlkIiA6ICI1NDRmMjMxNjczNzY0OGJmYmQ2NTAwYThmMGFiNWVmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJreXJvX3BsYXl6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2MjIyNjJmNzMzZDk4NGExNTg0OTJiZTVjY2MxYzU2MzI2YmQxOTRhYTAwZWM5MzljNGI1MjQ3YTExNjk2NTMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

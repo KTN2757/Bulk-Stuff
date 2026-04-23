@@ -1,0 +1,9 @@
+{
+  "id" : "8354c2960f2e48f8b07cb1548958efd0",
+  "name" : "shox",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcxNjk0NiwKICAicHJvZmlsZUlkIiA6ICI4MzU0YzI5NjBmMmU0OGY4YjA3Y2IxNTQ4OTU4ZWZkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaG94IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhNjU3N2ZiYjk2NzFmYmEzMTRkMzFhODYxYmZjZjdlNDUyMDI5MDc4MzRhOTg5NjA5ZGNlYmRiZmU3ZmRjOGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

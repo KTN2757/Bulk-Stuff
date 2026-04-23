@@ -1,0 +1,9 @@
+{
+  "id" : "ec5ff21dc1c04d7f87f2b000ff41d27a",
+  "name" : "coconut",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTE3NDEyNiwKICAicHJvZmlsZUlkIiA6ICJlYzVmZjIxZGMxYzA0ZDdmODdmMmIwMDBmZjQxZDI3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2NvbnV0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiODVkYmIzN2Q1MDZiMDVjMWUxMDMzNDhmMzcwM2VjYWMxNzg1ZjJlMTNiZmI5YjMzMzIxNWIwOTI5Yjc0MDMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

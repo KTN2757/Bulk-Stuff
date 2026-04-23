@@ -1,0 +1,9 @@
+{
+  "id" : "2f87c641722c4b82b8c81333b5c20e21",
+  "name" : "Blue_Demon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTgyNDA4MiwKICAicHJvZmlsZUlkIiA6ICIyZjg3YzY0MTcyMmM0YjgyYjhjODEzMzNiNWMyMGUyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX0RlbW9uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y0OTAwOTU2OTU1ODg3ODZkYzY2NDE2M2MxMDFmYjE2ZWM5MzE2YzI5MDlmZTM5ZDJjODMyNjM5OGFlNzAwNTMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

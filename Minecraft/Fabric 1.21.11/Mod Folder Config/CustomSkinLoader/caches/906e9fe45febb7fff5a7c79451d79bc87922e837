@@ -1,0 +1,9 @@
+{
+  "id" : "dcee7c7e04e547e985b14d182bbd1da8",
+  "name" : "xabi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODM2NDE5OSwKICAicHJvZmlsZUlkIiA6ICJkY2VlN2M3ZTA0ZTU0N2U5ODViMTRkMTgyYmJkMWRhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4YWJpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzOWM4MTcwZWFhMDFkNzBkMzk3NGZhYWJmYWJkZjI1NWM4ODRhNWViOTVhOTc5MWZkODM3MDFhN2QxMDU5OWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

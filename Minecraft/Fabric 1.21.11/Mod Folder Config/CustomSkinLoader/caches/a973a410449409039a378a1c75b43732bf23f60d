@@ -1,0 +1,9 @@
+{
+  "id" : "1f2d5231b1e64d739c935d28fd1621cc",
+  "name" : "Komedy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkyMjY0MCwKICAicHJvZmlsZUlkIiA6ICIxZjJkNTIzMWIxZTY0ZDczOWM5MzVkMjhmZDE2MjFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLb21lZHkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVjNGVlNWNlMjBhZWQ5ZTMzZTg2NmM2NmNhYTM3MTc4NjA2MjM0YjM3MjEwODRiZjAxZDEzMzIwZmIyZWIzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

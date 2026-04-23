@@ -1,0 +1,9 @@
+{
+  "id" : "9f5051aa30614541bf1bdf3a4f8feb49",
+  "name" : "King_ZY",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg3Mjk4NSwKICAicHJvZmlsZUlkIiA6ICI5ZjUwNTFhYTMwNjE0NTQxYmYxYmRmM2E0ZjhmZWI0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaW5nX1pZIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyYmM3ODg0NGMzMThiNzkzZTZkMWU5NmM2OTE5ZTEzNDc0OTdkY2Y2YTc0NGU0YjgzOTYyYmVmMzkzYmIwNTkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

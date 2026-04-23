@@ -1,0 +1,9 @@
+{
+  "id" : "baaafd87b5c2470d9238af4417b0e1f3",
+  "name" : "kenosis",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTY5ODAzNCwKICAicHJvZmlsZUlkIiA6ICJiYWFhZmQ4N2I1YzI0NzBkOTIzOGFmNDQxN2IwZTFmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJrZW5vc2lzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmNmIxYTA4ZmMwMmM3NGM1YzYzMWI2MDRhMzIyYjFhYTE1ZTdjMWVjY2M3MmZlNDI2OTY4OTYxYTMwOTAyZTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

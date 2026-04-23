@@ -1,0 +1,9 @@
+{
+  "id" : "6d99caf725294c92af11d0fc73b735ae",
+  "name" : "Immortal_Angel",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjU2ODMzMywKICAicHJvZmlsZUlkIiA6ICI2ZDk5Y2FmNzI1Mjk0YzkyYWYxMWQwZmM3M2I3MzVhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbW1vcnRhbF9BbmdlbCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYWYzZDg4Y2NiMzhmMTFmNzQ4MTRlOTIwNTNkOTJmNzcyOGRkYjFhNzk1NTY1MmE2MGUzMGNiMjdhZTY2NTlmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

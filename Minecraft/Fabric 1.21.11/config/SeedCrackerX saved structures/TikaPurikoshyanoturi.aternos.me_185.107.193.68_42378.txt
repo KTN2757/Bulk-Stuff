@@ -1,0 +1,10 @@
+jungle_pyramid;-242;-478
+pillager_outpost;-313;-670
+null;-25;13
+null;-94;-30
+null;-132;-150
+null;355;615
+shipwreck;363;619
+shipwreck;-249;-541
+shipwreck;-270;-573
+shipwreck;362;628

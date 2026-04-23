@@ -1,0 +1,9 @@
+{
+  "id" : "ea67c84bd0984e0198f42b21a654d1fb",
+  "name" : "GOOS_Eternal",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4NDI0MTM3NywKICAicHJvZmlsZUlkIiA6ICJlYTY3Yzg0YmQwOTg0ZTAxOThmNDJiMjFhNjU0ZDFmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT09TX0V0ZXJuYWwiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWFlNTg3YTBmMDYxYmNiZGU3NmM2YjU2NGQxYzYzZDhmMzA0YjRlOTNhMjE5ZjYwMDAzNTQ3Yjc0YWZmNWJkNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

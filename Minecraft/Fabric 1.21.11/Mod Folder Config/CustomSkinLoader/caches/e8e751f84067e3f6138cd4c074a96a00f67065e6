@@ -1,0 +1,9 @@
+{
+  "id" : "956adbc2c80a4a6983447233c13b5395",
+  "name" : "RZL",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1Mjk2NzUyNCwKICAicHJvZmlsZUlkIiA6ICI5NTZhZGJjMmM4MGE0YTY5ODM0NDcyMzNjMTNiNTM5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSWkwiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJmYTUyMjdlZTI2M2M3ZGFlZDk2MTNjMGE5ZjgxYjQ2MzUyNTdhMjcxMTc2YzNiYzAzMWE2OTc1NTQyNjZmOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

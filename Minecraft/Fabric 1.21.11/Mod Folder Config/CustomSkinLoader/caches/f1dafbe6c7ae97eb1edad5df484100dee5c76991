@@ -1,0 +1,9 @@
+{
+  "id" : "3cca375249ca42979c3aaf2d649f14e4",
+  "name" : "SnapTrapMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MzA1NDcxMywKICAicHJvZmlsZUlkIiA6ICIzY2NhMzc1MjQ5Y2E0Mjk3OWMzYWFmMmQ2NDlmMTRlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwVHJhcE1DIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliNWRiN2RkNzc2MWI5OWQyYWVlMDZjMzVjMmNiZDRjMTM1NjA4NDI2NzFiY2IwYTcxZmU2NzE4YTlhN2E1ZjAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

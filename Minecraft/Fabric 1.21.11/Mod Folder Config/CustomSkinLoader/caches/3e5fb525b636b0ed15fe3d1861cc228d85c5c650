@@ -1,0 +1,9 @@
+{
+  "id" : "2745456105354e71b9287c22bd2c6bb1",
+  "name" : "_baru",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODA3Nzg5OCwKICAicHJvZmlsZUlkIiA6ICIyNzQ1NDU2MTA1MzU0ZTcxYjkyODdjMjJiZDJjNmJiMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfYmFydSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmYxZTAxYTg4MmU5NTlhNjc1MDg3NGVlYzllMzhkMjRiMjQ2NGQ2MjU5ZjBjYWRmMzhkNjkxMzliYzE4ZThhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

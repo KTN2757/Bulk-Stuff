@@ -1,0 +1,17 @@
+filename = 'AmbientSounds_FABRIC_v6.3.4_mc1.21.11.jar'
+name = 'AmbientSounds'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '6.3.4'
+
+[download]
+hash = '6d0d51ba57af4ab7c5b6f08c9d2ea453cefb83ae874b290894608633eac0bbb3eadcc07fba5ce8e12e2d2a8b04d7b3bddea9de6b30a5cc667df894fe946c2531'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fM515JnW/versions/cgDWHFGZ/AmbientSounds_FABRIC_v6.3.4_mc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'fM515JnW'
+version = 'cgDWHFGZ'

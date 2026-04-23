@@ -1,0 +1,9 @@
+{
+  "id" : "3293e42063b1437bbea9a4d80e234f76",
+  "name" : "Kryzix",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNzQ3MDA5MCwKICAicHJvZmlsZUlkIiA6ICIzMjkzZTQyMDYzYjE0MzdiYmVhOWE0ZDgwZTIzNGY3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcnl6aXgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiY2EwMDNmNDE0YzM2OGRhNDBmYjgxOWQ2ZTM3ZmY2NmIwN2ZkMjY5NjQ0MjZhODU4ZTY0Y2Y1NDQ5MDI3NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

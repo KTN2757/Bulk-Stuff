@@ -1,0 +1,9 @@
+{
+  "id" : "ec6fdbef36e34c06988967fb2047522d",
+  "name" : "VoidCrusher_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MjA0NzMxOSwKICAicHJvZmlsZUlkIiA6ICJlYzZmZGJlZjM2ZTM0YzA2OTg4OTY3ZmIyMDQ3NTIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2lkQ3J1c2hlcl8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzcxOTQ2ODMzYzdkN2JkMzk2NjJkMjY2NGY1ZTFmZDUxZTM3YTRlODdjYjQ2ZmNkZTFjY2E2YjkyYjNkMWIzMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

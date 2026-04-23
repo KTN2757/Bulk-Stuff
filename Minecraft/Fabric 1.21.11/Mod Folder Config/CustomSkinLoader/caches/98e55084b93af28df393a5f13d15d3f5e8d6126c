@@ -1,0 +1,9 @@
+{
+  "id" : "61cfb23d81ba4cf382781bc0db4045f9",
+  "name" : "NightShadeX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODE1OTM3MiwKICAicHJvZmlsZUlkIiA6ICI2MWNmYjIzZDgxYmE0Y2YzODI3ODFiYzBkYjQwNDVmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWdodFNoYWRlWCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTg4ZjBmNTFlNzhmMmE4MzY5YTkwNTgyOWQ2ZTBkZWFkODhmYWM5ZDczNWU0M2IyY2QzZTM2NTk2NjAwNmNhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

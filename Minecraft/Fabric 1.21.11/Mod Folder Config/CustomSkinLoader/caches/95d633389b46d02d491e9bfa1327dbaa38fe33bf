@@ -1,0 +1,9 @@
+{
+  "id" : "5a43993bdeab45a7a5d62323c42d2f86",
+  "name" : "Leon_Bonzay",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NjI1NzMyNSwKICAicHJvZmlsZUlkIiA6ICI1YTQzOTkzYmRlYWI0NWE3YTVkNjIzMjNjNDJkMmY4NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW9uX0JvbnpheSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NDJjZGUyZDQ0YWU0OWQwNTQzYTNjNDMyODA0YTgxMDgxMTlmNmZkODk1NWQwM2FjNGJkMjNlZjZkYThkYjliIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

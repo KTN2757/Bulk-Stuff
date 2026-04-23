@@ -1,0 +1,9 @@
+{
+  "id" : "c030fae32b5f4d4296f5e21c2ec7856c",
+  "name" : "Medames",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5NzUyMjc2MywKICAicHJvZmlsZUlkIiA6ICJjMDMwZmFlMzJiNWY0ZDQyOTZmNWUyMWMyZWM3ODU2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWRhbWVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5NWFiNzdjYjU4OTUxMTY2MzdkYjA1ZTE1YmFhYzYzODkwYzAwODg0ZGE3Y2EwYTU0NDRmYjgwNjViYTIyNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

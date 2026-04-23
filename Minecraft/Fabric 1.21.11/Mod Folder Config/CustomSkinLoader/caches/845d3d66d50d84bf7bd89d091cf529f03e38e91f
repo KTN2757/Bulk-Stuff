@@ -1,0 +1,9 @@
+{
+  "id" : "5bdb1170a043449a9b590a4103a02af7",
+  "name" : "otto67",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODkxNTM3MCwKICAicHJvZmlsZUlkIiA6ICI1YmRiMTE3MGEwNDM0NDlhOWI1OTBhNDEwM2EwMmFmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJvdHRvNjciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTIzMzg0MjJlMDYxOTdmMDVjOTQ4MzU2MjMyOGQ2MTIxZjFlY2M0NTVjNzVkNzkxZjU2Y2Y4Yjk1NmJiMDY3NSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "cbc00e201efa418ca7ad23ee37bcf255",
+  "name" : "Factions",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcwNjYwOSwKICAicHJvZmlsZUlkIiA6ICJjYmMwMGUyMDFlZmE0MThjYTdhZDIzZWUzN2JjZjI1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWN0aW9ucyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYTI0NWY3NjQ3NTMyODUyNTNlNThhMTI3MTMzNzljZTgxYjIyNWI4M2JmOWU1MDIwMzBhNjJkNDEzM2JjMGEyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

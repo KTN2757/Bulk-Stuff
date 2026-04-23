@@ -1,0 +1,9 @@
+{
+  "id" : "504841430b90428d8b856197692944b5",
+  "name" : "Crabslab",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODI1NDUyNSwKICAicHJvZmlsZUlkIiA6ICI1MDQ4NDE0MzBiOTA0MjhkOGI4NTYxOTc2OTI5NDRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmFic2xhYiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yN2VhNWVjOGUyMzdkNWQzNTY0ZjczZGNkNTEwM2RjYTc2YzJhMzU3YmQ2ZmJmZmMzOWI1MGI1YThmNmUyZGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

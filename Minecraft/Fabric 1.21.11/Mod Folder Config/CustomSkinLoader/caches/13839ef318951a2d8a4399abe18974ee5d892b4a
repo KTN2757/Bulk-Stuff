@@ -1,0 +1,9 @@
+{
+  "id" : "5a960b99b764446ca8968d158a5fbd5a",
+  "name" : "ShadowFyre",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxOTA2MCwKICAicHJvZmlsZUlkIiA6ICI1YTk2MGI5OWI3NjQ0NDZjYTg5NjhkMTU4YTVmYmQ1YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFkb3dGeXJlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMTk0MGM5ZmY2MDQ5OGIzYmJlMGUwNjkxMTZjN2YyMGEwNjYzN2RkZTE3NDUwNWNiYmFiNzZhMTcyODE4NTMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

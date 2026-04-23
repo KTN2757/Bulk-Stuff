@@ -1,0 +1,9 @@
+{
+  "id" : "79315bb19c944050b756a786eb53fa67",
+  "name" : "Xeynor",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTkwNzIzNSwKICAicHJvZmlsZUlkIiA6ICI3OTMxNWJiMTljOTQ0MDUwYjc1NmE3ODZlYjUzZmE2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZXlub3IiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRhMGVlN2UyNDBkMjI5ZGRlYjExZmFlNDA0MmQwMTRjMmUyNTNkZDI5ZjBhZjJkYjAwOWE0YzEwODI0OWE5ZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

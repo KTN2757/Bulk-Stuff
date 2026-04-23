@@ -1,0 +1,9 @@
+{
+  "id" : "135ac2d6063442a799f7d85496cc6caa",
+  "name" : "Shangri",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg4NDIyMSwKICAicHJvZmlsZUlkIiA6ICIxMzVhYzJkNjA2MzQ0MmE3OTlmN2Q4NTQ5NmNjNmNhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFuZ3JpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxYTc3MjZlMjVlNmZjMmE1ZjM3NGJjODE1ZDU0MTcxMDExMjBmMjRmYzU2OTA5OWJjNDE3NzZkOTYzNTFkODAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

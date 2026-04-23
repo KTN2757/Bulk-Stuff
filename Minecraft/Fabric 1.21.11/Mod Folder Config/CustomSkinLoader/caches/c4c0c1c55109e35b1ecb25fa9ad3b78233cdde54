@@ -1,0 +1,9 @@
+{
+  "id" : "c9acce50261d4da1b424d150f1c47255",
+  "name" : "BotSlayerrr",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODM3MzUzMywKICAicHJvZmlsZUlkIiA6ICJjOWFjY2U1MDI2MWQ0ZGExYjQyNGQxNTBmMWM0NzI1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3RTbGF5ZXJyciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yYWYyYTU2YjhkZmYyMGY0YWVhZmE5MTFhNWMxNWY1MjhlMzM2MWJkZTVmZmY0NzQwYzgxZGU1YjA3NDg0MDlhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

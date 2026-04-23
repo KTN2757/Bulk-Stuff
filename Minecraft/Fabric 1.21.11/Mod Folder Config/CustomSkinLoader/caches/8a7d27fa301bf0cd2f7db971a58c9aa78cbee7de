@@ -1,0 +1,9 @@
+{
+  "id" : "84b689d3698e46f0a69530defb129594",
+  "name" : "Calphie",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTUwMzEwNTUwMiwKICAicHJvZmlsZUlkIiA6ICI4NGI2ODlkMzY5OGU0NmYwYTY5NTMwZGVmYjEyOTU5NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYWxwaGllIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjMGZjZmFmMmFhMDQwYTgzZGMwZGU0ZTU2MDU4ZDFiYmIyZWE0MDE1NzUwMWYzZTdkMTVkYzI0NWU0OTMwOTUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

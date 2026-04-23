@@ -1,0 +1,9 @@
+{
+  "id" : "f5792917f21348cc9c84351dfbd56c65",
+  "name" : "Sixdots",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTUwMzIxNjMwNSwKICAicHJvZmlsZUlkIiA6ICJmNTc5MjkxN2YyMTM0OGNjOWM4NDM1MWRmYmQ1NmM2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaXhkb3RzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FiMjdkZTdjNGFkZGI5NDZkMWQzYWE1MTI3YjAwM2VmM2JjZWFkZjdlYjEwMWRlMGM3YjMxZjFlMDlmZTI4MjkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

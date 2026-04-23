@@ -1,0 +1,9 @@
+{
+  "id" : "06dbcb44bc224f6fb8c358505e8f6a38",
+  "name" : "Ckorai",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjczNzAyNywKICAicHJvZmlsZUlkIiA6ICIwNmRiY2I0NGJjMjI0ZjZmYjhjMzU4NTA1ZThmNmEzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDa29yYWkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAxODRhMWMyYjdkYWFiZDk2ZGU5ZmI2N2UxYzUyNTFkMGVkMmM2YzYzYjVlZjYzZDQzYzIxMTg4MDcyYzAwNyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

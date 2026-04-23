@@ -1,0 +1,30 @@
+filename = 'Priority-1.0.1+mc1.21.6.jar'
+name = 'Priority'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.10',
+    '1.21.10',
+    '1.21.11',
+    '1.21.11',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1+mc1.21.6'
+
+[download]
+hash = '162d222860922dc9638eee2148c87e402724f8ead74a5ad8375135744a048d2e1d05e4449ebf4d63cef6cb1f268dc198f4989cc4527ae99d9d7c3a85ca623470'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Uei7w2Z1/versions/Iu4WKecj/Priority-1.0.1%2Bmc1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'Uei7w2Z1'
+version = 'Iu4WKecj'

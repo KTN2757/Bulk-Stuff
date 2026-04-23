@@ -1,0 +1,9 @@
+{
+  "id" : "f4dd9e72b59c4140a689e1506165284b",
+  "name" : "Duels",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcwNTc0NiwKICAicHJvZmlsZUlkIiA6ICJmNGRkOWU3MmI1OWM0MTQwYTY4OWUxNTA2MTY1Mjg0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEdWVscyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZjcwZjk3OWMzODdmODI4M2JmZGFjNTk1N2M4YWQ2MzY4N2QzNGE0OGFiZDk1M2FiNWI4ZjM3MTgwMjE5YWJiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

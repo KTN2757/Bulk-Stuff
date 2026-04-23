@@ -1,0 +1,9 @@
+{
+  "id" : "cf7cc344d8c04e9e85a7206c205b4f10",
+  "name" : "XXRoseMc74",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTk1MTQwODk0OCwKICAicHJvZmlsZUlkIiA6ICJjZjdjYzM0NGQ4YzA0ZTllODVhNzIwNmMyMDViNGYxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJYWFJvc2VNYzc0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2YWNkMDZlODQ4M2IxNzZlOGVhMzlmYzEyZmUxMDVlYjNhMmE0OTcwZjUxMDAwNTdlOWQ4NGQ0YjYwYmRmYTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

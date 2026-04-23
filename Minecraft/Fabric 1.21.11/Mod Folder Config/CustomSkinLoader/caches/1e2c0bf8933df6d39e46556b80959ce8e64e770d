@@ -1,0 +1,9 @@
+{
+  "id" : "fd4415b6642f4cd1b1f03e9b422af40f",
+  "name" : "Laziestt",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTkxNjM5OCwKICAicHJvZmlsZUlkIiA6ICJmZDQ0MTViNjY0MmY0Y2QxYjFmMDNlOWI0MjJhZjQwZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXppZXN0dCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZDU5OGEzNmFiNDRkOGY0NDhhYjZjNjVlZWI3NWYxMjBiNGY4OGE4ZWFiYmM5OGFhYzZlNzgwYjNjMTQxMzExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

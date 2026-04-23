@@ -1,0 +1,9 @@
+{
+  "id" : "8de87343cc414f998d2c24b2ab519dc2",
+  "name" : "TheobaldTheBot",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNDA3NDgxNCwKICAicHJvZmlsZUlkIiA6ICI4ZGU4NzM0M2NjNDE0Zjk5OGQyYzI0YjJhYjUxOWRjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVvYmFsZFRoZUJvdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNTE1ZTE1YmNiNzBhNDUxNWFmYjQ0ZmNhZTk0YmExYjFiMzI2NDA1ODY5ZTkyY2Q3NmNiMTdhNTY4OGUzNzhlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

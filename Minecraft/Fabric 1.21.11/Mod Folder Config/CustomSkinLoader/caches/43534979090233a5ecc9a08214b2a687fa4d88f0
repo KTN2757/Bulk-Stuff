@@ -1,0 +1,9 @@
+{
+  "id" : "3eb3998415254665bec88adecc44939f",
+  "name" : "AsianBoyNavi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODM1NjE2MCwKICAicHJvZmlsZUlkIiA6ICIzZWIzOTk4NDE1MjU0NjY1YmVjODhhZGVjYzQ0OTM5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc2lhbkJveU5hdmkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTk0NjMxZjkwZGQ5NjEzM2VjYTM5NWYzMDEzOTFjMjk2MzQwY2Q1YzQzZDQwMTZhOTU2OTM3NTIwMWE5MTJjMCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

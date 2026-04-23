@@ -1,0 +1,9 @@
+{
+  "id" : "0c31eef8deec454daeaae05da7ef9136",
+  "name" : "Kdot",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzMyODEyMywKICAicHJvZmlsZUlkIiA6ICIwYzMxZWVmOGRlZWM0NTRkYWVhYWUwNWRhN2VmOTEzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLZG90IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyYjllNzgwMDA4N2M2Zjg2ZDdhODYwM2FiZWNlZWYzZDkwZGMzZTNkNmQ4MDZiZWIyNDY4MjE2NzdlMjc0M2MiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

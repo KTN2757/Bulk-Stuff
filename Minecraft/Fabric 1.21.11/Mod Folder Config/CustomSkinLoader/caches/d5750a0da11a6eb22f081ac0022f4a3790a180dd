@@ -1,0 +1,9 @@
+{
+  "id" : "223efcc9dcd842f0b740c169da37e50b",
+  "name" : "RexoGamerzz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NjgwNTY3OCwKICAicHJvZmlsZUlkIiA6ICIyMjNlZmNjOWRjZDg0MmYwYjc0MGMxNjlkYTM3ZTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXhvR2FtZXJ6eiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZjk2MjNlYzNmYjM2NjEwOTQ2NGE3NWY1MTcwMzRmYjQxNWUyYmJiYTg1OTY3OWJkOGZhNzJmMDIzMGNhMTM4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

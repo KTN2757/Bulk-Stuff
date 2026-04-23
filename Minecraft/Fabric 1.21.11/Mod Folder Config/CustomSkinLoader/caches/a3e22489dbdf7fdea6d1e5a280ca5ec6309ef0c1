@@ -1,0 +1,9 @@
+{
+  "id" : "85ca6202f3124123a5fa64bb9b33b63c",
+  "name" : "Kito1510",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjA4MjAwMSwKICAicHJvZmlsZUlkIiA6ICI4NWNhNjIwMmYzMTI0MTIzYTVmYTY0YmI5YjMzYjYzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaXRvMTUxMCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNWI5ZDVlMDA4ZWQwMWZiOTllNWU3ODNjNGQ4Zjk1ZTU5MGNiOGUyMmY3YjBiMmM5ZTFhNGNhMjAzNmUyODQxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

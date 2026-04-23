@@ -1,0 +1,9 @@
+{
+  "id" : "2f0777571e3d4e8cab0c1281a7ad1b88",
+  "name" : "Aqua_Prime",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxNzAyOTAzMywKICAicHJvZmlsZUlkIiA6ICIyZjA3Nzc1NzFlM2Q0ZThjYWIwYzEyODFhN2FkMWI4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcXVhX1ByaW1lIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhNzFiZmIxMjIzYjQxMjcyMTYxODVjNzI2NTI4ZDIzYjRjNDk2NzBmZTJmZjc2YjViNWMyMGVlNDRiYmU4YjYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

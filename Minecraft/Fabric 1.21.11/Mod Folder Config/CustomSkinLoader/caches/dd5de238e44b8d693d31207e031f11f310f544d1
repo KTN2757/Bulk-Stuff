@@ -1,0 +1,9 @@
+{
+  "id" : "fd9e35c5152c47b7aaddddf4e6b0926c",
+  "name" : "clay67",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NzMwMjg1NCwKICAicHJvZmlsZUlkIiA6ICJmZDllMzVjNTE1MmM0N2I3YWFkZGRkZjRlNmIwOTI2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjbGF5NjciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVjZGMzMjQzYjIxNTNhYjI4YTE1OTg2MWJlNjQzYTRmYzFlM2MxN2QyOTFjZGQzZTU3YTdmMzcwYWQ2NzZmMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d0cf971a45404510b8e2fe2bcd0c53be",
+  "name" : "azure567",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NTQxNzEwMywKICAicHJvZmlsZUlkIiA6ICJkMGNmOTcxYTQ1NDA0NTEwYjhlMmZlMmJjZDBjNTNiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhenVyZTU2NyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzMzZDE5YjdjZDhmMzQwMDAzZDFiMTQ1NTY3NDliZjE4NGFiMjlkMWIzYjI3MjRiNGMwZTkzYTAxNjdiM2QiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

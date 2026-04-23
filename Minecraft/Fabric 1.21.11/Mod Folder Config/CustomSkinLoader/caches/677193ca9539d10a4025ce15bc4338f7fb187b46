@@ -1,0 +1,9 @@
+{
+  "id" : "2a7a5c3728564d20beccced81745bc62",
+  "name" : "ADBOY2010",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODQ1MzIzNCwKICAicHJvZmlsZUlkIiA6ICIyYTdhNWMzNzI4NTY0ZDIwYmVjY2NlZDgxNzQ1YmM2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBREJPWTIwMTAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmFjNmNhMjYyZDY3YmNmYjNkYmM5MjRiYTgyMTVhMTgxOTU0OTdjNzgwMDU4YTU3NDlkZTY3NDIxNzcyMTg5MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

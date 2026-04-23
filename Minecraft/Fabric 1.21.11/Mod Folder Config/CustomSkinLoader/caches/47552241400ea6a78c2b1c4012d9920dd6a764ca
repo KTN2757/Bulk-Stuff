@@ -1,0 +1,9 @@
+{
+  "id" : "3b540fb5d0594ceb8c813d1ff608b51b",
+  "name" : "drdonutfan2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNjAzMDI2OCwKICAicHJvZmlsZUlkIiA6ICIzYjU0MGZiNWQwNTk0Y2ViOGM4MTNkMWZmNjA4YjUxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmRvbnV0ZmFuMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MGU3NWNkNDI5YmE2MzMxY2QyMTBiOWJkMTkzOTk1MjdlZTNiYWI0NjdiNWE5ZjYxY2I4YTI3YjE3N2Y2Nzg5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

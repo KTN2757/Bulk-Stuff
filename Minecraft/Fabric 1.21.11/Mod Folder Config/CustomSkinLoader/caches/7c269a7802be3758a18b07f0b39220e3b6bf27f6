@@ -1,0 +1,9 @@
+{
+  "id" : "f7aa01a4ec8543a899366b06a79a2091",
+  "name" : "RIO_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNTIwODcxNiwKICAicHJvZmlsZUlkIiA6ICJmN2FhMDFhNGVjODU0M2E4OTkzNjZiMDZhNzlhMjA5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSSU9fIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhZjNkODhjY2IzOGYxMWY3NDgxNGU5MjA1M2Q5MmY3NzI4ZGRiMWE3OTU1NjUyYTYwZTMwY2IyN2FlNjY1OWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

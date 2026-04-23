@@ -1,0 +1,9 @@
+{
+  "id" : "a865229e503a4c2d918f35857d071d52",
+  "name" : "Survival",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTY5MzQ5NiwKICAicHJvZmlsZUlkIiA6ICJhODY1MjI5ZTUwM2E0YzJkOTE4ZjM1ODU3ZDA3MWQ1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXJ2aXZhbCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYjQwNmJjMWNiYzVmODVjMzQzMjliZjBhMjM2MjUyMzVjNTI5ZWNiMGRmYzVlYWE5NTM5ZDQ0M2UwMGNjMDciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "92f98833dce24c5880ff092b07bebdf8",
+  "name" : "Shadowreturn",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTYzMzYwNSwKICAicHJvZmlsZUlkIiA6ICI5MmY5ODgzM2RjZTI0YzU4ODBmZjA5MmIwN2JlYmRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFkb3dyZXR1cm4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjk2NjdlZTA1NDU2NmYzZGM2ZTI3MDgyYjhhOTFmY2FmODA3Yjc1MTZmN2E1NGU3MTQ3NjEyNGJjOTA3NjM3YSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

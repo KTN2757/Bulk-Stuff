@@ -1,0 +1,9 @@
+{
+  "id" : "8ea9f4a774ac4d64a5ea7f3cc6ed7ed9",
+  "name" : "EcoSMP",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxODk0ODEwNywKICAicHJvZmlsZUlkIiA6ICI4ZWE5ZjRhNzc0YWM0ZDY0YTVlYTdmM2NjNmVkN2VkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY29TTVAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2UwOGExNDE0M2Y5NWU5ZGVhMzhiM2ZhNWNiZTcwNjViODA1M2Y2NTJlM2MxNjQyNzRkNDJjZDFkMGVmNGEwYSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

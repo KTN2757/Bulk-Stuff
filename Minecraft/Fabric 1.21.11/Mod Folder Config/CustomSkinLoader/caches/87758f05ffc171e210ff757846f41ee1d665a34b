@@ -1,0 +1,9 @@
+{
+  "id" : "18dc06241dec449fb455eff27f85532f",
+  "name" : "Arthropods",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODg5MjU0OCwKICAicHJvZmlsZUlkIiA6ICIxOGRjMDYyNDFkZWM0NDlmYjQ1NWVmZjI3Zjg1NTMyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcnRocm9wb2RzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxZTU5ODliMTYwYWRmOGU2ZTIyMzc3NGJmODA5YTNkZWQwYmZmOWVlODRjZTBmZGY5Zjc0MGRkZjAzMGMzMWQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

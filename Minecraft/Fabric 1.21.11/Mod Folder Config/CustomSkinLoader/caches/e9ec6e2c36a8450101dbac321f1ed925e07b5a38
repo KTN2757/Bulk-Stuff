@@ -1,0 +1,9 @@
+{
+  "id" : "da675f63afec4454bec26c13fb2ba43e",
+  "name" : "Router",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTMwNTg0OCwKICAicHJvZmlsZUlkIiA6ICJkYTY3NWY2M2FmZWM0NDU0YmVjMjZjMTNmYjJiYTQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3V0ZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E4NTY4NzNkNDExOGExMDQ3NTQ5M2QyNzgwOTBkNjQxNDE1NGE4NmI5YTM2MGY2YWY5Mzc3YzVhZjJkMWEyYyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

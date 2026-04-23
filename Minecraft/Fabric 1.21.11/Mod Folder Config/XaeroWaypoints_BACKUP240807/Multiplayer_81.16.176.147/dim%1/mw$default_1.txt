@@ -1,0 +1,8 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:End City 3(no ship):E:-3452:95:2933:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:End city 2:E:-1147:59:3018:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway 2:G:-2893:73:3533:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:End city(no shulkers):E:-3750:63:2958:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gateway:G:-932:63:-303:10:false:0:gui.xaero_default:false:0:0:false

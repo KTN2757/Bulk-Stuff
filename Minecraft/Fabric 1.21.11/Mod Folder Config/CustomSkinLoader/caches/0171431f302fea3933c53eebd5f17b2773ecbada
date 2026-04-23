@@ -1,0 +1,9 @@
+{
+  "id" : "3d0a310d34f3449fa1869786d46ab1ff",
+  "name" : "xitachi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTgzMTY0MSwKICAicHJvZmlsZUlkIiA6ICIzZDBhMzEwZDM0ZjM0NDlmYTE4Njk3ODZkNDZhYjFmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4aXRhY2hpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3ODkzYWQzNDA0YTIxMjk0OGVhN2MwMzc0YWM5MDY2ODMyY2NmNGZhYTkyYzQxYzRhYzVmMTM3M2NjMmRiNzMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

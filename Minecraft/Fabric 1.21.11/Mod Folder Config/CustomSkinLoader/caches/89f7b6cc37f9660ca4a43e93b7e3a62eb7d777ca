@@ -1,0 +1,9 @@
+{
+  "id" : "a6d1f5361d124cf7abea96f83136d504",
+  "name" : "Bluxxy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2Mjg5MjM0MywKICAicHJvZmlsZUlkIiA6ICJhNmQxZjUzNjFkMTI0Y2Y3YWJlYTk2ZjgzMTM2ZDUwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHV4eHkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzRhNmNmNTRhMjgxMDkwMzIyZjc0NzkyOGE4NjRhZmYwNzJlN2IwZWUzM2JkM2UwZjFjZThiNmYwNTdhOTEyNyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

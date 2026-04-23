@@ -1,0 +1,9 @@
+{
+  "id" : "5d252ed3b55949fb81b046f08e7f4abb",
+  "name" : "Moralagos",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5NzM2NTM1MSwKICAicHJvZmlsZUlkIiA6ICI1ZDI1MmVkM2I1NTk0OWZiODFiMDQ2ZjA4ZTdmNGFiYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3JhbGFnb3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTI1OTcxNmFkMDJhYjViYzU0YTAyNGJjOGQzMjUxM2UxNTA5ZmU2NTRmYWIwMmNhYTI0MDFlZWU2YjZjNmI2NiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

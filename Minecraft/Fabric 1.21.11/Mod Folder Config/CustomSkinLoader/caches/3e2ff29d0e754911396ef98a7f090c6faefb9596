@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Coming Soon | Cosmetica</title>
+		<script type="module" crossorigin src="/assets/index-FXg8NSDs.js"></script>
+		<link rel="stylesheet" crossorigin href="/assets/index-CzbYrX-9.css">
+	</head>
+	<body>
+		<div id="app">
+			<div class="canvasContainer">
+				<canvas id="canvas"></canvas>
+				<span class="title">Coming Soon</span>
+			</div>
+		</div>
+	</body>
+</html>

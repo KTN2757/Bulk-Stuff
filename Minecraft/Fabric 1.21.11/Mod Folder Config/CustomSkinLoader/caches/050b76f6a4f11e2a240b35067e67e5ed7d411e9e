@@ -1,0 +1,9 @@
+{
+  "id" : "e6d4677b121949caaa2edcd775e5fb5d",
+  "name" : "wydjuswa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzE0NjQzOCwKICAicHJvZmlsZUlkIiA6ICJlNmQ0Njc3YjEyMTk0OWNhYWEyZWRjZDc3NWU1ZmI1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3eWRqdXN3YSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZGJhM2UyMjBhYWNiYjdiMGVlZDIxYTliYWI1NjU0N2EwZjFhZGU0MzcwNGNhMWVkYzcwM2E0NzZkNGVhZmZjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

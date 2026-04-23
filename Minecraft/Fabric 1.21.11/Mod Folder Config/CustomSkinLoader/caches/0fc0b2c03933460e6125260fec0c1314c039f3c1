@@ -1,0 +1,9 @@
+{
+  "id" : "3523fa85c17546f1a564b64f99db08cf",
+  "name" : "XSEN",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzAzNjgzNCwKICAicHJvZmlsZUlkIiA6ICIzNTIzZmE4NWMxNzU0NmYxYTU2NGI2NGY5OWRiMDhjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYU0VOIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwYTBjYTE0OWE2N2MwNWRiMWZlYTYxMGExZjYzYTY2YzkwMzM0OTExMjY0M2Q5ZDE4NDMyNTcyZDkyMjljNGIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

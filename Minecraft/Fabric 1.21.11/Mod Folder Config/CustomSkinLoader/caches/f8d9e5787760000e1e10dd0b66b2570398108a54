@@ -1,0 +1,9 @@
+{
+  "id" : "0436fdcd89634e8a8548f3c79ea86d12",
+  "name" : "RedStainedGlass",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDgzODk1NCwKICAicHJvZmlsZUlkIiA6ICIwNDM2ZmRjZDg5NjM0ZThhODU0OGYzYzc5ZWE4NmQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWRTdGFpbmVkR2xhc3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQwYmM0MDc2N2IxMjdjMmZlMzc1OWEwMjAzMDc5ZjUwNThkMWEzZWU2NDQyYTA4NjZmNzkwNzE4MjI0NjFhZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

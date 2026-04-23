@@ -1,0 +1,9 @@
+{
+  "id" : "cc9d54ca2534423890816b15ce27238f",
+  "name" : "ych2120122",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NjgyNzAzMSwKICAicHJvZmlsZUlkIiA6ICJjYzlkNTRjYTI1MzQ0MjM4OTA4MTZiMTVjZTI3MjM4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5Y2gyMTIwMTIyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1NDkzZmIxMmUyMWQxYTI5M2M3M2FjYjE2MzE1ODY0OGUxMzYwMWViYTE2ZDVjM2FiN2M0YTE4YzcyMmU2MjIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

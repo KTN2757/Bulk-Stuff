@@ -1,0 +1,9 @@
+{
+  "id" : "13fa456c2c354dc8adc1a17eb67a14f1",
+  "name" : "BuilderBob",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MDkwODgxNSwKICAicHJvZmlsZUlkIiA6ICIxM2ZhNDU2YzJjMzU0ZGM4YWRjMWExN2ViNjdhMTRmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdWlsZGVyQm9iIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I5M2QzOGUzMGM3ZjZiZGM4ZTVkYTQ1MWRiMTM5NjA2ZDUzMzA2ZmYxNTdmNmU2ZTBhMDlhZmY5MGM1ZTQ0ZDgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

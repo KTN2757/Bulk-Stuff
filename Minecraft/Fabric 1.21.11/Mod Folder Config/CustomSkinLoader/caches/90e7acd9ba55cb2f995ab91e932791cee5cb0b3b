@@ -1,0 +1,9 @@
+{
+  "id" : "4dc7d9e5f6b94165950201fa4ff39aac",
+  "name" : "Bedass",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjAwOTA0NCwKICAicHJvZmlsZUlkIiA6ICI0ZGM3ZDllNWY2Yjk0MTY1OTUwMjAxZmE0ZmYzOWFhYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWRhc3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMwNWFiOWUwN2IzNTA1ZGMzZWMxMTM3MGMzYmRjZTU1NzBhZDJmYjJiNTYyZTliOWRkOWNmMjcxZjgxYWE0NCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

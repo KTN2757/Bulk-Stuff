@@ -1,0 +1,9 @@
+{
+  "id" : "b06958b32b6244de8af3bcf11cf4d58c",
+  "name" : "Firelapis",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1Mjc0MzUxNSwKICAicHJvZmlsZUlkIiA6ICJiMDY5NThiMzJiNjI0NGRlOGFmM2JjZjExY2Y0ZDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJlbGFwaXMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTdhMmE0NGQ0ZGQwZmVjZjBjOTk3OTM4ZTkwODk2ZmVmOGU0NGQ3ZDRmMDc3NmFlNTM0NzQ2N2U1ZGRmMWM5ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

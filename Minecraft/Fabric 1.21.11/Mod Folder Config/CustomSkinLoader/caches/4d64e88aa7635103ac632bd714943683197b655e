@@ -1,0 +1,9 @@
+{
+  "id" : "27d89573e2f3432fad61e42fcc4ab5e8",
+  "name" : "strawberryplayzz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODI4NzQ3NywKICAicHJvZmlsZUlkIiA6ICIyN2Q4OTU3M2UyZjM0MzJmYWQ2MWU0MmZjYzRhYjVlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzdHJhd2JlcnJ5cGxheXp6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM0Yjk4YWUyMDdmYjJiZDhjYTQwYzI2YzY1ODYyZDk1MmM3ZDVkNTFjNjJlYzVkYTlkZDlmMjAzN2RiZmI3ZWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "05fb1dd4cc5645fd9cbd9a441f90a8ff",
+  "name" : "Nawair",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjY2OTYwNiwKICAicHJvZmlsZUlkIiA6ICIwNWZiMWRkNGNjNTY0NWZkOWNiZDlhNDQxZjkwYThmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXdhaXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMwNWFiOWUwN2IzNTA1ZGMzZWMxMTM3MGMzYmRjZTU1NzBhZDJmYjJiNTYyZTliOWRkOWNmMjcxZjgxYWE0NCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

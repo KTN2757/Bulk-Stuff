@@ -1,0 +1,9 @@
+{
+  "id" : "bc6034428b22488283da26a684cb598c",
+  "name" : "cr4m",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1Mjg5ODQ0MSwKICAicHJvZmlsZUlkIiA6ICJiYzYwMzQ0MjhiMjI0ODgyODNkYTI2YTY4NGNiNTk4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjcjRtIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiNjBhMWY2ZDU2MmY1MmFhZWJiZjE0MzRmMWRlMTQ3OTMzYTNhZmZlMGU3NjRmYTQ5ZWEwNTc1MzY2MjNjZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

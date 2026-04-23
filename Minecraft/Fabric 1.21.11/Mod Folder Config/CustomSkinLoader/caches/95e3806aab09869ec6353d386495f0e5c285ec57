@@ -1,0 +1,9 @@
+{
+  "id" : "27f5ff7ba38b4f929f349a4beb1c8e9b",
+  "name" : "practice",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxODk0NzMzMSwKICAicHJvZmlsZUlkIiA6ICIyN2Y1ZmY3YmEzOGI0ZjkyOWYzNDlhNGJlYjFjOGU5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmFjdGljZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hN2ZmYWFmN2I4NTUzZTdjZTVkN2FjZWJkODdlODM0NWMwN2RmNzdlOTVkNjcxOGVlZTJlNjkxODM0OTIxM2ZiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "cfd7e18a3b504ba09735b38ad95264b4",
+  "name" : "coldisito",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg3Nzk4MSwKICAicHJvZmlsZUlkIiA6ICJjZmQ3ZTE4YTNiNTA0YmEwOTczNWIzOGFkOTUyNjRiNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xkaXNpdG8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjNhMWQ2Zjk1MmQyZTdhZjBmNDJmOTY0NmEzMDQ3MzNhMDc4YmJhZjMxOWY3M2EzMzVjNjBmN2NiYzRmMjQwOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

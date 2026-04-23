@@ -1,0 +1,9 @@
+{
+  "id" : "2cf8ac89839a4543aa7dbb9ab1c3b330",
+  "name" : "willworks",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODM5Mjc4MywKICAicHJvZmlsZUlkIiA6ICIyY2Y4YWM4OTgzOWE0NTQzYWE3ZGJiOWFiMWMzYjMzMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aWxsd29ya3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVjZGMzMjQzYjIxNTNhYjI4YTE1OTg2MWJlNjQzYTRmYzFlM2MxN2QyOTFjZGQzZTU3YTdmMzcwYWQ2NzZmMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

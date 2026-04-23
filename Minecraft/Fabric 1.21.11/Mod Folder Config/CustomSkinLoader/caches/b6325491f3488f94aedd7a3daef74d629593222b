@@ -1,0 +1,9 @@
+{
+  "id" : "bcbbc82c132b4a269bed15696995fc29",
+  "name" : "Jerik",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcxMTMzMywKICAicHJvZmlsZUlkIiA6ICJiY2JiYzgyYzEzMmI0YTI2OWJlZDE1Njk2OTk1ZmMyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXJpayIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNjcyMGEyZGE2NjlhZjA1NjRiMjIyNjUxNTk3MjBiN2M5OTQ5OTc3ZTdjYjBlNTU2ODE1MzkzNGM4MjlkMTUzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

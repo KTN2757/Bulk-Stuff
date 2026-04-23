@@ -1,0 +1,9 @@
+{
+  "id" : "d0b6c0b67e5b44a6ac02aa9a5dc668d3",
+  "name" : "mduc123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxOTE0MjQ2MywKICAicHJvZmlsZUlkIiA6ICJkMGI2YzBiNjdlNWI0NGE2YWMwMmFhOWE1ZGM2NjhkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJtZHVjMTIzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjMGZjZmFmMmFhMDQwYTgzZGMwZGU0ZTU2MDU4ZDFiYmIyZWE0MDE1NzUwMWYzZTdkMTVkYzI0NWU0OTMwOTUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "dd3e0d5949cc44cdb1938e1c83bd6276",
+  "name" : "ItsHiro",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTczNTczMiwKICAicHJvZmlsZUlkIiA6ICJkZDNlMGQ1OTQ5Y2M0NGNkYjE5MzhlMWM4M2JkNjI3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNIaXJvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhNGFmNzE4NDU1ZDRhYWI1MjhlN2E2MWY4NmZhMjVlNmEzNjlkMTc2OGRjYjEzZjdkZjMxOWE3MTNlYjgxMGIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "0a2a89afb0024cffb242825843812436",
+  "name" : "CranIsABear",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3ODc4MTM0MywKICAicHJvZmlsZUlkIiA6ICIwYTJhODlhZmIwMDI0Y2ZmYjI0MjgyNTg0MzgxMjQzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmFuSXNBQmVhciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MDRjNGM2ZmVjZjU0NzUwOGMyMDE0N2EyYjgzMTJjZWM4YzgzNDc3MjI1OWNmZDgzMGYxMGZmZWYzZGJkYmYyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

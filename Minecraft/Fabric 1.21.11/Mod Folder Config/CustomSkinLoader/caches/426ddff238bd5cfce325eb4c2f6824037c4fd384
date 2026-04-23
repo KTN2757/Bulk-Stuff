@@ -1,0 +1,9 @@
+{
+  "id" : "90d1dc355f924e459e1a1ab3f370ff44",
+  "name" : "Coxze",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTk4MzMwMSwKICAicHJvZmlsZUlkIiA6ICI5MGQxZGMzNTVmOTI0ZTQ1OWUxYTFhYjNmMzcwZmY0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb3h6ZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MjgzYWRhOWQyNjRkZWNmNWEwYzEyMjIzMmIxZTJjYWI1NmEyYWFhYWEyMTIxMTFiMmIzZjQzN2ZkNjQyMWU1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

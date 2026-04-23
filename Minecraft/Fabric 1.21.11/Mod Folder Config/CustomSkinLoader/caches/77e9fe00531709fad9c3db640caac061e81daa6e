@@ -1,0 +1,9 @@
+{
+  "id" : "6c8c2c63065a4d78be4c44e447220f8b",
+  "name" : "Mahabi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg4NDE3NSwKICAicHJvZmlsZUlkIiA6ICI2YzhjMmM2MzA2NWE0ZDc4YmU0YzQ0ZTQ0NzIyMGY4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWhhYmkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWNmNDRiODQ2MTA1OGI0MmE3ODFmOGY5ZTRkYTAzNDVhMTcyMjQyMDQ2NjlhYjg3YmJlNWMyYTI2NmQ5NTBkMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

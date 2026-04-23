@@ -1,0 +1,9 @@
+{
+  "id" : "39ec1ccdb1534c47af13e7aed1194c60",
+  "name" : "Slayer102",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3OTAzMjUxNCwKICAicHJvZmlsZUlkIiA6ICIzOWVjMWNjZGIxNTM0YzQ3YWYxM2U3YWVkMTE5NGM2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbGF5ZXIxMDIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQyZGU1OWQwMjQ3YjUzMzBmMWFhMWJjZTA5YjdmYTA1NWY4Mjk0MWFjMmNhYzM3ZGIzNjdlMDE2NzhmNjgzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

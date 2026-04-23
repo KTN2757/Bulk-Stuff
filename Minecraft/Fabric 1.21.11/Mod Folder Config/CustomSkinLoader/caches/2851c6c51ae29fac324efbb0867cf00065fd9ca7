@@ -1,0 +1,9 @@
+{
+  "id" : "61d582ecd0444533a38661ef63681c62",
+  "name" : "Giangiorgio",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODkxMDUxOCwKICAicHJvZmlsZUlkIiA6ICI2MWQ1ODJlY2QwNDQ0NTMzYTM4NjYxZWY2MzY4MWM2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHaWFuZ2lvcmdpbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YzA1YWI5ZTA3YjM1MDVkYzNlYzExMzcwYzNiZGNlNTU3MGFkMmZiMmI1NjJlOWI5ZGQ5Y2YyNzFmODFhYTQ0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

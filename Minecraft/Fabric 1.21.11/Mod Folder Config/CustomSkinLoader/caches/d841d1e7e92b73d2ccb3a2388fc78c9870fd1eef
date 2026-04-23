@@ -1,0 +1,9 @@
+{
+  "id" : "7fd61fbf608d45deb474b81320166194",
+  "name" : "HunerX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODIxMzkzMCwKICAicHJvZmlsZUlkIiA6ICI3ZmQ2MWZiZjYwOGQ0NWRlYjQ3NGI4MTMyMDE2NjE5NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIdW5lclgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU0ZDFhNThjMjMwNWM5YWEyNmQ3M2FhZDY4N2VmMWFmOGE2ZGNlODE2Yjc5MzZmOGIyNWVhNDA3NzkyMjIxNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

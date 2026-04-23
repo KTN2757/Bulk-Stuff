@@ -1,0 +1,9 @@
+{
+  "id" : "d5dcb09afe9d4328b65426e084a081b2",
+  "name" : "xZenn",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzI0MDkwOCwKICAicHJvZmlsZUlkIiA6ICJkNWRjYjA5YWZlOWQ0MzI4YjY1NDI2ZTA4NGEwODFiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WmVubiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNDJhNDNkOTU4YjgxYTE1YTE2OTU5ZTcwNDA4ZjVjYWQ2ZTRhYWM0ZGNmYzdjN2JhMDc2NmIwZjY0ZWM5YzIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "65da2ca0d45b4280bb2f290b44ffde99",
+  "name" : "Prime_shadow",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTczNTM2NCwKICAicHJvZmlsZUlkIiA6ICI2NWRhMmNhMGQ0NWI0MjgwYmIyZjI5MGI0NGZmZGU5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcmltZV9zaGFkb3ciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Y2ODIyNzY3NGQ4OTVjNWI3ZThmNmM4ZDFiZTY2YTYxMjJlY2NjZDA1NTE5NjQ4Y2RkZWRkYzJiZmRiZTZhNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

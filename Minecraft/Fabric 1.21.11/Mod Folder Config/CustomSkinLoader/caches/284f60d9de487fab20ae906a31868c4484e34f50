@@ -1,0 +1,9 @@
+{
+  "id" : "83fbfcead7de4b20a97f9995940ecaa0",
+  "name" : "STARZEX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxMDU2NSwKICAicHJvZmlsZUlkIiA6ICI4M2ZiZmNlYWQ3ZGU0YjIwYTk3Zjk5OTU5NDBlY2FhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTVEFSWkVYIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "29e19a8d39fa4cb1b11d809c753f368f",
+  "name" : "jiki",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MDc2OTgxNCwKICAicHJvZmlsZUlkIiA6ICIyOWUxOWE4ZDM5ZmE0Y2IxYjExZDgwOWM3NTNmMzY4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqaWtpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmYmE0MmMzNTBiMGQ1MzlkMzRkMTAwZDM3NGI0N2FhYzUzYzM0MDU4ZDgzM2IwZmEwNTI0ZjhmZWFlNDM0N2EiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

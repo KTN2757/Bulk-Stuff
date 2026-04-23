@@ -1,0 +1,9 @@
+{
+  "id" : "86e7405053cd40ff9b1b04adaa4417b7",
+  "name" : "uhhNixy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNzQ3MDk4MCwKICAicHJvZmlsZUlkIiA6ICI4NmU3NDA1MDUzY2Q0MGZmOWIxYjA0YWRhYTQ0MTdiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1aGhOaXh5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2YjgwNDEzYjYwNzEyZmMwNGU1YTNjMjI2OGQ2NWM4YWZhYTliMmU5NTQwOGYyMjU4MjQ4OWI0NDM0YWM5Y2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

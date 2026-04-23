@@ -1,0 +1,9 @@
+{
+  "id" : "e2f61b7ff4ba4828aa7f9d19d01438b7",
+  "name" : "daisieds",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5NzM1MDI4OSwKICAicHJvZmlsZUlkIiA6ICJlMmY2MWI3ZmY0YmE0ODI4YWE3ZjlkMTlkMDE0MzhiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYWlzaWVkcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWU4MDMwMzlhN2M3MDFiY2ZkOWJlMWVlYmI5ODJhZWFmNzk0MzU3MjFlOGQxYzBiNWI4MmJlMGZiN2ZkZDA1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

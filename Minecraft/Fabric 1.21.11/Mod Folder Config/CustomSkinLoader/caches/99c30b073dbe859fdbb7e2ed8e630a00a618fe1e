@@ -1,0 +1,9 @@
+{
+  "id" : "05a94866e17f48fa94a1f620fec97be7",
+  "name" : "Agni",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzM5MjA0NCwKICAicHJvZmlsZUlkIiA6ICIwNWE5NDg2NmUxN2Y0OGZhOTRhMWY2MjBmZWM5N2JlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZ25pIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U2ODA2MmU4YTllNDlmZDkwMzUxYjI3NzMxY2M5NzMxYzBhODhhNzNmNGExNTRhYmJhNDI5MDMwNDNiZjViYjIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

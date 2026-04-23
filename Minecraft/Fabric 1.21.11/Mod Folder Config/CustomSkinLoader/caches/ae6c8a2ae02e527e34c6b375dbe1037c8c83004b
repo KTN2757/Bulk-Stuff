@@ -1,0 +1,9 @@
+{
+  "id" : "a5e47f3e6ebd497f9994bf93fcb0cba6",
+  "name" : "FFA",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcwOTg5MiwKICAicHJvZmlsZUlkIiA6ICJhNWU0N2YzZTZlYmQ0OTdmOTk5NGJmOTNmY2IwY2JhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGRkEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMyODQwMGViYzI0OGU5ZmMzMDI4NjEyNDc1OTBiY2FiZTg5NTYxODNiNjU2OTQ5ZDgwM2MwMjBlYzQ2YmY2NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

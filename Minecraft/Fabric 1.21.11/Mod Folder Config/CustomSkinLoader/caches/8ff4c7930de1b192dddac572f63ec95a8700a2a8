@@ -1,0 +1,9 @@
+{
+  "id" : "e81aaf0fbb134662ac45bf808693f9cc",
+  "name" : "CassBear",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4NDI1OTg1MiwKICAicHJvZmlsZUlkIiA6ICJlODFhYWYwZmJiMTM0NjYyYWM0NWJmODA4NjkzZjljYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXNzQmVhciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zM2MxMTgwNGZkMzdlOTRiZjgwOTI0Y2M4MDJiNTU1NGUxYjc5OGY3YzcxZGI0NTE2YzBkMGQ3OTdhM2RkZjMwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

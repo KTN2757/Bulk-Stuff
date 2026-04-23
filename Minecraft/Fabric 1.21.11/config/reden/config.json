@@ -1,0 +1,143 @@
+{
+  "Reden": {
+    "redenConfigKey": {
+      "keys": "KP_7"
+    },
+    "selectionTool": "minecraft:blaze_rod",
+    "hudPosition": "bottom_left",
+    "noTimeOut": false,
+    "blockBorderAlpha": 0.10000000149011612,
+    "undoKey": {
+      "keys": "LEFT_CONTROL,LEFT_ALT,Z"
+    },
+    "redoKey": {
+      "keys": "LEFT_CONTROL,LEFT_ALT,Y"
+    },
+    "undoSupportLitematicaOperation": true,
+    "undoCheatingOnly": true,
+    "openNotificationsScreen": {
+      "keys": "R,T"
+    },
+    "maxRenderDistance": 48,
+    "solidFaceRenderer": false,
+    "enableClientGlow": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "solidFaceShapePredicate": "FULL",
+    "fancyBlockOutline": true,
+    "easterEggRate": 3,
+    "scrollAmount": 1.5,
+    "openRvcScreen": {
+      "keys": ""
+    },
+    "openSelectionList": {
+      "keys": "R,L"
+    },
+    "openExportScreen": {
+      "keys": "R,E"
+    },
+    "openImportScreen": {
+      "keys": "R,I"
+    },
+    "redenSaveKey": {
+      "keys": "LEFT_CONTROL,LEFT_ALT,S"
+    },
+    "rvcRecordMultiplayer": true,
+    "rvcForceLocally": false,
+    "rvcConfirmKey": {
+      "keys": "RIGHT_SHIFT,ENTER"
+    },
+    "rvcCancelKey": {
+      "keys": "BACKSPACE"
+    },
+    "breakpointRenderer": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "editBreakpoints": {
+      "keys": "B,BUTTON_1"
+    },
+    "addBreakpoint": {
+      "keys": "B,BUTTON_2"
+    },
+    "viewAllBreakpoints": {
+      "keys": "RIGHT_SHIFT,SPACE"
+    },
+    "pauseKey": {
+      "keys": "LEFT_CONTROL,LEFT_ALT,P"
+    },
+    "continueKey": {
+      "keys": ""
+    },
+    "stepIntoKey": {
+      "keys": ""
+    },
+    "stepOverKey": {
+      "keys": ""
+    },
+    "toggleForceEntityPosSync": {
+      "enabled": false,
+      "hotkey": {
+        "keys": "LEFT_CONTROL,LEFT_SHIFT,V"
+      }
+    },
+    "chatRightClickMenu": true,
+    "structureBlockLoad": {
+      "keys": ""
+    },
+    "structureBlockSave": {
+      "keys": ""
+    },
+    "wormholeSelect": {
+      "keys": ""
+    },
+    "runCommand": [],
+    "debugLogger": false,
+    "debugPacketLogger": false,
+    "debugTagBlockPos": {
+      "keys": "LEFT_CONTROL,LEFT_SHIFT,T"
+    },
+    "debugLoggerIgnoreUndoId0": false,
+    "debugPreviewUndo": {
+      "keys": "LEFT_CONTROL,LEFT_SHIFT,Z"
+    },
+    "maxChainUpdates": -1,
+    "doAssertionChecks": false,
+    "undoReportUnTrackedTnt": false,
+    "openGithubAuthScreen": {
+      "keys": "R,G"
+    },
+    "githubToken": "",
+    "sponsorScreenKey": {
+      "keys": ""
+    },
+    "creditScreenKey": {
+      "keys": ""
+    },
+    "debugViewAllConfigs": {
+      "keys": ""
+    },
+    "developerMode": false,
+    "localApiAddr": "http://localhost:10005/api",
+    "entityOutlinrRenderRaw": false,
+    "debugDisplayRvcWorldInfo": {
+      "keys": ""
+    },
+    "debugNewNotification": {
+      "keys": ""
+    },
+    "debugLitematicaSchematicRerender": {
+      "keys": ""
+    },
+    "iNotificationsEnabled": true,
+    "iPrivacySettingShown": true,
+    "dataBasic": true,
+    "dataUsage": true,
+    "dataIdentification": false
+  }
+}

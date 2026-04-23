@@ -1,0 +1,9 @@
+{
+  "id" : "70c125176c3b4cf899eed70e2081100c",
+  "name" : "OneSoul",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxOTE1NjQ2MCwKICAicHJvZmlsZUlkIiA6ICI3MGMxMjUxNzZjM2I0Y2Y4OTllZWQ3MGUyMDgxMTAwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbmVTb3VsIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4YjJlMzljNTUzZmU5YmIwNDVlNGYxMGNlNjY5Y2Y1NzY3NjA1MmM4YzNiODUyMGYyZmNiN2Y2NGJiM2IzNmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "ca020ed40bb94c83a9f12f043439bb5b",
+  "name" : "Azure_123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjU5MDUwNSwKICAicHJvZmlsZUlkIiA6ICJjYTAyMGVkNDBiYjk0YzgzYTlmMTJmMDQzNDM5YmI1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBenVyZV8xMjMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzEyMmY2MTU1ODRiNThmNDlmNTE2NDM5ODY3ODQ2OGFmNmNlMjYwMDUzZjQ4YjhmNGUxNjRlOTZmYTYwYzQzMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

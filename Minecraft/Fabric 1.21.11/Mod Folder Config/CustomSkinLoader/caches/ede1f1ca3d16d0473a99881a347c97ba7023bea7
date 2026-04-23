@@ -1,0 +1,9 @@
+{
+  "id" : "ab08c7d6636f474881e1065f990397a1",
+  "name" : "1000yani",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjM1NDgyOSwKICAicHJvZmlsZUlkIiA6ICJhYjA4YzdkNjYzNmY0NzQ4ODFlMTA2NWY5OTAzOTdhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICIxMDAweWFuaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

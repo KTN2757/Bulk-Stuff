@@ -1,0 +1,9 @@
+{
+  "id" : "dd6e5f6edb85466f9bd961ea545e021a",
+  "name" : "samantha",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxODk5NDc1MywKICAicHJvZmlsZUlkIiA6ICJkZDZlNWY2ZWRiODU0NjZmOWJkOTYxZWE1NDVlMDIxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYW1hbnRoYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmFjYjU4NDNhYzQxODRmZTUyYTBlODkxNzZjNGVkZjRkOWNmZTQ3MDkzOTIzMWYxMzIwYzQ5ZGQwNTNhNzlkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

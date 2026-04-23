@@ -1,0 +1,9 @@
+{
+  "id" : "cfd12d9cc346418ba53e913e04be0bcc",
+  "name" : "kakri",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTU1MjczMCwKICAicHJvZmlsZUlkIiA6ICJjZmQxMmQ5Y2MzNDY0MThiYTUzZTkxM2UwNGJlMGJjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYWtyaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNzA5NGExY2ZmNTdhODAwNWY5MDEzMjU0NDRhNDgzNzE0ZTdiODYyZDZlZDM5YTdjMGM1OTRhNmZkNDIwZWVlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

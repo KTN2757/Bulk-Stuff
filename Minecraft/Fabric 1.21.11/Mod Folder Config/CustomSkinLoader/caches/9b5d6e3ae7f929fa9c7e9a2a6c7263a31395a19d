@@ -1,0 +1,9 @@
+{
+  "id" : "d8619a59eee44768970946469428e045",
+  "name" : "Sillyopierroz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3OTI0NzI5NywKICAicHJvZmlsZUlkIiA6ICJkODYxOWE1OWVlZTQ0NzY4OTcwOTQ2NDY5NDI4ZTA0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaWxseW9waWVycm96IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlNzE0MzMxNWU4YzA5NDgxMGEzMDBkZDVjZmI1NjgyMWM5NzUwYWFkOGI4MDhkMWNhMWQ0NzI5YmIzNjc0YjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

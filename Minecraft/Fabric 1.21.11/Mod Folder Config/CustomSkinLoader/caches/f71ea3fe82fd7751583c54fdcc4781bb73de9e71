@@ -1,0 +1,9 @@
+{
+  "id" : "17499413140541448149fb1d966dba26",
+  "name" : "candlemouse",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjcwNTQzNywKICAicHJvZmlsZUlkIiA6ICIxNzQ5OTQxMzE0MDU0MTQ0ODE0OWZiMWQ5NjZkYmEyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYW5kbGVtb3VzZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yN2M4NWIyMWJiZmE5MTQyYjM2Y2EwMTZlMGYwYzhkNjA0ZmVjZTgyNzY3YzVkNTEwNGNlODUxNDNkOTIzMTY1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

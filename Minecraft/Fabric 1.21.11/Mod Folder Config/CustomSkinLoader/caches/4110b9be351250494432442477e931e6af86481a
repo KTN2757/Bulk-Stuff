@@ -1,0 +1,9 @@
+{
+  "id" : "7975753a0599487dbaf1ed4d3687f172",
+  "name" : "ZazaSniffer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4Mzg2NzAxOCwKICAicHJvZmlsZUlkIiA6ICI3OTc1NzUzYTA1OTk0ODdkYmFmMWVkNGQzNjg3ZjE3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYXphU25pZmZlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MzRkYzNkNDVkMDYxOWFmOTk1ZjA0YmYzYTk4MjgyYWFlODU3Y2JkNjI3OGFiYTc0NGM3YWMwYjk2YjY4NGJiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

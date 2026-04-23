@@ -1,0 +1,9 @@
+{
+  "id" : "69bba2f9fb1e435dbd8a57ac1f7b2569",
+  "name" : "Aerox",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTc5ODk2NiwKICAicHJvZmlsZUlkIiA6ICI2OWJiYTJmOWZiMWU0MzVkYmQ4YTU3YWMxZjdiMjU2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZXJveCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMzBlN2YxMjQ2MDYxY2NlZTdmZTNmNDAxZGMwMjAzMDFhZDczZWEyYWMwNWQxN2Y4ZTViNTVjODVjMTc0ZDgzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

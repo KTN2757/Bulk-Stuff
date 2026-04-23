@@ -1,0 +1,9 @@
+{
+  "id" : "312f36e210de48b18e848dfe18c85566",
+  "name" : "TurtleConsumer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzUwODM5MiwKICAicHJvZmlsZUlkIiA6ICIzMTJmMzZlMjEwZGU0OGIxOGU4NDhkZmUxOGM4NTU2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUdXJ0bGVDb25zdW1lciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYWYzZDg4Y2NiMzhmMTFmNzQ4MTRlOTIwNTNkOTJmNzcyOGRkYjFhNzk1NTY1MmE2MGUzMGNiMjdhZTY2NTlmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

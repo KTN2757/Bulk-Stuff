@@ -1,0 +1,9 @@
+{
+  "id" : "87f6a0370f7844cc886fdc83ec0215ac",
+  "name" : "Vantix_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTg3MTEwMywKICAicHJvZmlsZUlkIiA6ICI4N2Y2YTAzNzBmNzg0NGNjODg2ZmRjODNlYzAyMTVhYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWYW50aXhfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NjMjBkNTI1MDNhNThhM2ZlNTYwZmYyNWQ0Mjc3ZWI1NzAyYjE4OGQxMWVmNTQxZmY1ZjUwN2U5ODRjMTVmMDkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

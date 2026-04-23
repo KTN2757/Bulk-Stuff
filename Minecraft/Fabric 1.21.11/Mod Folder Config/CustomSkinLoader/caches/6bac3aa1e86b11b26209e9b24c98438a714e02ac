@@ -1,0 +1,9 @@
+{
+  "id" : "d4907f55225b4b74b4cdc6b5e962b719",
+  "name" : "ClPHER",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODQwMTU1NSwKICAicHJvZmlsZUlkIiA6ICJkNDkwN2Y1NTIyNWI0Yjc0YjRjZGM2YjVlOTYyYjcxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbFBIRVIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjYzMzAwYmE1YjcwNjEwMWE0OTUzZmIwZWRkNTAxZDY2MzRmZWU3ODIwODc5ZDU2ZWE5ZDMwNGMyMjZiMDI0NyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

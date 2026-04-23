@@ -1,0 +1,9 @@
+{
+  "id" : "f9dbf5234cf84d4da56bb87144835ebf",
+  "name" : "TienMaiDanh",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTU1NjkxNCwKICAicHJvZmlsZUlkIiA6ICJmOWRiZjUyMzRjZjg0ZDRkYTU2YmI4NzE0NDgzNWViZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaWVuTWFpRGFuaCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

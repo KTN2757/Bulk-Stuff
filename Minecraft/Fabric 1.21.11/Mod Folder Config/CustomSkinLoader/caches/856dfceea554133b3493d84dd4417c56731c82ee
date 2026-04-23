@@ -1,0 +1,9 @@
+{
+  "id" : "ac38190e3baf4261a2ef9c2d98cec690",
+  "name" : "Frostypunguni",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTk1MTQwMTkyOCwKICAicHJvZmlsZUlkIiA6ICJhYzM4MTkwZTNiYWY0MjYxYTJlZjljMmQ5OGNlYzY5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcm9zdHlwdW5ndW5pIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhYzQ0NTg3NTkzZTBhNDViZDMxYmMxZWY5ZmExZTA2YzQ0MTM4NDgyYmFkNjIxMWY2MjVhZDk2M2ZkOWZjMDYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "8de258e91c234ce38001ceef290e326b",
+  "name" : "McBorgor",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MjkxMTQwNCwKICAicHJvZmlsZUlkIiA6ICI4ZGUyNThlOTFjMjM0Y2UzODAwMWNlZWYyOTBlMzI2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNY0JvcmdvciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNDZlYTNjNDQzYzE2MGYyOTNlMzRjY2I2ZGU0Y2VkZWNiOGI0M2UyYjU0NGY1NjUxOTAzNDQwY2ExMjU2ZjgxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,17 @@
+filename = 'sounds-2.4.22+edge+1.21.11-fabric.jar'
+name = 'Sounds'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.4.22+edge+1.21.11-fabric'
+
+[download]
+hash = '8e6d933a293c8b3d8382ede8e5619378b58bc1f1d2b678bef788b7f8d3a317867961d0c316e5caa51facdb6f27d751dd062b877585854220225da4e4ebf63711'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZouiUX7t/versions/Uqu52iU9/sounds-2.4.22%2Bedge%2B1.21.11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'ZouiUX7t'
+version = 'Uqu52iU9'

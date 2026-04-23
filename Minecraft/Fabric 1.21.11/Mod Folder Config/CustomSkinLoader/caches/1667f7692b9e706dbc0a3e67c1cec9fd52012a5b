@@ -1,0 +1,9 @@
+{
+  "id" : "8c318a6a124a4af9bf3826bb0afc8a17",
+  "name" : "StiNG_01",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODM5OTA0NSwKICAicHJvZmlsZUlkIiA6ICI4YzMxOGE2YTEyNGE0YWY5YmYzODI2YmIwYWZjOGExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGlOR18wMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNjlmMTFhZDZiYmQ5MzcyODcyNGE4YmEwYjRmNDRlMjc1MDc1ZTMzODM5NGM5MGQ3ZmY2Zjg0MjIwOWJjZTZhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

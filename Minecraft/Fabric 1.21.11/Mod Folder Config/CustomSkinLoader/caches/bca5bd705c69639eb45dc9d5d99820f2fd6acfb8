@@ -1,0 +1,9 @@
+{
+  "id" : "1282c4e0158c4d288bc094a1351bd48c",
+  "name" : "zKatster",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTY4Mjg2OSwKICAicHJvZmlsZUlkIiA6ICIxMjgyYzRlMDE1OGM0ZDI4OGJjMDk0YTEzNTFiZDQ4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6S2F0c3RlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZDdhNGMxNzRhYjZlOWUxMjA4MzNhOWU4NmFiMzZkNmJhYTZmNmUyYWQ2Y2M2MDdjMzEwNzBlNzQ1MDczNDcwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

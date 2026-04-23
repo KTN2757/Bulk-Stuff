@@ -1,0 +1,9 @@
+{
+  "id" : "8aa9840f30f34b93abb648e9ea7b1b77",
+  "name" : "Centras",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNjU3MDQ4OCwKICAicHJvZmlsZUlkIiA6ICI4YWE5ODQwZjMwZjM0YjkzYWJiNjQ4ZTllYTdiMWI3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDZW50cmFzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjODk2ODJhZDNmYWY0NTZmMWQ2NmQ4ODAzMDU0ZjkwMzU2MTFiYzliMTAyYTg2NjJkZWRlMzRlOTYxNWE4ODkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

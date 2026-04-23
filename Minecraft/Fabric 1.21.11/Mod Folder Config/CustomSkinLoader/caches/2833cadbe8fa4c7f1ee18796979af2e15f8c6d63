@@ -1,0 +1,9 @@
+{
+  "id" : "d83c80d6e37b4e64b59c99ea9d34fd49",
+  "name" : "masterpearl",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODQ3NzU4NSwKICAicHJvZmlsZUlkIiA6ICJkODNjODBkNmUzN2I0ZTY0YjU5Yzk5ZWE5ZDM0ZmQ0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXN0ZXJwZWFybCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MzFjZmYyMzgwODQ1MmEzYjM1Y2E2NDdkMTJlNGZjMDhmZGJhNWU4YzQ3YjA0NzgyNGNjYTAzNWZjYmQ4MDI0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

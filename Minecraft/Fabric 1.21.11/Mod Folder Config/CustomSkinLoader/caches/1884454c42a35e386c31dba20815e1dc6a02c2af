@@ -1,0 +1,9 @@
+{
+  "id" : "fdb2b804d1924b89a573eb0aaa52574a",
+  "name" : "Coca",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MjczODY5NiwKICAicHJvZmlsZUlkIiA6ICJmZGIyYjgwNGQxOTI0Yjg5YTU3M2ViMGFhYTUyNTc0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2NhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlmMmRmYjZkNjlhNDY2YjU1ZmFjNmE2MmUzOWY3ZWMwMmI2ZTlkMTA4ZThjM2E4ZjE4YTRiMzRhOTA4YzIzYzQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

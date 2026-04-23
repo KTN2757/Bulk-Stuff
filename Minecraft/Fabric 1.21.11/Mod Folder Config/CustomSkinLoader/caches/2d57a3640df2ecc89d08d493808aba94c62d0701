@@ -1,0 +1,9 @@
+{
+  "id" : "19f8bc97794b466a861ed39db57b6226",
+  "name" : "adwadawd",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODQ3MzA4MywKICAicHJvZmlsZUlkIiA6ICIxOWY4YmM5Nzc5NGI0NjZhODYxZWQzOWRiNTdiNjIyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhZHdhZGF3ZCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

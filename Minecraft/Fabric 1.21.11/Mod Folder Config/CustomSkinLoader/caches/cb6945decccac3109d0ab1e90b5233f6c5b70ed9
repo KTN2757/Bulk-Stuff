@@ -1,0 +1,9 @@
+{
+  "id" : "82f0b3237bc047e39e6790668a93c896",
+  "name" : "__Mus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg2MjE4NiwKICAicHJvZmlsZUlkIiA6ICI4MmYwYjMyMzdiYzA0N2UzOWU2NzkwNjY4YTkzYzg5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfX011cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjc1NDI5NTQ2YTgxZjEyZTZhYTYzOGJmY2EzMzcwMGY0YmEwODg5MjVlNDMyZWU2ZTIzYWY0NDU1ZDEwMWIxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "a1cd254c624445f48040cdecb46b74d6",
+  "name" : "_HANIEL",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MzA1Mzk2MywKICAicHJvZmlsZUlkIiA6ICJhMWNkMjU0YzYyNDQ0NWY0ODA0MGNkZWNiNDZiNzRkNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSEFOSUVMIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk0MTk5MjE2MWJmYzNiNjg3YWRkN2ZiMTYwZTllM2I5ODhlZTExZWQwYWE5MDFjZTA4NzgyMDNlODYyZTRjZjYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

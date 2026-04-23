@@ -1,0 +1,9 @@
+{
+  "id" : "cbebb881f4754bb787e3defda1c6360b",
+  "name" : "4bdullah_01",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MDY1ODExMywKICAicHJvZmlsZUlkIiA6ICJjYmViYjg4MWY0NzU0YmI3ODdlM2RlZmRhMWM2MzYwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0YmR1bGxhaF8wMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNzBhNjU2N2U0ZmM4NjVjN2I2OGI0OTZhZmY2NjBmYjU4MTdhOWZiNDdkZTE3NTJlOTQ4Mzc0M2JlYTUzNjk3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

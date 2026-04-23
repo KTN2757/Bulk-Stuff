@@ -1,0 +1,9 @@
+{
+  "id" : "82a59ef795d840f8867390ff9e4271ad",
+  "name" : "Nantouh",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjY4MjUzNiwKICAicHJvZmlsZUlkIiA6ICI4MmE1OWVmNzk1ZDg0MGY4ODY3MzkwZmY5ZTQyNzFhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYW50b3VoIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliNDM3OTk5NjZkOTRjZjk1MDA3MDU1NzNlOTBjNWUwMTFlYmFmNjkzMzYxYzkwMDlmMzAyMzAzMmM0ZDc3NjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

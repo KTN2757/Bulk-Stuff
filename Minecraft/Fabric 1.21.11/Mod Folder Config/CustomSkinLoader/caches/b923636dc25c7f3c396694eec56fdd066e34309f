@@ -1,0 +1,9 @@
+{
+  "id" : "e5ea48e573cf4d44b4fa83367a172de9",
+  "name" : "Fusioon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjA5NzU0MCwKICAicHJvZmlsZUlkIiA6ICJlNWVhNDhlNTczY2Y0ZDQ0YjRmYTgzMzY3YTE3MmRlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdXNpb29uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5YzYwOGJmMzNmMDVhZmI2MDJlMTBlNzBkODE1ZWVlYTE2ZjIyYmVkZGNjYjg2YWI2ZDM5MWZjNGY1MTU1ZDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

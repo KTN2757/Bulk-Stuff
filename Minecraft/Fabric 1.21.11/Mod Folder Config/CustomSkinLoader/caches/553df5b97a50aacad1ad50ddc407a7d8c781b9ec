@@ -1,0 +1,9 @@
+{
+  "id" : "736a1ae7ee614981bd1ec00f113bc235",
+  "name" : "ariz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg5MTg3NywKICAicHJvZmlsZUlkIiA6ICI3MzZhMWFlN2VlNjE0OTgxYmQxZWMwMGYxMTNiYzIzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhcml6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRlMDBjN2I1NmI1MDEwNDBhMGVmN2JkOGMyNDk0ZmUwMmQyYWZjMTA3ZGEzZmI3NjNmYTIxOGVhZDM0ODU1M2UiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

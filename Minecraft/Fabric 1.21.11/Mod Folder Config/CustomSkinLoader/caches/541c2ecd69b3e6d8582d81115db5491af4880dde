@@ -1,0 +1,9 @@
+{
+  "id" : "439e2a9cc04b48d6bd0cfbe0e010753b",
+  "name" : "sora0905",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTEyNjgyNiwKICAicHJvZmlsZUlkIiA6ICI0MzllMmE5Y2MwNGI0OGQ2YmQwY2ZiZTBlMDEwNzUzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzb3JhMDkwNSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzE2MGZiZDE2YWRiYzRiZmYyNDA5ZTcwMTgwZDkxMTAwMmFlYmNmYTgxMWViNmVjM2QxMDQwNzYxYWVhNmRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

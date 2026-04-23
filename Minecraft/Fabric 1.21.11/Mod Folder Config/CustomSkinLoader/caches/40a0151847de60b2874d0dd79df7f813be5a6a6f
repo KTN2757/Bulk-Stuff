@@ -1,0 +1,9 @@
+{
+  "id" : "288174ebc1f546c3bb4ece711dab35e3",
+  "name" : "Stravex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxMjI4NiwKICAicHJvZmlsZUlkIiA6ICIyODgxNzRlYmMxZjU0NmMzYmI0ZWNlNzExZGFiMzVlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdHJhdmV4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlZDcyYzEzN2E1ZDFhNDJkM2FmYjFhZjM0YzlkMzU1ODRiM2ViZGVjNDljZDM4YjczYWI0ZTNkYjhkNzVjOGMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

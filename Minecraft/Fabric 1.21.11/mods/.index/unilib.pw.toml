@@ -1,0 +1,17 @@
+filename = 'UniLib-1.2.0+1.21.11-fabric.jar'
+name = 'UniLib'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0+1.21.11-fabric'
+
+[download]
+hash = '5adca6eef783d0a70b1c7564da7301ac5e37e05c47fa72deb6594592741892a6f478c0e5334579f7bb7320fa5c3978318aaf6927169ab6f4f1667422c35814f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nT86WUER/versions/yrRauEMe/UniLib-1.2.0%2B1.21.11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nT86WUER'
+version = 'yrRauEMe'

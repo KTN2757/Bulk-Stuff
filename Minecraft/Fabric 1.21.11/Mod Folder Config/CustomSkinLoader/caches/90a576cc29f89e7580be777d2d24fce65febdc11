@@ -1,0 +1,9 @@
+{
+  "id" : "0d50dc6fe5e64b8ebd4e51fff1e713fb",
+  "name" : "Pencil_Man",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjIyMTU2OCwKICAicHJvZmlsZUlkIiA6ICIwZDUwZGM2ZmU1ZTY0YjhlYmQ0ZTUxZmZmMWU3MTNmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQZW5jaWxfTWFuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkMjc4ZGY3NGI2ZjhlOWFmZTU1NTRmNjc4OWU2NWIxNzlmMzRjYTJhNTQ2NTk2YjI2YTRmY2QwZmQzZDhmMzEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

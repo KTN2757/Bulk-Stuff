@@ -1,0 +1,9 @@
+{
+  "id" : "b8dc025ba51a482991aaf86c441bc3e8",
+  "name" : "GamingEnergy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjQ0MzE5NCwKICAicHJvZmlsZUlkIiA6ICJiOGRjMDI1YmE1MWE0ODI5OTFhYWY4NmM0NDFiYzNlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYW1pbmdFbmVyZ3kiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGE4ODUxZDk1ODg4NWEwOTk3NWNkODlmNmNlZTVkYzdmNDEyMmJlOGI0ZmFjZDc0NDZlYWU0NjE1YTBkNTA4YiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

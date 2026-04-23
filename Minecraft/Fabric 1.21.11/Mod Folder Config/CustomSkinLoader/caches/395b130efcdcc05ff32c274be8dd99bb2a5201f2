@@ -1,0 +1,9 @@
+{
+  "id" : "80c142e419f34b37bfcfc06147810973",
+  "name" : "Daxt0n",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwOTE4MjkxMiwKICAicHJvZmlsZUlkIiA6ICI4MGMxNDJlNDE5ZjM0YjM3YmZjZmMwNjE0NzgxMDk3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXh0MG4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWNkNDBlNjU4NjEyOGViOWY4Y2RlZmRlYTkyYmVhNWE1NmFiZjMwOGQ2ZjdiMTc1ZmYxNWNmNGI1ZGU3MDhiNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

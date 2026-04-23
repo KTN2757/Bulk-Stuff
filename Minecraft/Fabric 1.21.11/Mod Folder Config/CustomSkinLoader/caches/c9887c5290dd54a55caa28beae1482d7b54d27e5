@@ -1,0 +1,9 @@
+{
+  "id" : "69f6dd25af714b70aea565571bdb1a40",
+  "name" : "TechnoCrystal",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTUwMzI3NDEwNiwKICAicHJvZmlsZUlkIiA6ICI2OWY2ZGQyNWFmNzE0YjcwYWVhNTY1NTcxYmRiMWE0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWNobm9DcnlzdGFsIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhNWUzZjlmMWEwNWU4OWFiNWFkNWU5NTNhOGJiNmJkZWUwMjUzNzYzMjU0ZDc0MWNmOGE2YjVlMThkNDM1ODMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

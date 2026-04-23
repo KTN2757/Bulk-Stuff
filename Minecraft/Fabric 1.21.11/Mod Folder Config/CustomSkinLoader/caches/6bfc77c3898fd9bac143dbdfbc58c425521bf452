@@ -1,0 +1,9 @@
+{
+  "id" : "9e44e24039f242878a8efa2a7236e6a4",
+  "name" : "PURX7",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxOTAyOTM4OSwKICAicHJvZmlsZUlkIiA6ICI5ZTQ0ZTI0MDM5ZjI0Mjg3OGE4ZWZhMmE3MjM2ZTZhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQVVJYNyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

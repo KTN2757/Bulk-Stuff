@@ -1,0 +1,9 @@
+{
+  "id" : "63f994594b5a45a6938716afbb26d9e9",
+  "name" : "creeper777",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjkxOTExMSwKICAicHJvZmlsZUlkIiA6ICI2M2Y5OTQ1OTRiNWE0NWE2OTM4NzE2YWZiYjI2ZDllOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjcmVlcGVyNzc3IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0MmJlYTc0NDU4YzVjNWI0OWNkZjgzMmJlMDUyN2EwNGU3MmI0ZTczM2ZkODVhMDkxOTIwYzVmNTRiZTdhZWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

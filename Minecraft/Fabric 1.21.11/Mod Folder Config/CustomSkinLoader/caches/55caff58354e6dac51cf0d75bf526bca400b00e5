@@ -1,0 +1,9 @@
+{
+  "id" : "9d0f92f4a5b44aeca80fd665c75de205",
+  "name" : "Strange",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTI5ODE4MywKICAicHJvZmlsZUlkIiA6ICI5ZDBmOTJmNGE1YjQ0YWVjYTgwZmQ2NjVjNzVkZTIwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdHJhbmdlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzMGZmZWQzMDRmZGRiMDdiMDhkY2ZlNDlmOTA3MGU5YWY1MzVhODdiMTIyM2I2MzVmMGFiMjQxMWUyZDRlZTgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

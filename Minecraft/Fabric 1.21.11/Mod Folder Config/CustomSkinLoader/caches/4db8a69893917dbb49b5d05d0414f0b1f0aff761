@@ -1,0 +1,9 @@
+{
+  "id" : "c5fb6aafb2be4df9a1f8e8de5412c4a3",
+  "name" : "ColdFlames",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MDYwNjI2MCwKICAicHJvZmlsZUlkIiA6ICJjNWZiNmFhZmIyYmU0ZGY5YTFmOGU4ZGU1NDEyYzRhMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2xkRmxhbWVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VlOWM5MTI2MzhkOTczMTJkOGU2MmQ5OWJlZWY0MGJjMTczZGIwOWMzNmMxMDZkMThjODZlNGFjZDFlMzlhYjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "998280bf295640ecbe7bf7c7f8ca69f0",
+  "name" : "SigmaBoi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODMxMTU2NywKICAicHJvZmlsZUlkIiA6ICI5OTgyODBiZjI5NTY0MGVjYmU3YmY3YzdmOGNhNjlmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaWdtYUJvaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNTgzZWJmNjY3ZWZiNDI2NDZiY2ViYTdjNmMwZTQ0NzM3YWMyOTU0YjcxNTQyNGQzOWVhZWQ2ZGUxMGFkNjEwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

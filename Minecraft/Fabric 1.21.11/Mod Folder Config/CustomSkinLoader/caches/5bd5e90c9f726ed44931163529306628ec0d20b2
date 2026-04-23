@@ -1,0 +1,9 @@
+{
+  "id" : "4bd91fcd27a1478ebf5ea25305a8570d",
+  "name" : "Wildkits",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcxMTg0OCwKICAicHJvZmlsZUlkIiA6ICI0YmQ5MWZjZDI3YTE0NzhlYmY1ZWEyNTMwNWE4NTcwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJXaWxka2l0cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZTcyY2JjNDgzZDEzYTBjOWYzYmI4OTEwZTVjMzBiNGI5NjAzZTUzMDk5OWM5YTVhZjk4YjE2MzAwMmI5NjBmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

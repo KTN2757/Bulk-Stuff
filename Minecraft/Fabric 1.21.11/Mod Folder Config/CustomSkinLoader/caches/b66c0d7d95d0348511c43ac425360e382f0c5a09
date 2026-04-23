@@ -1,0 +1,9 @@
+{
+  "id" : "7cd7f183517f44a6b97721d9620a7335",
+  "name" : "0xcs",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTUzOTc2NSwKICAicHJvZmlsZUlkIiA6ICI3Y2Q3ZjE4MzUxN2Y0NGE2Yjk3NzIxZDk2MjBhNzMzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICIweGNzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5ZmYxNTU1NWY0MDMxZjUwNjE4ZDlhZGZiMTlkYTFkYmRkNDBjMThhM2NmMjA3YTgxNWI4ZDNiZWE0YTcwZGEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

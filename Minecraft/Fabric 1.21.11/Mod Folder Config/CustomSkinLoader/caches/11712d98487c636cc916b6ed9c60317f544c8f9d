@@ -1,0 +1,9 @@
+{
+  "id" : "4baf18376c3b41479c82bde66dae474e",
+  "name" : "ImYourBuddy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODIyMDQ1MCwKICAicHJvZmlsZUlkIiA6ICI0YmFmMTgzNzZjM2I0MTQ3OWM4MmJkZTY2ZGFlNDc0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbVlvdXJCdWRkeSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMTVmZTNjMDBiOGIwZjcwNDhjNWM4ZjQyNjc2YjQ1MTc1Njc5NzY4MDVlMWY1ZWFjMzA4MjE0MTg0ZDE2NDIwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

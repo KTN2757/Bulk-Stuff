@@ -1,0 +1,9 @@
+{
+  "id" : "e0f7146ef0fd40b9b0bf8543ad3addca",
+  "name" : "wrold",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODQ0NDgxMiwKICAicHJvZmlsZUlkIiA6ICJlMGY3MTQ2ZWYwZmQ0MGI5YjBiZjg1NDNhZDNhZGRjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3cm9sZCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zM2Q4MmJjZGYwZjFkMTg5NTg5M2ZjOGVjNzQwMDM0MTI1NzhiOTkzNDBhM2I2MWU2ZDY5ZGQ5MzkxYWFmZDhmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

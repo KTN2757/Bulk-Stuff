@@ -1,0 +1,9 @@
+{
+  "id" : "60dc00d941124c7aafefafcf2053170c",
+  "name" : "Jerry_12",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2Mjc3MzM3MywKICAicHJvZmlsZUlkIiA6ICI2MGRjMDBkOTQxMTI0YzdhYWZlZmFmY2YyMDUzMTcwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXJyeV8xMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNWM0ZWU1Y2UyMGFlZDllMzNlODY2YzY2Y2FhMzcxNzg2MDYyMzRiMzcyMTA4NGJmMDFkMTMzMjBmYjJlYjNmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

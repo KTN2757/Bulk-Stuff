@@ -1,0 +1,9 @@
+{
+  "id" : "3ac9fc0aa527463c83a11e7057c23e04",
+  "name" : "HOKAGE07",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTk1MDc2MCwKICAicHJvZmlsZUlkIiA6ICIzYWM5ZmMwYWE1Mjc0NjNjODNhMTFlNzA1N2MyM2UwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIT0tBR0UwNyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZDU0YWNjMDg5OGM5ZTliNDkxMjQ5ODczMzJiMzBhOTJhYWNjZDA2NTZiOGExMWM5ZDIwZjM4NTIwMDcyNTVlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

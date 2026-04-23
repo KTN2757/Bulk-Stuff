@@ -1,0 +1,9 @@
+{
+  "id" : "ab848aa3f70d48ea971fb22be3594f34",
+  "name" : "25Lea05",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjAwMjEwMSwKICAicHJvZmlsZUlkIiA6ICJhYjg0OGFhM2Y3MGQ0OGVhOTcxZmIyMmJlMzU5NGYzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICIyNUxlYTA1IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5MTM5M2U3YzllODgwMDk5MzFjYThiZWMyNDZhMmViNzU5YWI3MzYxNDc5NGM4ZmFiYmY2ODA4ODVmOGU3M2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "65597e7ada264e5abbb5d9dba0670075",
+  "name" : "Xylene",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2MTg1Mzg1MywKICAicHJvZmlsZUlkIiA6ICI2NTU5N2U3YWRhMjY0ZTVhYmJiNWQ5ZGJhMDY3MDA3NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYeWxlbmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTdlMDIxNjNkNDY5NDYxZDE3N2RjOWU2ZmJlNTQ2YzE2NmY4NDE4YjhlOTkzNTI1YmYyMDU4MzIzYWRkMWExOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

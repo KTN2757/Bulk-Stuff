@@ -1,0 +1,9 @@
+{
+  "id" : "56265555d63c408885cac92ddb7955ab",
+  "name" : "KTN__",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkyMDMxNDEzOSwKICAicHJvZmlsZUlkIiA6ICI1NjI2NTU1NWQ2M2M0MDg4ODVjYWM5MmRkYjc5NTVhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLVE5fXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNjUxNjdhYzNiZTUyNGY2NWY3MzcyMjMwMzg1MjVkNDg2MzYyM2NjNjBjNDMxNTkyYTg2ZjUzNmZhZTk5NmE1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

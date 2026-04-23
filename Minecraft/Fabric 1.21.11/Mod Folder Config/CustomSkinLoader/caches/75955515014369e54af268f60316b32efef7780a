@@ -1,0 +1,9 @@
+{
+  "id" : "dfaeed7b056c4a8b8a2d0fd0e022e946",
+  "name" : "elpatron",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NjkyMDg0NiwKICAicHJvZmlsZUlkIiA6ICJkZmFlZWQ3YjA1NmM0YThiOGEyZDBmZDBlMDIyZTk0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbHBhdHJvbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

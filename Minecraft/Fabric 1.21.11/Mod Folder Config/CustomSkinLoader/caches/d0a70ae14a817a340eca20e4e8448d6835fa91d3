@@ -1,0 +1,9 @@
+{
+  "id" : "12bfcc8547dd44aebd21e6a07d9bb3ad",
+  "name" : "Flankee",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODIzNjAwMiwKICAicHJvZmlsZUlkIiA6ICIxMmJmY2M4NTQ3ZGQ0NGFlYmQyMWU2YTA3ZDliYjNhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGbGFua2VlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NmMmEzYjBiMDE5YjQyNDY5ODBkN2IxOTk4MDkzOGQwYTJhZjQ0NmRiYWY1YmZlY2Q5MjRhYmE4N2VkM2E1OWMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

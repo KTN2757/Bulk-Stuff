@@ -1,0 +1,9 @@
+{
+  "id" : "6d402d836c484efa8ca7c48d5312fdf8",
+  "name" : "IgnKing",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5NzMxMjEwOSwKICAicHJvZmlsZUlkIiA6ICI2ZDQwMmQ4MzZjNDg0ZWZhOGNhN2M0OGQ1MzEyZmRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJZ25LaW5nIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiOTdmYTFkZmE5YzBjNTJjNmI4YzlmNjM1Yzg3OTllMmZkNjI5MWYxYTE4YjEyYzVhNDg2M2U1ZjhjMTNjMjkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

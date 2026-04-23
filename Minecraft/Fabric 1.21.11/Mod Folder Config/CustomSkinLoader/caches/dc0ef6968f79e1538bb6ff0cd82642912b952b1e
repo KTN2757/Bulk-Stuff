@@ -1,0 +1,9 @@
+{
+  "id" : "2576cb8a3298404a8f392f7bc36e3b98",
+  "name" : "Beam",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjA0OTEzNiwKICAicHJvZmlsZUlkIiA6ICIyNTc2Y2I4YTMyOTg0MDRhOGYzOTJmN2JjMzZlM2I5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWFtIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwYWU4OGJiMjlmOGZmZGYwOTEwMTM5MzBjMGQxMmQ3YTgwODQ0YmM5OGNhZWZlYzgzOWE1MmQxYmM0ODA2NjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

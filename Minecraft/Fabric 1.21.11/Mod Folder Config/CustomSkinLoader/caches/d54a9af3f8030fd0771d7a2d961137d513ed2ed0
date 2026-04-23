@@ -1,0 +1,9 @@
+{
+  "id" : "b82db6873b484c8c9ae307abd26ebfbf",
+  "name" : "Wifiess",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTk2ODA5NywKICAicHJvZmlsZUlkIiA6ICJiODJkYjY4NzNiNDg0YzhjOWFlMzA3YWJkMjZlYmZiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXaWZpZXNzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1ZTEzMGYyODg0Y2M1OTc5MDExZmMxMmUyYTNkZDkyZTJiNDdiNTM3NDk0OGRkMjcxMzYyZjNiNTQ5NWE3YTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

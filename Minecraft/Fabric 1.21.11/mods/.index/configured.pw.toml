@@ -1,0 +1,17 @@
+filename = 'Configured-mc1.21.11-v1.9.5.jar'
+name = 'Configured'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.9.5mc1.21.11'
+
+[download]
+hash = 'c4a82d67f8c8c2cb2dd81710e804d3f48571068c63da851d57b971e493a9175557bf3971d95675c35a5814330f71639577478c8352bc641dcc0f440c405f3581'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HlpEBg3R/versions/6yxIRzZ6/Configured-mc1.21.11-v1.9.5.jar'
+
+[update.modrinth]
+mod-id = 'HlpEBg3R'
+version = '6yxIRzZ6'

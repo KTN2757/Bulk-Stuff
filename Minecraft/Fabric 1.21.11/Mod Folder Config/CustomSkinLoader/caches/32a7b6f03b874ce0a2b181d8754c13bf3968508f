@@ -1,0 +1,9 @@
+{
+  "id" : "ce5c303b7e5d4e878a36f7d507c0352b",
+  "name" : "GuWei",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTMyMzU4NSwKICAicHJvZmlsZUlkIiA6ICJjZTVjMzAzYjdlNWQ0ZTg3OGEzNmY3ZDUwN2MwMzUyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdVdlaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

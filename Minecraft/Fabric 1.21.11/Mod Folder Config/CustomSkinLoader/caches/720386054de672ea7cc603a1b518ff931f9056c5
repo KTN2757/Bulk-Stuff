@@ -1,0 +1,9 @@
+{
+  "id" : "6c613e5f8fd2409cad85d51ff2d0fecf",
+  "name" : "DeathVorteX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTkyMDI1MCwKICAicHJvZmlsZUlkIiA6ICI2YzYxM2U1ZjhmZDI0MDljYWQ4NWQ1MWZmMmQwZmVjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWF0aFZvcnRlWCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNhMGU1MDhlNDAyYWJhNDdlMTYwYTAxYWI3Yzk1N2JjNTQ3ZDQ1NjkwZjZiMTdjMzg5MGM5NDMyYTkwYWFmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

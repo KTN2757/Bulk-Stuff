@@ -1,0 +1,9 @@
+{
+  "id" : "6909f37aab934d74ad0b954a0acfb2af",
+  "name" : "Fireyknight",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxNzY2MjUwNCwKICAicHJvZmlsZUlkIiA6ICI2OTA5ZjM3YWFiOTM0ZDc0YWQwYjk1NGEwYWNmYjJhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJleWtuaWdodCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjQ3ODViYjY4MmYwNDU5YjU1MjJiYTFlNTEzNzdlZjZhZjg1MzMxYTkyZWE4MzFiYzU5ZTdhODE2MmY1ZDVmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "20b2dfc2d7bc4869bf4b5ef88901b5a3",
+  "name" : "lugiadz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjExMzM1NCwKICAicHJvZmlsZUlkIiA6ICIyMGIyZGZjMmQ3YmM0ODY5YmY0YjVlZjg4OTAxYjVhMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdWdpYWR6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2M2JhYmMyMzY4Njc0OGVkOWU4OWUzMzI3NThlNDE3ZWE0NTE4ZWI1ZDRmMmRlZWMzNzY0Y2JmZDlhM2MxZTQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

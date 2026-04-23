@@ -1,0 +1,9 @@
+{
+  "id" : "1c55ae7dff3e409eafb6e099ed9b7f57",
+  "name" : "AquaWarden",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NjQ3MDk1MiwKICAicHJvZmlsZUlkIiA6ICIxYzU1YWU3ZGZmM2U0MDllYWZiNmUwOTllZDliN2Y1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcXVhV2FyZGVuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhMDFhMzFiNDBlZjg5NGQzNWZiMjgzY2U5OWU1ZjAyM2E0ZjYyNDUzOTVhOWU2MDM5ZGY0ZWJlMWYwYmJkNjkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

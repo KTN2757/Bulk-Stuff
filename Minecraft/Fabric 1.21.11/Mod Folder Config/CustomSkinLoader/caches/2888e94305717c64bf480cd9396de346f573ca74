@@ -1,0 +1,9 @@
+{
+  "id" : "96d3a308fe1a450e9c965f1cd58b1a38",
+  "name" : "XD_pLays",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjgxNTc2OSwKICAicHJvZmlsZUlkIiA6ICI5NmQzYTMwOGZlMWE0NTBlOWM5NjVmMWNkNThiMWEzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJYRF9wTGF5cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNzM5MzE5OWE4NGViOWU5MzJlZmE4ZGRhNjgyOTQyMzg3NWViNjVhZjc2Y2I4MjkxMmFkZTYyZjkzOTk2YjljIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

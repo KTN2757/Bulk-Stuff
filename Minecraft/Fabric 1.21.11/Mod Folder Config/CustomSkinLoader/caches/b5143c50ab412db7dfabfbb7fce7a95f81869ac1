@@ -1,0 +1,9 @@
+{
+  "id" : "1c35ea13a3b14e1eadbea3e69440a759",
+  "name" : "Cryptic07",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NTQxNDAwNywKICAicHJvZmlsZUlkIiA6ICIxYzM1ZWExM2EzYjE0ZTFlYWRiZWEzZTY5NDQwYTc1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljMDciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFjYzNkOGFkODBhN2FjYzg1ZGU3NjFmNDVjNjMyYTI1Nzk0MzE5ZmUxNWRjY2ExODBiNzI1MWZkMWNjYTBiMCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

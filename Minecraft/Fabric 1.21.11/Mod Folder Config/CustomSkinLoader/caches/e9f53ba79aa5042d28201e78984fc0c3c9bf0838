@@ -1,0 +1,9 @@
+{
+  "id" : "eba1c64f0d3e48bdbff3c01fc17dbba8",
+  "name" : "Hell_Slayer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzIxNDA0OCwKICAicHJvZmlsZUlkIiA6ICJlYmExYzY0ZjBkM2U0OGJkYmZmM2MwMWZjMTdkYmJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZWxsX1NsYXllciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMGUxOGJiMTcwNDM5NTFmY2Y3Y2YxMDNhNTQ5NzM0Y2ViYjU2NmIzNzVjNGQzYjBlZWNkNzEyZmY0MjU0MTNhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

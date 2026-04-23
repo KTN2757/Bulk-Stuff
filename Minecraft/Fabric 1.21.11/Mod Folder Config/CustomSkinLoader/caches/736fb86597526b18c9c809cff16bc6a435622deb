@@ -1,0 +1,9 @@
+{
+  "id" : "3c6d8db5fbef427981464fd563ae3b2b",
+  "name" : "XeroShatter",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3NjUwNDc2NywKICAicHJvZmlsZUlkIiA6ICIzYzZkOGRiNWZiZWY0Mjc5ODE0NjRmZDU2M2FlM2IyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZXJvU2hhdHRlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOGRiMmVhODE1YmYxOGVjODUwMzYzYmI2OGI4MjlmMGEyM2VjNjgzYzE4MjQwNDNiYWRmMDM5MjU4YTI3YmUxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

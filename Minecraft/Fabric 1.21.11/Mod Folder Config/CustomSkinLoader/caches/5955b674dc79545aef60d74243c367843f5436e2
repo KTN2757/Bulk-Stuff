@@ -1,0 +1,9 @@
+{
+  "id" : "3669f603060348ea945dcb9ef91702e1",
+  "name" : "Balistic",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM2OTUzNTgzMywKICAicHJvZmlsZUlkIiA6ICIzNjY5ZjYwMzA2MDM0OGVhOTQ1ZGNiOWVmOTE3MDJlMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYWxpc3RpYyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMmQ2NmMxMzdlYjAwYjQ4OWI4NmU0ZGQ2OTIxZmY4YWNhNTE5ZGYwYjJlNDJhZWNiOTRkN2RmMzgxNTk4MjVmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "6db3e1e9b7e8472d851d06ea92fa6f95",
+  "name" : "NotShone",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3OTIxMTM3NywKICAicHJvZmlsZUlkIiA6ICI2ZGIzZTFlOWI3ZTg0NzJkODUxZDA2ZWE5MmZhNmY5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RTaG9uZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZGE3MmZiODhmYTRmYjg0ZDRkYWZkZjBmMjYzYWU0YTFlNTg1NDBmNGY3Y2VhOWU5ZDVjYjY1NTAyNjI0MTljIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

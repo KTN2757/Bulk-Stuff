@@ -1,0 +1,9 @@
+{
+  "id" : "8bf0faf338f0499a80686dbcb818d207",
+  "name" : "zzir_rizz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjAwNjIzOCwKICAicHJvZmlsZUlkIiA6ICI4YmYwZmFmMzM4ZjA0OTlhODA2ODZkYmNiODE4ZDIwNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6emlyX3JpenoiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVmZmYyNWQ2NjcyMDZmMmU0NmQ0NDJjZjM1OGIzZjFlYzM2MTM4MzkxNzUxYmE2ZWRmOTY1ZmZjODNiODYwMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "0f6e613fbbe34cc1908cbcb8123a7772",
+  "name" : "mitskipower",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODg4MDU2NywKICAicHJvZmlsZUlkIiA6ICIwZjZlNjEzZmJiZTM0Y2MxOTA4Y2JjYjgxMjNhNzc3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtaXRza2lwb3dlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZTFiN2ZiMmU4NGJjYTU4NTlhMzRjMjQ1YWRhY2YxNGQ4ZTg1MzZjZTI2YTEwNmNmZmI1YjdhZTZkM2IxOTgwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

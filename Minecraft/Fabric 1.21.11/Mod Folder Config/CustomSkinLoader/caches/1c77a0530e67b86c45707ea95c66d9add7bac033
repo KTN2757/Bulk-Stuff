@@ -1,0 +1,9 @@
+{
+  "id" : "bdf11a0e657e4d3593209efeb4931ee0",
+  "name" : "XaneX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODIzODgzNywKICAicHJvZmlsZUlkIiA6ICJiZGYxMWEwZTY1N2U0ZDM1OTMyMDllZmViNDkzMWVlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJYYW5lWCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YTNkYzBiOGNjMjE4MGM1ZWJlN2U3ZmU3MTUyZGJhMDBjNzYwMDA5OGZhZDI5OTk4YmZmNzJmZTBkNmJjZmFlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "20e425a201814874b1dbb2543d0fbdff",
+  "name" : "Potato_Dealer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3NDU0Mjk5NCwKICAicHJvZmlsZUlkIiA6ICIyMGU0MjVhMjAxODE0ODc0YjFkYmIyNTQzZDBmYmRmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb3RhdG9fRGVhbGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IwNTI0M2FhOGZmOTc2NjYxODI5YzczMDFjMGQwNzU3YjNkMzA5MWE5YTZiMzYyMzUxODQ3YTQ2NDMyZmZkNDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

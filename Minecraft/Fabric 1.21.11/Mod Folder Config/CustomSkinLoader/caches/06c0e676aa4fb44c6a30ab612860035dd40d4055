@@ -1,0 +1,9 @@
+{
+  "id" : "569653c061364602b9614dfded060d5e",
+  "name" : "angel_boy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjE2NzEyMSwKICAicHJvZmlsZUlkIiA6ICI1Njk2NTNjMDYxMzY0NjAyYjk2MTRkZmRlZDA2MGQ1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbmdlbF9ib3kiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmFlMTQxYTNjZTlhYTE3YTA0MzBjMGRjMThiMGI2OGY2ZTZkNWYzYTk3MGRmNzMxNTFmMTg1NDQwMDdiNzI5NyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

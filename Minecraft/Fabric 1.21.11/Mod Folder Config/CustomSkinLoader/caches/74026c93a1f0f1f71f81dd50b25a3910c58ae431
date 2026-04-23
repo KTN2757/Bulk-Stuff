@@ -1,0 +1,9 @@
+{
+  "id" : "74a7663b96824883a90022d4d2e2c8fc",
+  "name" : "Valiance",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTA3NjAyMTk1NywKICAicHJvZmlsZUlkIiA6ICI3NGE3NjYzYjk2ODI0ODgzYTkwMDIyZDRkMmUyYzhmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWYWxpYW5jZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

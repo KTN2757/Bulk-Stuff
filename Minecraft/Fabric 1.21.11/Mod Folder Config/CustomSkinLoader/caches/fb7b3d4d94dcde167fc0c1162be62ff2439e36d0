@@ -1,0 +1,9 @@
+{
+  "id" : "4d041ec317f8486494a432f8fc53e9b9",
+  "name" : "BetterLazy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcyMzY0NiwKICAicHJvZmlsZUlkIiA6ICI0ZDA0MWVjMzE3Zjg0ODY0OTRhNDMyZjhmYzUzZTliOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZXR0ZXJMYXp5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1YzI5MWUwMTU5ZDdjYzFlMDgyNzhlYWVjZjFjZjU0MmU3YTBiYjY3ODIzMDMyMWM0YjE4ODE0MzNhOGY4N2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "cc8faa3f33844df6bf3547054dd85adf",
+  "name" : "Duyle",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxNzgzNSwKICAicHJvZmlsZUlkIiA6ICJjYzhmYWEzZjMzODQ0ZGY2YmYzNTQ3MDU0ZGQ4NWFkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEdXlsZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MjIyZjEyN2UxZDIxMGVhZjExMDFhZmJkZjIwOGM1ODdmMWVhNjNiZjA5NTk5NDRhNDg0MzdjNzBjNTgzYTQ4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

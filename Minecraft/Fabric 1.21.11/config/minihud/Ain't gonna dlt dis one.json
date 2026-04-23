@@ -1,0 +1,10 @@
+{
+  "renderers": {
+    "slime_chunks": {
+      "y_top": 70.0
+    }
+  },
+  "hud_data": {
+    "seed": -3696924058870185357
+  }
+}

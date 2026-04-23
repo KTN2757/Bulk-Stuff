@@ -1,0 +1,9 @@
+{
+  "id" : "f7199c4b435a4c718caed38a47142ad1",
+  "name" : "Lifesteal",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxODkyNDY2NSwKICAicHJvZmlsZUlkIiA6ICJmNzE5OWM0YjQzNWE0YzcxOGNhZWQzOGE0NzE0MmFkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWZlc3RlYWwiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTYyOTZiMDkyZDhjNzU5N2FmODhhNzJmZDAyZDNhMThkZTBiMjQyNzg0MmUyY2Y0MjNjNDhiZjI5YWQ5NDczMiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

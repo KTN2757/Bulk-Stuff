@@ -1,0 +1,9 @@
+{
+  "id" : "b630a123e9434a0486cdb952ab64a452",
+  "name" : "Sharmanite",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTg3NTUwNSwKICAicHJvZmlsZUlkIiA6ICJiNjMwYTEyM2U5NDM0YTA0ODZjZGI5NTJhYjY0YTQ1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGFybWFuaXRlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ4MjU4ZTVjNGZjOTRhYTM2MmQwMmYxNjFkMWNlZTVjYzJhMjdmNjk0OWVhZTQxNmRlODYzMzE5ZmY0MzgwMDIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "09cccb4708994712b5e766fc83dc8513",
+  "name" : "Jonald",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDk5NjI5MTg2NCwKICAicHJvZmlsZUlkIiA6ICIwOWNjY2I0NzA4OTk0NzEyYjVlNzY2ZmM4M2RjODUxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb25hbGQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAyYWI2OWJiNTYxNzQwZjYxNWFhYmIyNjVhN2MzNzUxOGFlN2FhZTBhOWI5OGU0MTMyNzY4YTEwNzZkZGIwMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

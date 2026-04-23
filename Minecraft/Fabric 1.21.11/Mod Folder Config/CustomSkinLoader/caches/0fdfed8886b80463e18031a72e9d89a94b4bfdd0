@@ -1,0 +1,9 @@
+{
+  "id" : "4aeee045e12547bc922771feb7703de4",
+  "name" : "Limana",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODI1OTUzMywKICAicHJvZmlsZUlkIiA6ICI0YWVlZTA0NWUxMjU0N2JjOTIyNzcxZmViNzcwM2RlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaW1hbmEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU0ZTNkYmIxNjY2OTgzOWRmNGM2NWM0MWNjOWQ4MjA4NTZmYWEwZjIzNzEyNDUwYzExMDZmYTJlMWYyNjE3YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "293bdffc89364a24b9f27c921e81033e",
+  "name" : "jida",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxOTAyOTk0NiwKICAicHJvZmlsZUlkIiA6ICIyOTNiZGZmYzg5MzY0YTI0YjlmMjdjOTIxZTgxMDMzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJqaWRhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzZTA2ZTJmM2MzNWUyNzUyYWMyYzM2N2VkYzY2MWQwMGE3MDUyZWE3ZDYxMWQ0ZTI1MTczMDMzNzQxZmI4YTQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

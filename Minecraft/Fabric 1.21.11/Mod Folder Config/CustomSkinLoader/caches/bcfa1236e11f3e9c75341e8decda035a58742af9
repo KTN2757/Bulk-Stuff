@@ -1,0 +1,9 @@
+{
+  "id" : "342fec87273c4f2ca77c3a6a5be8d05e",
+  "name" : "Sigmaboi123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNzQ3Nzc4MiwKICAicHJvZmlsZUlkIiA6ICIzNDJmZWM4NzI3M2M0ZjJjYTc3YzNhNmE1YmU4ZDA1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaWdtYWJvaTEyMyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lM2I4M2NlNjA3ZDc3N2YyYTAxM2ZhZWQ2ZDExNDhmZGJkMGQ4M2JiYmYyNTU3ZmY1Y2EwMGE2YmZkNjI4MzI4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

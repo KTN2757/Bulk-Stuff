@@ -1,0 +1,9 @@
+{
+  "id" : "fa7ea941c60a47e1b1b0fb2814f7d4d6",
+  "name" : "Zangief",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTE3NTU4NywKICAicHJvZmlsZUlkIiA6ICJmYTdlYTk0MWM2MGE0N2UxYjFiMGZiMjgxNGY3ZDRkNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYW5naWVmIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwNzY3ODk5OTBjYmFmYmZiMTkyODlkYWI0ZjAwOTNmYzgyZDNhNzMyYWY2ZmUxZDQyM2MyMzgzYjFhZWQyYTIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

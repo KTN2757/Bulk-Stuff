@@ -1,0 +1,9 @@
+{
+  "id" : "23936dff802a4e1093edf9c3649e2b8c",
+  "name" : "EXEmental12",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTc4ODQzMSwKICAicHJvZmlsZUlkIiA6ICIyMzkzNmRmZjgwMmE0ZTEwOTNlZGY5YzM2NDllMmI4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFWEVtZW50YWwxMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMDE2NzVmYjNhNjdmYmQ1M2Y3YTRjOWEyYjgyYWQxMjM5MmE1MWY2OGQ2NDhmYzc3ZGU0MGVmZTQ0ZDc2NzU0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

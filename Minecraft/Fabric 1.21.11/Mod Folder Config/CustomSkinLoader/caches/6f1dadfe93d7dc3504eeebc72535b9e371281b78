@@ -1,0 +1,9 @@
+{
+  "id" : "9642fbb8b99342d1804c387ba70c1516",
+  "name" : "KazuKira06",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3Nzg4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI5NjQyZmJiOGI5OTM0MmQxODA0YzM4N2JhNzBjMTUxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYXp1S2lyYTA2IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y0NmU0YTFkZDA2YmI5NjM0OTE2ZTc3YmVmNGQzZWNjZTJjMzY3N2JkMDZmYjg0MGM1ZWM1MzZiMWE5YmUyMjEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

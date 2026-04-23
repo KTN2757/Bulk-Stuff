@@ -1,0 +1,9 @@
+{
+  "id" : "d36d835fe7074d43828614ed7c325ac2",
+  "name" : "SkyBlock",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTY5MzUyNiwKICAicHJvZmlsZUlkIiA6ICJkMzZkODM1ZmU3MDc0ZDQzODI4NjE0ZWQ3YzMyNWFjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lCbG9jayIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI2MTJkOTAzMmIzZWVmMjNhM2NiZGViYjIyNjE5ZDg1ZGNmNWZlNjNjMDBkMDc0YzQxZjdlNWUzOTk5Y2Q1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

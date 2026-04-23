@@ -1,0 +1,9 @@
+{
+  "id" : "f85a2642d512407987ff616929b41827",
+  "name" : "anonymous_player",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2MzQyOTA1NiwKICAicHJvZmlsZUlkIiA6ICJmODVhMjY0MmQ1MTI0MDc5ODdmZjYxNjkyOWI0MTgyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbm9ueW1vdXNfcGxheWVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhZjNkODhjY2IzOGYxMWY3NDgxNGU5MjA1M2Q5MmY3NzI4ZGRiMWE3OTU1NjUyYTYwZTMwY2IyN2FlNjY1OWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

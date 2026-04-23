@@ -1,0 +1,9 @@
+{
+  "id" : "8ccd86f9e6aa466dafa64cab8a6f7dad",
+  "name" : "Spinosaurus10",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4NDIyOTU3NCwKICAicHJvZmlsZUlkIiA6ICI4Y2NkODZmOWU2YWE0NjZkYWZhNjRjYWI4YTZmN2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGlub3NhdXJ1czEwIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4ODBjOTRjYjM4OTVhMmMwNWFlOWNjNzMyZTE4YTViZjhhOGUxN2ZlNGYyZDVmYmEzNDY4Mjc5ZjZlNDI5MTkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

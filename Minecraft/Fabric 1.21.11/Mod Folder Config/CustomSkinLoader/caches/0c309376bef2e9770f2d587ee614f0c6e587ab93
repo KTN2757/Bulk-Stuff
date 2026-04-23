@@ -1,0 +1,9 @@
+{
+  "id" : "d50529957cfe44df925b12969f2300ab",
+  "name" : "auralex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjEyMTEzNSwKICAicHJvZmlsZUlkIiA6ICJkNTA1Mjk5NTdjZmU0NGRmOTI1YjEyOTY5ZjIzMDBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdXJhbGV4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3ZmQxZTQ1MjI2NWE5YTcwN2Q4ZTU3MDA4Njk4ZmVkYTc5MDVmZTFjYTcxODg1NGQwMGMxYzkyZWM5ZTg0NmYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

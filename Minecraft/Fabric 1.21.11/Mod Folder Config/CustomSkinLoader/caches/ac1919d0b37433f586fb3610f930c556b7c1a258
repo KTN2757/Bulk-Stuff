@@ -1,0 +1,9 @@
+{
+  "id" : "54a247d317054762af3c5827ac51a11b",
+  "name" : "Trex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3Njk3MDE0MSwKICAicHJvZmlsZUlkIiA6ICI1NGEyNDdkMzE3MDU0NzYyYWYzYzU4MjdhYzUxYTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUcmV4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzllMWI5ZjQ4ODJmMDhmZTAyYzc3ZGY3OTc1MGU3ZmI2OGQ4YzYzNzVlN2M2ZmQ5NTZjMDJkOWZjYmU3YTYwYzAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

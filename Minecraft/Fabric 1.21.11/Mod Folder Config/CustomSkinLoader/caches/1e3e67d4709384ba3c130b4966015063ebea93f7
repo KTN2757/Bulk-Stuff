@@ -1,0 +1,9 @@
+{
+  "id" : "96f6d025758949ee9d94dfd28d3128ad",
+  "name" : "Ragequitter",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjIzMzIxOCwKICAicHJvZmlsZUlkIiA6ICI5NmY2ZDAyNTc1ODk0OWVlOWQ5NGRmZDI4ZDMxMjhhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYWdlcXVpdHRlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTE5ZTA1M2I5Nzg4NzZhZjM1ZTc4MjJlMTQyMTMxNzAxNmI5N2Q5MzAxZmM5MDZjNDlmNDNlNWRkMmU1MTQ2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

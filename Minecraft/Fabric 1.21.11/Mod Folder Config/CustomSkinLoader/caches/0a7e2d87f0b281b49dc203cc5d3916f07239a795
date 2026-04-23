@@ -1,0 +1,9 @@
+{
+  "id" : "b4186318f8dc4e04886c58144b7dbd19",
+  "name" : "parkour",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTcwNzQ3MywKICAicHJvZmlsZUlkIiA6ICJiNDE4NjMxOGY4ZGM0ZTA0ODg2YzU4MTQ0YjdkYmQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJwYXJrb3VyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1MGNkZjU4ZGM2NGI0YzQ2ZmIzYTJjM2EyOGNhMzAyMWJlMjU5YmJjYjFmMTg0ZTc0ZWJjYWZiNGJjYTc3MDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

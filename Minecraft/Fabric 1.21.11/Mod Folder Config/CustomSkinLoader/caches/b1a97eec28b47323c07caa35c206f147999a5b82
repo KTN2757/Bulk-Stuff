@@ -1,0 +1,9 @@
+{
+  "id" : "7da61e79fba24ac89debb513b9a201fe",
+  "name" : "_DKS",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3Njc4NDIyMywKICAicHJvZmlsZUlkIiA6ICI3ZGE2MWU3OWZiYTI0YWM4OWRlYmI1MTNiOWEyMDFmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfREtTIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiNWUyMWMxYTVlNTg4YzBjOGMzZWE1NGEzODBkZjVlY2NjN2ZlZWNlMWRjYmE2MjYyMzk2MGMyMGY4MGYzMTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

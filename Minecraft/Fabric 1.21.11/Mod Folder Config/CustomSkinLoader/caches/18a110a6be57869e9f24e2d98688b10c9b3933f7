@@ -1,0 +1,9 @@
+{
+  "id" : "797e1bf00f2341599e823de6e0d25370",
+  "name" : "Kattappa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwOTE4MjY4MiwKICAicHJvZmlsZUlkIiA6ICI3OTdlMWJmMDBmMjM0MTU5OWU4MjNkZTZlMGQyNTM3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYXR0YXBwYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hN2I4YWNmNDkzODQ3YjEzMTJjYzMzNjhkZTZhM2I2MmFjN2QwYjEwMmM0NzFjNWMzNTk2MmRlNDU0YTM3ZTY3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "9bb6bd930b9747418500288397816b8c",
+  "name" : "wembbu",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTc1MjcyOTk4MCwKICAicHJvZmlsZUlkIiA6ICI5YmI2YmQ5MzBiOTc0NzQxODUwMDI4ODM5NzgxNmI4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3ZW1iYnUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDdhZmZjYTZmNjk0NWQzYTRjOGExNWIxMWM4YjNjZjRiMGRhZGI0MThiNTE5Yjg3ODVhMTQ0NjM2MTdkMjY5OSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

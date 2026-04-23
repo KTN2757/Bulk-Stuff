@@ -1,0 +1,9 @@
+{
+  "id" : "fbbfd1505ff944c188c9514443ed55de",
+  "name" : "stratt_pray",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODIyOTc2MSwKICAicHJvZmlsZUlkIiA6ICJmYmJmZDE1MDVmZjk0NGMxODhjOTUxNDQ0M2VkNTVkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzdHJhdHRfcHJheSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hN2Y3NTkwY2RiYjA0NDUzYmJlOWVmNWQ0NTE3ZGEwNGY0MDdiYzc3MjNmODZkOWFkNDU4ODRmNDVlOTc4MzViIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

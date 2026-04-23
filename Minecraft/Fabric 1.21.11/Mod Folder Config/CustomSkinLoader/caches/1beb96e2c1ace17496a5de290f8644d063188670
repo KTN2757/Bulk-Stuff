@@ -1,0 +1,9 @@
+{
+  "id" : "01022506f6654db394c1a5bcd1d76208",
+  "name" : "raoki",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE2Mjg3ODA4MSwKICAicHJvZmlsZUlkIiA6ICIwMTAyMjUwNmY2NjU0ZGIzOTRjMWE1YmNkMWQ3NjIwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYW9raSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hN2ZkYWZmN2U3YTZhNzA5YzhmZmFmMDBiMDE0MzVkNWZkNzNkZjcyZmJkNWE1NTVkM2E3NDg5ZWNhMzRmZDI3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

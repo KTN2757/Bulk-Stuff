@@ -1,0 +1,9 @@
+{
+  "id" : "8f49f4d618704661959e141923e6942c",
+  "name" : "Umbra_Knight",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxMTE1NywKICAicHJvZmlsZUlkIiA6ICI4ZjQ5ZjRkNjE4NzA0NjYxOTU5ZTE0MTkyM2U2OTQyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJVbWJyYV9LbmlnaHQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIyNzVhOTFlZjBmMzQ3MjZmMmQwYWU1NzU4OTIyNmExNzE3Zjk3ZTEwZGIzZmQxOGEyZWEzZGUzZDllNzllMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

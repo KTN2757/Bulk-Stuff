@@ -1,0 +1,9 @@
+{
+  "id" : "2ba4f919715b4708b9fe5638bc0c9a2e",
+  "name" : "Chachamara",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTQ4NTQwNiwKICAicHJvZmlsZUlkIiA6ICIyYmE0ZjkxOTcxNWI0NzA4YjlmZTU2MzhiYzBjOWEyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGFjaGFtYXJhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwZTk5NzU4ZDBiMDE1NTNiNzU3MjZhOWUwOTI5MzQ3NmFjOTY4ZjY0MTExYjBiODM4NjU4NjIzOWEyODI0ZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

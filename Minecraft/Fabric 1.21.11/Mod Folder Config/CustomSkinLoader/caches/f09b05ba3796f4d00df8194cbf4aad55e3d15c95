@@ -1,0 +1,9 @@
+{
+  "id" : "a34fc57d7110417482c8d104d53ab26d",
+  "name" : "MinatoMintY",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTk1MTM4OTc1NCwKICAicHJvZmlsZUlkIiA6ICJhMzRmYzU3ZDcxMTA0MTc0ODJjOGQxMDRkNTNhYjI2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5hdG9NaW50WSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NTVmZDlkYjlhOWMxYzMyY2I4ZDQwOWVjZTY4YjExNzZkMjYxZGIwMDdkMWIxOWJhZGJjNDMyNTQ3ZTFlZjUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

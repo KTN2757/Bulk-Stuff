@@ -1,0 +1,9 @@
+{
+  "id" : "1f01d0312cec4cdcacfb78da8d73212f",
+  "name" : "WhiteFang10",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MjA5NzA3MywKICAicHJvZmlsZUlkIiA6ICIxZjAxZDAzMTJjZWM0Y2RjYWNmYjc4ZGE4ZDczMjEyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXaGl0ZUZhbmcxMCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NjNmMzFkYWJjM2E1YjMyN2U3MTNkNmNiMTQ1MGE1ZjU2NjVkNTYzNjliNDRlY2Q5MWUxOTNmNjI4OGFhMTgzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

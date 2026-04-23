@@ -1,0 +1,9 @@
+{
+  "id" : "0460733c6b914b5ba24da787bcabeee3",
+  "name" : "PinkStainedGlass",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg2NzMwMSwKICAicHJvZmlsZUlkIiA6ICIwNDYwNzMzYzZiOTE0YjViYTI0ZGE3ODdiY2FiZWVlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaW5rU3RhaW5lZEdsYXNzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5ZmZkMjNhY2M4N2Y2MDY0MGI0ODBhYjQ5Yjk5OTcxMDAxMmRiNTAwYzNiYzkxYzhlZWYzZTQxYWNiNjE0ODMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

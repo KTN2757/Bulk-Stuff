@@ -1,0 +1,9 @@
+{
+  "id" : "2053782274f14d099d5c6614f00b976d",
+  "name" : "codeey",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODEwMjM1OSwKICAicHJvZmlsZUlkIiA6ICIyMDUzNzgyMjc0ZjE0ZDA5OWQ1YzY2MTRmMDBiOTc2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2RlZXkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM4MTU2YTE0YjQzZDYzMTgwZTZmNjllNjkxZjRkNTQyMzVmNDM4NTY2Y2FkOGQyYjUzZGYwNTQyYWU0M2ExZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

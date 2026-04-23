@@ -1,0 +1,9 @@
+{
+  "id" : "64408cff2417487da484b94bdab526dc",
+  "name" : "remembermE",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4MjYxMTg1NCwKICAicHJvZmlsZUlkIiA6ICI2NDQwOGNmZjI0MTc0ODdkYTQ4NGI5NGJkYWI1MjZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJyZW1lbWJlcm1FIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxNjRhN2RmOWM2M2E5OGIzMDY4MGQ4NWQzMWFkNDY5ZWEwYjgwMTU3NjkwY2I3OTg2ZDllNTQ0MzIzNmUyNGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

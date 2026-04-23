@@ -1,0 +1,9 @@
+{
+  "id" : "39d82453818446bdb5fa4609e288dc6f",
+  "name" : "SAIIIII",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjAxOTA4MywKICAicHJvZmlsZUlkIiA6ICIzOWQ4MjQ1MzgxODQ0NmJkYjVmYTQ2MDllMjg4ZGM2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTQUlJSUlJIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzYTcyNGQ3ZTFiN2QxMDgyYzRmZjJiOTcxNGIzNjBiMzIyMDk2Y2UxNDA4M2ZiNWMyOGVhYjQ1ODc1Yjk4MjQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

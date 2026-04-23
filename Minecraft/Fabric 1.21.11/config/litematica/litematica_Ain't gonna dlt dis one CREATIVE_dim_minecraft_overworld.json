@@ -1,0 +1,127 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/mnt/Bulk Drive/Minecraft/UltimMC(Linux)/instances/Fabric 1.21.10/.minecraft/schematics/Iron Farm wattles.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -284,
+          102,
+          283
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "hash_code": "f18e16a7-75ff-43f0-913a-0a82d28c7632",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                12,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/mnt/Bulk Drive/Minecraft/UltimMC(Linux)/instances/Fabric 1.21.10/.minecraft/schematics/Iron Farm Wattles.litematic",
+        "name": "Iron Farm Wattles",
+        "origin": [
+          -263,
+          95,
+          279
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "hash_code": "b161a937-98ae-4165-b070-225450368416",
+        "placements": [
+          {
+            "name": "Iron Farm Wattles",
+            "placement": {
+              "pos": [
+                12,
+                8,
+                0
+              ],
+              "name": "Iron Farm Wattles",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 166,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Iron Farm Wattles",
+    "current": "Iron Farm Wattles",
+    "boxes": [
+      {
+        "pos1": [
+          -241,
+          100,
+          240
+        ],
+        "pos2": [
+          -253,
+          92,
+          258
+        ],
+        "name": "Iron Farm Wattles"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

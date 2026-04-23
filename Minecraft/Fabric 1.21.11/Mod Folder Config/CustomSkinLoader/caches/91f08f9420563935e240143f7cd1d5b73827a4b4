@@ -1,0 +1,9 @@
+{
+  "id" : "9ca09888e08c4b97868b04b185b9aa1d",
+  "name" : "LimeStainedGlass",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg3MzkyNCwKICAicHJvZmlsZUlkIiA6ICI5Y2EwOTg4OGUwOGM0Yjk3ODY4YjA0YjE4NWI5YWExZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaW1lU3RhaW5lZEdsYXNzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxMjI2ZjE0NDIyYjI1Y2ZkYjA1YWI5YTNjYzVhNGRhN2I1M2U0MjU2NWZiMGFjMjA4MjRkMTgxYmNiY2NmOWMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

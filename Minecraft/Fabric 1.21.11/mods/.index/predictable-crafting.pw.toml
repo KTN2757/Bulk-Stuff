@@ -1,0 +1,17 @@
+filename = 'predictablecrafting-1.2_1.21.11.jar'
+name = 'Predictable Crafting'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = '31221e4636c4734048b1318caee49938994d1707154fc5f0e7bcd0eb144782dd6632e24edac1c72449bca2e366a24ec7a047ba6382fe4fd23f561d2064c0a3cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FrkqGaDE/versions/qS5GFBeS/predictablecrafting-1.2_1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'FrkqGaDE'
+version = 'qS5GFBeS'

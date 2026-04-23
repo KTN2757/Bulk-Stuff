@@ -1,0 +1,9 @@
+{
+  "id" : "fdaf75d253d14b1e8a626f736ee18d3a",
+  "name" : "DeathSpell_Id",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTkxMDg5NCwKICAicHJvZmlsZUlkIiA6ICJmZGFmNzVkMjUzZDE0YjFlOGE2MjZmNzM2ZWUxOGQzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWF0aFNwZWxsX0lkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2NzBlZTViN2Q0M2Q5YTI2YTQxYmQ0M2FkMTZlMTVhZjI3Njc1MzgxOGIwMTc2MjFhYzM5M2NhOTdiYzFiNWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

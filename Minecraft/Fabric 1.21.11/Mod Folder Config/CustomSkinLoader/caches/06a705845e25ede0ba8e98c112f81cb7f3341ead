@@ -1,0 +1,9 @@
+{
+  "id" : "4bf693a394f24f9a997184a0c29e58ea",
+  "name" : "Wassim1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkwODkyMzQ4MywKICAicHJvZmlsZUlkIiA6ICI0YmY2OTNhMzk0ZjI0ZjlhOTk3MTg0YTBjMjllNThlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYXNzaW0xIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2NmJjODBmMDAyYjEwMzcxZTJmYTIzZGU2ZjIzMGRkNWUyZjNhZmZjMmUxNTc4NmY2NWJjOWJlNGM2ZWI3MWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

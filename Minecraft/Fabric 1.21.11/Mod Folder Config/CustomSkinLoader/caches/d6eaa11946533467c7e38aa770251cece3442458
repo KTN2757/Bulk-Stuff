@@ -1,0 +1,9 @@
+{
+  "id" : "d501cfd80fa74df58d72c4403a4b7f2a",
+  "name" : "Blue_SolaR",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTc3ODM4MTg4MSwKICAicHJvZmlsZUlkIiA6ICJkNTAxY2ZkODBmYTc0ZGY1OGQ3MmM0NDAzYTRiN2YyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1NvbGFSIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNzEwN2Y5MjA1NzgzYjgyZGFhNWRkODczOGFjMDljNDMyNDdkMjJmYzVlODFlNDBiYTJhNDNmMTA0OTY2MzIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

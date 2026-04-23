@@ -1,0 +1,9 @@
+{
+  "id" : "4f9c01b354224e5c923265ace86fd7db",
+  "name" : "Santogg",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MDM3NDM4ODU5MywKICAicHJvZmlsZUlkIiA6ICI0ZjljMDFiMzU0MjI0ZTVjOTIzMjY1YWNlODZmZDdkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW50b2dnIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5YzYwOGJmMzNmMDVhZmI2MDJlMTBlNzBkODE1ZWVlYTE2ZjIyYmVkZGNjYjg2YWI2ZDM5MWZjNGY1MTU1ZDkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

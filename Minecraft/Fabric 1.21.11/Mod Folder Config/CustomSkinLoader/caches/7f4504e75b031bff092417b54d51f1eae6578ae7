@@ -1,0 +1,9 @@
+{
+  "id" : "c77d4da2d03e4e6f98fd0c645dad6f2f",
+  "name" : "Royal_Gaming_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5NzcyODk2MywKICAicHJvZmlsZUlkIiA6ICJjNzdkNGRhMmQwM2U0ZTZmOThmZDBjNjQ1ZGFkNmYyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb3lhbF9HYW1pbmdfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E1Y2I5YTNiNDY3YjJmZTM5MDU5YTAxZThmNDkzZjdmZjcxYmU5NjNkMzAwZTkwZDA5YmIwMGE0YTk0NjI1MmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

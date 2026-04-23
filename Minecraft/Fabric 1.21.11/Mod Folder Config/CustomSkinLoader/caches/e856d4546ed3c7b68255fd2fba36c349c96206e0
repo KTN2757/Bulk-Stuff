@@ -1,0 +1,9 @@
+{
+  "id" : "c7b1b120bba7410bbe90ad2a9d08300b",
+  "name" : "CrittedForAnsh",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NDQyOTk2MTg0MiwKICAicHJvZmlsZUlkIiA6ICJjN2IxYjEyMGJiYTc0MTBiYmU5MGFkMmE5ZDA4MzAwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcml0dGVkRm9yQW5zaCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MWU5NmE0YzIzYTk2MWRjZWQzNmY0OThiN2RhNmE4YzAyMmJjMWRlZDY1MTU3N2I5OGJiMTNmYjE0YTJmMDE2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

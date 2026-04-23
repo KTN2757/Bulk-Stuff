@@ -1,0 +1,9 @@
+{
+  "id" : "d5b1519985e94648a4eff9883b6395eb",
+  "name" : "Zues",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTg2OTAzNCwKICAicHJvZmlsZUlkIiA6ICJkNWIxNTE5OTg1ZTk0NjQ4YTRlZmY5ODgzYjYzOTVlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk1MGU0Y2YxZDMzMGVlY2IyNzIwZGIxMDFiYTQyM2I1NzRmZDUyNDY0ZGIxYzk0M2U4ZjRlNzZhZWY5NWU1ZDgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

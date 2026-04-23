@@ -1,0 +1,9 @@
+{
+  "id" : "e1fd8af53a414d29bb43cf96da03c812",
+  "name" : "lostmc",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTcxNTA3MywKICAicHJvZmlsZUlkIiA6ICJlMWZkOGFmNTNhNDE0ZDI5YmI0M2NmOTZkYTAzYzgxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb3N0bWMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJhMWJmZmE0NTllMTQ2ZjFiN2JlYjlmZWNiNTViNjgyNjJhY2NkOGQ4Y2U0YTA4ZWVlZDc0ZjE3ODhhNmMyNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

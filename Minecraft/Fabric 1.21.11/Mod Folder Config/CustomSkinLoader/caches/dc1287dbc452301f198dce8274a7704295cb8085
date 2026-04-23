@@ -1,0 +1,9 @@
+{
+  "id" : "20e7c907ce844541b15520885cfc414d",
+  "name" : "Bokuto",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNTk4NzY2NiwKICAicHJvZmlsZUlkIiA6ICIyMGU3YzkwN2NlODQ0NTQxYjE1NTIwODg1Y2ZjNDE0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2t1dG8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Y5ODRiMmEyYzc1NGJkZTkyZGE3N2M5ODEzYWY0MmE5NTJkMWJhM2M1YjVjNGViNDU3OWQwYmRiZmVhNzM1YiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

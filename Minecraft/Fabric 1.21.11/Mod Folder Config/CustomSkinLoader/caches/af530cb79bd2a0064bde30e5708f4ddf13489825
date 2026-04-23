@@ -1,0 +1,9 @@
+{
+  "id" : "f5de6db050ce42839d0ddbea30997c2a",
+  "name" : "VoidFrames",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3NTkxOTExNTk2MCwKICAicHJvZmlsZUlkIiA6ICJmNWRlNmRiMDUwY2U0MjgzOWQwZGRiZWEzMDk5N2MyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2lkRnJhbWVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0NDgyYWM3MDk2NWY2ZjhlY2E2NTZjMTk0YTgzOTBjNDkzNTZhZTNkYjk1MTVlMDc1ZTdmZDNhZjU2MDlmZjgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

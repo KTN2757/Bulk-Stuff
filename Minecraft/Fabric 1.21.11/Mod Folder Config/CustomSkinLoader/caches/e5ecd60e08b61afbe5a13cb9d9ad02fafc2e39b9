@@ -1,0 +1,9 @@
+{
+  "id" : "51b4ca237d374109b697e46cca6a4edc",
+  "name" : "d_dash",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjAzMjIzMywKICAicHJvZmlsZUlkIiA6ICI1MWI0Y2EyMzdkMzc0MTA5YjY5N2U0NmNjYTZhNGVkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJkX2Rhc2giLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzYwZDhkNWZlZjc0Yzc1ODM3ZGZlODhmYjE3M2U2YjMxZGIzOTlmY2JkNjAwZDQ5NzBiZGEyZjU1MDBhYTM3MCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

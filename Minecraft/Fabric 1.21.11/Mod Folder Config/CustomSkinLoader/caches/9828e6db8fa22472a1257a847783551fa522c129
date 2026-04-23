@@ -1,0 +1,9 @@
+{
+  "id" : "c0c3dab1b83a49a0a28c38e859015162",
+  "name" : "threedots",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MTQxNjgyNTA0NCwKICAicHJvZmlsZUlkIiA6ICJjMGMzZGFiMWI4M2E0OWEwYTI4YzM4ZTg1OTAxNTE2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aHJlZWRvdHMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VlMWZhOThlZTM4MTQxN2JmNGJjNjg4YzgzMDg0MzE2ZDJmOWVhYmM1YjM1ZWQ2N2QxNDg0Y2UzZDkzMmFhOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

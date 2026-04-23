@@ -1,0 +1,9 @@
+{
+  "id" : "7879b0dfee2a400db673bc8e027325ec",
+  "name" : "ichigo77",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTE1MTExMjcyNiwKICAicHJvZmlsZUlkIiA6ICI3ODc5YjBkZmVlMmE0MDBkYjY3M2JjOGUwMjczMjVlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJpY2hpZ283NyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MGU3NWNkNDI5YmE2MzMxY2QyMTBiOWJkMTkzOTk1MjdlZTNiYWI0NjdiNWE5ZjYxY2I4YTI3YjE3N2Y2Nzg5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

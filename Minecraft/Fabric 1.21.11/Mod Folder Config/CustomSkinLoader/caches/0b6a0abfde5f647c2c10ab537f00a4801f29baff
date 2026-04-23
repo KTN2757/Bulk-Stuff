@@ -1,0 +1,9 @@
+{
+  "id" : "77f5044cab0345c682aa13aa45d55820",
+  "name" : "CrafterMaster",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjI4MTMyMjE2MywKICAicHJvZmlsZUlkIiA6ICI3N2Y1MDQ0Y2FiMDM0NWM2ODJhYTEzYWE0NWQ1NTgyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmFmdGVyTWFzdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmMDkyODNiZDkzMjA1NGExMThjOGI4YjJlZDAzNDhjMmU2NTE2MmM2YWJkYThmMDYxOWU5MTk2MmIxZmY1ZTQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

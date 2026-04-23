@@ -1,0 +1,9 @@
+{
+  "id" : "869d56d2dbb3413499bb2675bc8221e3",
+  "name" : "Cintastic",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2ODI5ODQ3MzQ4NCwKICAicHJvZmlsZUlkIiA6ICI4NjlkNTZkMmRiYjM0MTM0OTliYjI2NzViYzgyMjFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW50YXN0aWMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNkOGZmY2NjMzg1ZWQyMzQ1ZjNjMDliYWQ3N2ZkNmM3ZjEwOThiMGMwOTAwYmY1YWFlMjUyZGEwNGVjNTg3MyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

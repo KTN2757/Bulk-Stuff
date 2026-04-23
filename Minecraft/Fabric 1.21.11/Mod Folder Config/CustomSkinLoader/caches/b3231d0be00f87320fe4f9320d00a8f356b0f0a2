@@ -1,0 +1,9 @@
+{
+  "id" : "218ee9351e494469b5778f73839fec27",
+  "name" : "Yokabii",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTMzMDgyOSwKICAicHJvZmlsZUlkIiA6ICIyMThlZTkzNTFlNDk0NDY5YjU3NzhmNzM4MzlmZWMyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJZb2thYmlpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1YjllNTM4NjM1M2E3YTM3NzQ3OGU0MWZjNDlkZmU0MjNiZDMzMTYzNzM5ODEwZmU0NWQzMDQ2ZmEyNzBjYzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

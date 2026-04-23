@@ -1,0 +1,9 @@
+{
+  "id" : "88001b1443eb439784c41bd6bfc5feeb",
+  "name" : "Deughong",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3MTY3NzY2MSwKICAicHJvZmlsZUlkIiA6ICI4ODAwMWIxNDQzZWI0Mzk3ODRjNDFiZDZiZmM1ZmVlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXVnaG9uZyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNzNkZWViNzA0ZjIzZmUzNTNlODAxNjBlNDU1ODFmNTA4NThiMTExMTNkMmQ5ZDM0OTAwNmU2YTBjZGFkNGE0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

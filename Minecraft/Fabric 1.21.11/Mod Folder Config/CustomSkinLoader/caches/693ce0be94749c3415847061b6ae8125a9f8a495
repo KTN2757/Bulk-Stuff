@@ -1,0 +1,9 @@
+{
+  "id" : "c8d32ba8c9a5409e96dfbb44c1ae64e4",
+  "name" : "Yuta_okkotsu_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzY3NTE3OTUyMywKICAicHJvZmlsZUlkIiA6ICJjOGQzMmJhOGM5YTU0MDllOTZkZmJiNDRjMWFlNjRlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdXRhX29ra290c3VfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1YzRlZTVjZTIwYWVkOWUzM2U4NjZjNjZjYWEzNzE3ODYwNjIzNGIzNzIxMDg0YmYwMWQxMzMyMGZiMmViM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

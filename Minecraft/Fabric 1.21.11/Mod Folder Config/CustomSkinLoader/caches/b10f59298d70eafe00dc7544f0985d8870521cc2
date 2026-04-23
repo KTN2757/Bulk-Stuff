@@ -1,0 +1,9 @@
+{
+  "id" : "357efe9ac35f4edaa52e2caf8bd4735f",
+  "name" : "tura_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MzczMDg4OTY5MiwKICAicHJvZmlsZUlkIiA6ICIzNTdlZmU5YWMzNWY0ZWRhYTUyZTJjYWY4YmQ0NzM1ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0dXJhXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZmJiZjU2YzEwYzcwOTM2NDAzMjA4ODA1Mzg5NjRjMmJjZjQ2NmI0OTQ2NWI0NWI1NmEwMTE2NzVhYWRkMTFlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

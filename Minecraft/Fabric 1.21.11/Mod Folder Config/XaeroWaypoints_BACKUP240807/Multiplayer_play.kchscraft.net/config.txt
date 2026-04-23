@@ -1,0 +1,18 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw0,1,-1
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$lobby:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$spawn:minecraft$overworld
+dimensionType:minecraft$essentials:minecraft$overworld
+dimensionType:minecraft$kchsarena:minecraft$overworld

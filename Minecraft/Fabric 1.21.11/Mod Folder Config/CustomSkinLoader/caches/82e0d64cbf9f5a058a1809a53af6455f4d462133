@@ -1,0 +1,9 @@
+{
+  "id" : "ca74e75491224b41879b77b84c4ea6da",
+  "name" : "MineX_t_3",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjUxODQ2NzcyMSwKICAicHJvZmlsZUlkIiA6ICJjYTc0ZTc1NDkxMjI0YjQxODc5Yjc3Yjg0YzRlYTZkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lWF90XzMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RhNTYyMTI4ZjNmYzc3MmNkNjM1MzMxMDUyNjY3OWM1NDliYTgyOGY5ZmU2Y2U5NGQzNmM1NTQ2NjcwMGEzNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

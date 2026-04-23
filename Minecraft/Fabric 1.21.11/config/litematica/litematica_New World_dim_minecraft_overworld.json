@@ -1,0 +1,44 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 70,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Swamp Slime Farm",
+    "current": "Swamp Slime Farm",
+    "boxes": [
+      {
+        "pos1": [
+          -1111,
+          196,
+          -1520
+        ],
+        "pos2": [
+          -1137,
+          62,
+          -1546
+        ],
+        "name": "Swamp Slime Farm"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

@@ -1,0 +1,4 @@
+All the planks
+blackstone, blackstone_top, chiseled_polished_blackstone
+stone
+cobblestone

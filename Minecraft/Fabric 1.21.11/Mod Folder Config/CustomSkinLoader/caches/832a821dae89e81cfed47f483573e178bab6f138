@@ -1,0 +1,9 @@
+{
+  "id" : "73b9ba9a07f843c4aad6cccd8e2bdcd8",
+  "name" : "Nikola",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3MjIwNjEzMDk4NSwKICAicHJvZmlsZUlkIiA6ICI3M2I5YmE5YTA3Zjg0M2M0YWFkNmNjY2Q4ZTJiZGNkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWtvbGEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY5NWExNjdhYzcyMTA3NjQxOTNjZTExYzBkNjBjZDQ5MzI1ZDQzYjQ3YzQ5YTFiYjI3MGJmZDdjNjJjZWFjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

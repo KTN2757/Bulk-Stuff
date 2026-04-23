@@ -1,0 +1,9 @@
+{
+  "id" : "552adafe187842a7939776c35f5c450c",
+  "name" : "Mr_egg67",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc2OTA4NDIyMjQ2MywKICAicHJvZmlsZUlkIiA6ICI1NTJhZGFmZTE4Nzg0MmE3OTM5Nzc2YzM1ZjVjNDUwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9lZ2c2NyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTdiNjI3YmZjYmZhODQyYTA1YWU5NzhiYzc3ODdjYTk3Y2FlZjE2ZDE3Y2FmOTllYWI1ZmU3YmQ5Nzc4Mzg1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}
