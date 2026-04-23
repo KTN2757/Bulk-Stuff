@@ -341,6 +341,18 @@
     },
     "done": true
   },
+  "gregtech:low_voltage/27_electric_blast_furnace": {
+    "criteria": {
+      "location": "2025-08-02 17:38:00 +0545"
+    },
+    "done": true
+  },
+  "gregtech:low_voltage/17_lv_pump": {
+    "criteria": {
+      "location": "2025-08-02 10:48:36 +0545"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-18 14:31:07 +0545"
@@ -452,6 +464,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2025-07-18 14:26:07 +0545"
+    },
+    "done": true
+  },
+  "gregtech:low_voltage/20_lv_conveyor": {
+    "criteria": {
+      "location": "2025-08-02 10:50:16 +0545"
     },
     "done": true
   },
@@ -917,6 +935,12 @@
     },
     "done": true
   },
+  "gregtech:low_voltage/23_lv_assembler": {
+    "criteria": {
+      "location": "2025-08-02 10:58:45 +0545"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-18 14:26:07 +0545"
@@ -1094,6 +1118,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-22 19:27:32 +0545"
+    },
+    "done": true
+  },
+  "gregtech:low_voltage/28_lv_energy_hatch": {
+    "criteria": {
+      "location": "2025-12-06 11:39:37 +0545"
     },
     "done": true
   },
@@ -1289,6 +1319,12 @@
     },
     "done": true
   },
+  "gregtech:medium_voltage/32_electric_drill": {
+    "criteria": {
+      "location": "2025-08-02 16:45:41 +0545"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-07-18 14:46:11 +0545"
@@ -1421,6 +1457,12 @@
     },
     "done": true
   },
+  "gregtech:low_voltage/22_lv_robot_arm": {
+    "criteria": {
+      "location": "2025-08-02 10:57:51 +0545"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-22 19:27:32 +0545"
@@ -1502,6 +1544,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2025-07-19 14:31:25 +0545"
+    },
+    "done": true
+  },
+  "gregtech:low_voltage/29_lv_battery_buffer": {
+    "criteria": {
+      "location": "2025-08-02 11:27:47 +0545"
     },
     "done": true
   },
